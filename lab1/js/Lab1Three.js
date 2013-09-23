@@ -26,36 +26,56 @@ function initThree(theCanvas) {
 function initGeometry() {
 
     //Create the materials that will be used by the different sides of our geometries
-    var materials = [];
-    materials[0] = new THREE.MeshBasicMaterial( { color: 0xff0000 } );
-    materials[1] = new THREE.MeshBasicMaterial( { color: 0xffff00 } );
-    materials[2] = new THREE.MeshBasicMaterial( { color: 0x00ff00 } );
-    materials[3] = new THREE.MeshBasicMaterial( { color: 0xff8888 } );
-    materials[4] = new THREE.MeshBasicMaterial( { color: 0xff00ff } );
-    materials[5] = new THREE.MeshBasicMaterial( { color: 0x0000ff } );
+    var materials_cube = [];
+    materials_cube[0] = new THREE.MeshBasicMaterial( { color: 0xff0000 } );
+    materials_cube[1] = new THREE.MeshBasicMaterial( { color: 0xffff00 } );
+    materials_cube[2] = new THREE.MeshBasicMaterial( { color: 0x00ff00 } );
+    materials_cube[3] = new THREE.MeshBasicMaterial( { color: 0xff8888 } );
+    materials_cube[4] = new THREE.MeshBasicMaterial( { color: 0xff00ff } );
+    materials_cube[5] = new THREE.MeshBasicMaterial( { color: 0x0000ff } );
 
     //Create the Cube with size 2
-    var temp = new THREE.CubeGeometry( 2, 2, 2 );
+    var temp_cube = new THREE.CubeGeometry( 2, 2, 2 );
 
     //add the different materials to the cube and tell what side should use what material
-    temp.materials = materials;
-    for(var i in temp.faces) {
-        temp.faces[i].materialIndex = i;
+    temp_cube.materials = materials_cube;
+    for(var i in temp_cube.faces) {
+        temp_cube.faces[i].materialIndex = i;
     }
 
     // The geometry plus the material is grouped together in a Mesh object.
     // The MeshFaceMaterial object tells Three.js that is should use seperate materials
     // for every side.
-    cube = new THREE.Mesh( temp, new THREE.MeshFaceMaterial() );
+    cube = new THREE.Mesh( temp_cube, new THREE.MeshFaceMaterial() );
 
     // Set the position of the cube
-    cube.position.set(0, 0, -8);
+    cube.position.set(-1.5, 0, -8);
 
     // We must add the cube to the scene for it to rendered.
     scene.add( cube );
 
     //Add your tetrahedron under this line
     //You can reuse materials from the cube just keep in mind that it only have 4 sides
+
+    // Meh, its the same but using TetrahedronGeometry instead.
+    var materials_tetra = [];
+    materials_tetra[0] = new THREE.MeshBasicMaterial( { color: 0xff0000 } );
+    materials_tetra[1] = new THREE.MeshBasicMaterial( { color: 0x00ff00 } );
+    materials_tetra[2] = new THREE.MeshBasicMaterial( { color: 0x0000ff } );
+    materials_tetra[3] = new THREE.MeshBasicMaterial( { color: 0xffffff } );
+
+    var temp_tetra = new THREE.TetrahedronGeometry(1.5);
+
+    temp_tetra.materials = materials_tetra;
+
+    for (var i in temp_tetra.faces) {
+        temp_tetra.faces[i].materialIndex = i;
+    }
+
+    tetrahedron = new THREE.Mesh(temp_tetra, new THREE.MeshFaceMaterial());
+    tetrahedron.position.set(1.5, 1.0, -8.0);
+
+    scene.add(tetrahedron);
 }
 
 
@@ -77,6 +97,8 @@ function animateThree() {
     cube.rotation.x = rotationCube;
     cube.rotation.y = rotationCube/2;
 
+    tetrahedron.rotation.x = rotationCube;
+    tetrahedron.rotation.z = -rotationCube/2;
 }
 
 /**

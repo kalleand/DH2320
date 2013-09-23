@@ -220,13 +220,16 @@ function drawSceneWebGL() {
     mat4.identity(mvMatrix);
 
     //Everything should be drawn 2 units away from the viewport
-    mat4.translate(mvMatrix, [ 0.0, 0.0, -2.0 ]);
+    mat4.translate(mvMatrix, [ -1.5, 0.0, -8.0 ]);
 
     //We save the current matrix before we do changes to it for the movement of the cube.
     mvPushMatrix();
 
     //Rotate the cube rCube radians around the x axis
     mat4.rotate(mvMatrix, rCube, [ 1, 0, 0 ]);
+
+    //Rotate the cube rCube radians around the y axis
+    mat4.rotate(mvMatrix, rCube/2, [ 0, 1, 0 ]);
 
     //Telling shaders what buffers and variables to use for this drawing
     gl.bindBuffer(gl.ARRAY_BUFFER, cubeVertexPositionBuffer);
