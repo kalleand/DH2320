@@ -1,7 +1,7 @@
 var gl;
 /**
  * Initialize WebGL on the given canvas
- * @param canvas The canvas used for WebGL 
+ * @param canvas The canvas used for WebGL
  */
 function initWebGL(canvas) {
     try {
@@ -200,6 +200,54 @@ function initBuffers() {
     /* TODO: Initialize the buffers for the tetrahedron after this comment.
        tetrahedronVertexPositionBuffer and tetrahedronVertexColorBuffer needs to be
        filled with data. */
+
+    tetrahedronVertexPositionBuffer = gl.createBuffer();
+    gl.bindBuffer(gl.ARRAY_BUFFER, tetrahedronVertexPositionBuffer);
+    var vertices = [
+        // Front face
+        -1, -1,  1,
+        1, -1,  1,
+        0,  1,  0,
+        // Right face
+        0,  1,  0,
+        1, -1,  1,
+        0, -1, -1,
+        // Left face
+        -1, -1,  1,
+        0,  1,  0,
+        0, -1, -1,
+        // Bottom face
+        -1, -1,  1,
+        1, -1,  1,
+        0, -1, -1
+            ];
+    gl.bufferData(gl.ARRAY_BUFFER, new Float32Array(vertices), gl.STATIC_DRAW);
+    tetrahedronVertexPositionBuffer.itemSize = 3;
+    tetrahedronVertexPositionBuffer.numItems = 12;
+
+    tetrahedronVertexColorBuffer = gl.createBuffer();
+    gl.bindBuffer(gl.ARRAY_BUFFER, tetrahedronVertexColorBuffer);
+    var colors = [
+        // Front face
+        1.0, 0.0, 0.0, 1.0,
+        1.0, 0.0, 0.0, 1.0,
+        1.0, 0.0, 0.0, 1.0,
+        // Right face
+        0.0, 1.0, 0.0, 1.0,
+        0.0, 1.0, 0.0, 1.0,
+        0.0, 1.0, 0.0, 1.0,
+        // Back face
+        0.0, 0.0, 1.0, 1.0,
+        0.0, 0.0, 1.0, 1.0,
+        0.0, 0.0, 1.0, 1.0,
+        // Left face
+        1.0, 1.0, 1.0, 1.0,
+        1.0, 1.0, 1.0, 1.0,
+        1.0, 1.0, 1.0, 1.0,
+        ];
+    gl.bufferData(gl.ARRAY_BUFFER, new Float32Array(colors), gl.STATIC_DRAW);
+    tetrahedronVertexColorBuffer.itemSize = 4;
+    tetrahedronVertexColorBuffer.numItems = 12;
 }
 
 var rCube = 0;
@@ -219,11 +267,13 @@ function drawSceneWebGL() {
     //Reset the move matrix to an identity matrix that will leave things in their defined place
     mat4.identity(mvMatrix);
 
-    //Everything should be drawn 2 units away from the viewport
-    mat4.translate(mvMatrix, [ -1.5, 0.0, -8.0 ]);
+    //The cube should be drawn 8 units away from the viewport
+    mat4.translate(mvMatrix, [ 0.0, 0.0, -8.0 ]);
 
     //We save the current matrix before we do changes to it for the movement of the cube.
     mvPushMatrix();
+
+    mat4.translate(mvMatrix, [ -1.5, 0.0, 0.0 ]);
 
     //Rotate the cube rCube radians around the x axis
     mat4.rotate(mvMatrix, rCube, [ 1, 0, 0 ]);
@@ -251,8 +301,21 @@ function drawSceneWebGL() {
     //We save the current matrix before we do changes to it for the movement of the cube.
     mvPushMatrix();
 
-    //TODO: Add drawing of the tetrahedron here.
-    //Keep in mind that the move matrix has already been modified for the z movement
+    // Move the tetrahedron 1.5 to the right and 1.0 up.
+    mat4.translate(mvMatrix, [1.5, 1, 0]);
+    //Rotate the cube rCube radians around the x axis
+    mat4.rotate(mvMatrix, rCube, [ 1, 0, 0 ]);
+
+    //Rotate the cube rCube radians around the y axis
+    mat4.rotate(mvMatrix, rCube/2, [ 0, 1, 0 ]);
+    gl.bindBuffer(gl.ARRAY_BUFFER, tetrahedronVertexPositionBuffer);
+    gl.vertexAttribPointer(shaderProgram.vertexPositionAttribute, tetrahedronVertexPositionBuffer.itemSize, gl.FLOAT, false, 0, 0);
+
+    gl.bindBuffer(gl.ARRAY_BUFFER, tetrahedronVertexColorBuffer);
+    gl.vertexAttribPointer(shaderProgram.vertexColorAttribute, tetrahedronVertexColorBuffer.itemSize, gl.FLOAT, false, 0, 0);
+
+    setMatrixUniforms();
+    gl.drawArrays(gl.TRIANGLES, 0, tetrahedronVertexPositionBuffer.numItems);
 
     //Take back the moving matrix that was saved before
     mvPopMatrix();
