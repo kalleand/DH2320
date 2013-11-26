@@ -54,7 +54,7 @@ function initGeometry() {
     materials_tetra[2] = new THREE.MeshBasicMaterial( { color: 0x0000ff } );
     materials_tetra[3] = new THREE.MeshBasicMaterial( { color: 0xffffff } );
 
-    var temp_tetra = new THREE.TetrahedronGeometry(1.5);
+    var temp_tetra = new THREE.TetrahedronGeometry(1.73);
 
     temp_tetra.materials = materials_tetra;
 

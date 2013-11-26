@@ -197,37 +197,73 @@ function initBuffers() {
     cubeVertexIndexBuffer.itemSize = 1;
     cubeVertexIndexBuffer.numItems = 36;
 
-    /* TODO: Initialize the buffers for the tetrahedron after this comment.
-       tetrahedronVertexPositionBuffer and tetrahedronVertexColorBuffer needs to be
-       filled with data. */
+    // Tetrahedron
 
     tetrahedronVertexPositionBuffer = gl.createBuffer();
     gl.bindBuffer(gl.ARRAY_BUFFER, tetrahedronVertexPositionBuffer);
     var vertices = [
-        // Front face
-        -1, -1,  1,
-        1, -1,  1,
-        0,  1,  0,
-        // Right face
-        0,  1,  0,
-        1, -1,  1,
-        0, -1, -1,
-        // Left face
-        -1, -1,  1,
-        0,  1,  0,
-        0, -1, -1,
-        // Bottom face
-        -1, -1,  1,
-        1, -1,  1,
-        0, -1, -1
-            ];
+        1, 1, -1,
+        -1, 1, 1,
+        -1, -1, -1,
+
+        1, 1, -1,
+        1, -1, 1,
+        -1, 1, 1,
+
+        1, -1, 1,
+        -1, 1, 1,
+        -1, -1, -1,
+
+        1, 1, -1,
+        1, -1, 1,
+        -1, -1, -1
+        //// front RÖD
+        //0, 0.61, 0,
+        //-0.29, -0.20, -0.5,
+        //0.58, -0.20 ,0,
+        //// right GRÖN
+        //0, 0.61, 0,
+        //0.58, -0.20 ,0,
+        //-0.29, -0.20, 0.5,
+        //// left VIT
+        //0, 0.61, 0,
+        //-0.29, -0.20, -0.5,
+        //-0.29, -0.20, 0.5,
+        //// bottom BLÅ
+        //-0.29, -0.20, -0.5,
+        //-0.29, -0.20, 0.5,
+        //0.58, -0.20 ,0
+        ];
     gl.bufferData(gl.ARRAY_BUFFER, new Float32Array(vertices), gl.STATIC_DRAW);
     tetrahedronVertexPositionBuffer.itemSize = 3;
     tetrahedronVertexPositionBuffer.numItems = 12;
 
     tetrahedronVertexColorBuffer = gl.createBuffer();
     gl.bindBuffer(gl.ARRAY_BUFFER, tetrahedronVertexColorBuffer);
-    var colors = [
+
+    ////a
+    //1, 0, -0.71
+    ////b
+    //-1, 0, -0.71
+    ////c
+    //0, 1, 0.71
+    ////d
+    //0, -1, 0.71
+
+
+
+
+    //OLD AS SHIT
+    ////a
+    //0, 0.61, 0
+    ////b
+    //-0.288, -0.204, -0.5
+    ////c
+    //-0.288, -0.204, 0.5
+    ////d
+    //0.577, -0.204 ,0
+
+    var tetra_colors = [
         // Front face
         1.0, 0.0, 0.0, 1.0,
         1.0, 0.0, 0.0, 1.0,
@@ -236,16 +272,16 @@ function initBuffers() {
         0.0, 1.0, 0.0, 1.0,
         0.0, 1.0, 0.0, 1.0,
         0.0, 1.0, 0.0, 1.0,
-        // Back face
-        0.0, 0.0, 1.0, 1.0,
-        0.0, 0.0, 1.0, 1.0,
-        0.0, 0.0, 1.0, 1.0,
         // Left face
         1.0, 1.0, 1.0, 1.0,
         1.0, 1.0, 1.0, 1.0,
         1.0, 1.0, 1.0, 1.0,
+        // Bottom face
+        0.0, 0.0, 1.0, 1.0,
+        0.0, 0.0, 1.0, 1.0,
+        0.0, 0.0, 1.0, 1.0,
         ];
-    gl.bufferData(gl.ARRAY_BUFFER, new Float32Array(colors), gl.STATIC_DRAW);
+    gl.bufferData(gl.ARRAY_BUFFER, new Float32Array(tetra_colors), gl.STATIC_DRAW);
     tetrahedronVertexColorBuffer.itemSize = 4;
     tetrahedronVertexColorBuffer.numItems = 12;
 }
@@ -303,11 +339,12 @@ function drawSceneWebGL() {
 
     // Move the tetrahedron 1.5 to the right and 1.0 up.
     mat4.translate(mvMatrix, [1.5, 1, 0]);
-    //Rotate the cube rCube radians around the x axis
+
+    //Rotate the tetrahedron rCube radians around the x axis
     mat4.rotate(mvMatrix, rCube, [ 1, 0, 0 ]);
 
-    //Rotate the cube rCube radians around the y axis
-    mat4.rotate(mvMatrix, rCube/2, [ 0, 1, 0 ]);
+    //Rotate the tetrahedron rCube radians around the y axis
+    mat4.rotate(mvMatrix, -rCube/2, [ 0, 0, 1 ]);
     gl.bindBuffer(gl.ARRAY_BUFFER, tetrahedronVertexPositionBuffer);
     gl.vertexAttribPointer(shaderProgram.vertexPositionAttribute, tetrahedronVertexPositionBuffer.itemSize, gl.FLOAT, false, 0, 0);
 

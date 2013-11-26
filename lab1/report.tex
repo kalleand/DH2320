@@ -29,6 +29,37 @@
 \pagestyle{fancy}
 \setcounter{page}{1}
 
-\section{Description}
+\section{Make the first cube look like the second one.}
+
+For the first assignment we were supposed to alter how a Javascript using WebGL rendered a
+cube to look more like what it did using the Javascript library Three.js.
+
+To do this we changed the position of the cube further away from the perspective
+camera located in the origin of the coordinate system. We changed the Z-value
+from $-2$ to $-8$, this made the whole cube visible.
+
+This was not enough as we needed a rotation around the y-axis as well as
+rotation around the x-axis. To do this we added the snippet:
+
+\begin{verbatim}
+mat4.rotate(mvMatrix, rCube/2, [ 0, 1, 0 ]);
+\end{verbatim}
+
+\section{Adding a tetrahedron}
+
+In the next assignment we added a tetrahedron to both scenes. To accomplish this
+we moved the cubes in both scenes to the left by $1.5$ units. Then we added the
+Three.js tetrahedron by adding a TetrahedronGeometry with the size of 1.5 units.
+
+In the WebGL version this was a lot trickier as we had to figure out where the
+vertices where located in a tetrahedron with a certain size.
+
+The rotation around x-axis was set to be the same for the tetrahedron as the
+cube. The rotation around z-axis was set to be negative speed of the rotation
+around x-axis divided by 2. The tetrahedron, in contrast to the cube, was set to
+not rotate around the y-axis.
+
+The colors were fixed to match in both scenes through trial and error mostly.
+
 
 \end{document}
