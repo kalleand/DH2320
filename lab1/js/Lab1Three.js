@@ -24,19 +24,28 @@ function initThree(theCanvas) {
  * Create the geometries that will be use and add them to the scene
  */
 function initGeometry() {
-
     //Create the materials that will be used by the different sides of our geometries
-    var texture = new THREE.ImageUtils.loadTexture('images/wood_new_seam.png');
-    //var texture = new THREE.ImageUtils.loadTexture('images/wood2.png');
-    texture.wrapS = THREE.RepeatWrapping;
-    texture.wrapT = THREE.RepeatWrapping;
-    texture.repeat.set(2,2);
-    var cube_material = new THREE.MeshBasicMaterial( { map: texture } );
+    var materials_cube = [];
+    materials_cube[0] = new THREE.MeshBasicMaterial( { color: 0xff00ff } );
+    materials_cube[1] = new THREE.MeshBasicMaterial( { color: 0x0000ff } );
+    materials_cube[2] = new THREE.MeshBasicMaterial( { color: 0x00ff00 } );
+    materials_cube[3] = new THREE.MeshBasicMaterial( { color: 0xff8888 } );
+    materials_cube[4] = new THREE.MeshBasicMaterial( { color: 0xff0000 } );
+    materials_cube[5] = new THREE.MeshBasicMaterial( { color: 0xffff00 } );
 
     //Create the Cube with size 2
     var temp_cube = new THREE.CubeGeometry( 2, 2, 2 );
 
-    cube = new THREE.Mesh( temp_cube, cube_material );
+    //add the different materials to the cube and tell what side should use what material
+    temp_cube.materials = materials_cube;
+    for(var i in temp_cube.faces) {
+        temp_cube.faces[i].materialIndex = i;
+    }
+
+    // The geometry plus the material is grouped together in a Mesh object.
+    // The MeshFaceMaterial object tells Three.js that is should use seperate materials
+    // for every side.
+    cube = new THREE.Mesh( temp_cube, new THREE.MeshFaceMaterial() );
 
     // Set the position of the cube
     cube.position.set(-1.5, 0, -8);
