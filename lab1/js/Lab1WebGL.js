@@ -217,22 +217,6 @@ function initBuffers() {
         1, 1, -1,
         1, -1, 1,
         -1, -1, -1
-        //// front RÖD
-        //0, 0.61, 0,
-        //-0.29, -0.20, -0.5,
-        //0.58, -0.20 ,0,
-        //// right GRÖN
-        //0, 0.61, 0,
-        //0.58, -0.20 ,0,
-        //-0.29, -0.20, 0.5,
-        //// left VIT
-        //0, 0.61, 0,
-        //-0.29, -0.20, -0.5,
-        //-0.29, -0.20, 0.5,
-        //// bottom BLÅ
-        //-0.29, -0.20, -0.5,
-        //-0.29, -0.20, 0.5,
-        //0.58, -0.20 ,0
         ];
     gl.bufferData(gl.ARRAY_BUFFER, new Float32Array(vertices), gl.STATIC_DRAW);
     tetrahedronVertexPositionBuffer.itemSize = 3;
@@ -241,42 +225,19 @@ function initBuffers() {
     tetrahedronVertexColorBuffer = gl.createBuffer();
     gl.bindBuffer(gl.ARRAY_BUFFER, tetrahedronVertexColorBuffer);
 
-    ////a
-    //1, 0, -0.71
-    ////b
-    //-1, 0, -0.71
-    ////c
-    //0, 1, 0.71
-    ////d
-    //0, -1, 0.71
-
-
-
-
-    //OLD AS SHIT
-    ////a
-    //0, 0.61, 0
-    ////b
-    //-0.288, -0.204, -0.5
-    ////c
-    //-0.288, -0.204, 0.5
-    ////d
-    //0.577, -0.204 ,0
-
     var tetra_colors = [
-        // Front face
-        1.0, 0.0, 0.0, 1.0,
-        1.0, 0.0, 0.0, 1.0,
-        1.0, 0.0, 0.0, 1.0,
-        // Right face
         0.0, 1.0, 0.0, 1.0,
         0.0, 1.0, 0.0, 1.0,
         0.0, 1.0, 0.0, 1.0,
-        // Left face
+
+        1.0, 0.0, 0.0, 1.0,
+        1.0, 0.0, 0.0, 1.0,
+        1.0, 0.0, 0.0, 1.0,
+
         1.0, 1.0, 1.0, 1.0,
         1.0, 1.0, 1.0, 1.0,
         1.0, 1.0, 1.0, 1.0,
-        // Bottom face
+
         0.0, 0.0, 1.0, 1.0,
         0.0, 0.0, 1.0, 1.0,
         0.0, 0.0, 1.0, 1.0,
