@@ -51,6 +51,18 @@ In the next assignment we added a tetrahedron to both scenes. To accomplish this
 we moved the cubes in both scenes to the left by $1.5$ units. Then we added the
 Three.js tetrahedron by adding a TetrahedronGeometry with the size of 1.5 units.
 
+The tetrahedron implemented using the vertices:
+
+\begin{verbatim}
+(1, 1, -1)
+(1, -1, 1)
+(-1, 1, 1)
+(-1, -1, -1)
+\end{verbatim}
+
+The radius of the circumsphere for this tetrahedron is $\approx 1.73$ which is
+the value we used when initiating the tetrahedron in the Three.js version.
+
 In the WebGL version this was a lot trickier as we had to figure out where the
 vertices where located in a tetrahedron with a certain size.
 
