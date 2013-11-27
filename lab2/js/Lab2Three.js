@@ -24,7 +24,13 @@ function initThree(theCanvas) {
  * Create the geometries that will be use and add them to the scene
  */
 function initGeometry() {
-
+    //var texture = new THREE.Texture();
+    //var texLoader = new THREE.ImageLoader();
+    //texLoader.addEventListener( 'load', function(event){
+        //texture.image = event.content;
+        //texture.needsUpdate = true;
+    //} );
+    //texLoader.load('images/wood_new_seam.png');
     //Create the materials that will be used by the different sides of our geometries
     var texture = new THREE.ImageUtils.loadTexture('images/wood_new_seam.png');
     //var texture = new THREE.ImageUtils.loadTexture('images/wood2.png');

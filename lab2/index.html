@@ -1,0 +1,107 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<title>DH2320 Lab 2</title>
+<meta charset="utf-8">
+<style>
+body {
+    background-color: #f0f0f0;
+    margin: 0px;
+}
+#info {
+    text-align:center;
+}
+#canvas {
+    text-align:center;
+}
+#table {
+    text-align:center;
+}
+a {
+    color: #0080bb;
+}
+#warning {
+    color: red;
+    size: 12px;
+}
+</style>
+</head>
+<body onLoad="startThree();">
+
+<!--Due to some security policy we can't load files in javascript without a special
+    flag in chrome/chromium.-->
+<script type="text/javascript">
+    var is_chrome = navigator.userAgent.toLowerCase().indexOf('chrome') > -1;
+    if(is_chrome) {
+        document.write("<div id='warning'><h2>Please note that you need to run chrome/chromium with the flag '--allow-file-access-from-files' to see the texture. (It works in firefox and is untested in other browsers.)'</div>");
+    }
+</script>
+
+<!--The canvas with the cube with texture.-->
+<h1>Texture for the cube in Three.js.</h1>
+<div id="canvas">
+    <canvas id="glCanvas" width="800" height="600"></canvas>
+</div>
+
+<!--The images that has been fixed.-->
+<h1>Improved images.</h1>
+<table id="table">
+    <tr>
+        <th>Old</th>
+        <th>Fixed</th>
+    </tr>
+    <tr>
+        <td>
+            <img src="images/3_baby_large.png" alt="Baby picture before fixing it.">
+        </td>
+        <td>
+            <img src="images/3_baby_large_fixed.png" alt="Baby picture after fixing it.">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="images/4_scratched_large.png" alt="Lady with baby picture before fixing it.">
+        </td>
+        <td>
+            <img src="images/4_scratched_large_fixed.png" alt="Lady with baby picture after fixing it.">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="images/5_pink_flowers_large.png" alt="Flower picture before fixing it.">
+        </td>
+        <td>
+            <img src="images/5_pink_flowers_large_fixed.png" alt="Flower picture after fixing it.">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="images/6_marsvin_large.png" alt="Guinea pig picture before fixing it.">
+        </td>
+        <td>
+            <img src="images/6_marsvin_large_large_fixed.png" alt="Guinea pig picture after fixing it.">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="images/7_phat_large.png" alt="Fat guy picture before fixing it.">
+        </td>
+        <td>
+            <img src="images/7_phat_large_fixed.png" alt="Fat guy picture after fixing it.">
+        </td>
+    </tr>
+</table>
+
+<!--The poster.-->
+<h1>Poster</h1>
+<img src="images/poster.png" alt="Supercool poster.">
+
+<!-- include javascript files -->
+<script type="text/javascript" src="js/util/Detector.js"></script>
+
+<!-- Imports for Three.js -->
+<script type="text/javascript" src="js/util/Three.js"></script>
+
+<script type="text/javascript" src="js/Lab2Three.js"></script>
+</body>
+</html>
