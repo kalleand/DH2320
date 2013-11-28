@@ -1,0 +1,2320 @@
+Blekinge län;Karlshamn;M;3912;2235;19,75;11,55
+Blekinge län;Karlshamn;C;1288;1052;6,50;5,44
+Blekinge län;Karlshamn;FP;1179;2000;5,95;10,34
+Blekinge län;Karlshamn;KD;898;1442;4,53;7,45
+Blekinge län;Karlshamn;S;8827;9176;44,56;47,43
+Blekinge län;Karlshamn;V;1332;1994;6,72;10,31
+Blekinge län;Karlshamn;MP;834;881;4,21;4,55
+Blekinge län;Karlshamn;ÖVR;1539;566;7,77;2,93
+Blekinge län;Karlskrona;M;9330;5426;23,62;13,81
+Blekinge län;Karlskrona;C;2810;2393;7,11;6,09
+Blekinge län;Karlskrona;FP;2956;4876;7,48;12,41
+Blekinge län;Karlskrona;KD;2297;3884;5,82;9,89
+Blekinge län;Karlskrona;S;15782;17172;39,96;43,72
+Blekinge län;Karlskrona;V;1761;2820;4,46;7,18
+Blekinge län;Karlskrona;MP;1623;1557;4,11;3,96
+Blekinge län;Karlskrona;ÖVR;2938;1149;7,44;2,93
+Blekinge län;Olofström;M;1142;652;14,52;8,21
+Blekinge län;Olofström;C;543;503;6,90;6,33
+Blekinge län;Olofström;FP;416;747;5,29;9,40
+Blekinge län;Olofström;KD;410;719;5,21;9,05
+Blekinge län;Olofström;S;4059;4127;51,61;51,94
+Blekinge län;Olofström;V;496;690;6,31;8,68
+Blekinge län;Olofström;MP;192;220;2,44;2,77
+Blekinge län;Olofström;ÖVR;607;288;7,72;3,62
+Blekinge län;Ronneby;M;3888;2287;21,40;12,72
+Blekinge län;Ronneby;C;1634;1321;8,99;7,35
+Blekinge län;Ronneby;FP;1067;1910;5,87;10,63
+Blekinge län;Ronneby;KD;824;1399;4,54;7,78
+Blekinge län;Ronneby;S;7570;8188;41,67;45,55
+Blekinge län;Ronneby;V;1128;1614;6,21;8,98
+Blekinge län;Ronneby;MP;618;675;3,40;3,76
+Blekinge län;Ronneby;ÖVR;1439;580;7,92;3,23
+Blekinge län;Sölvesborg;M;2837;1867;27,17;18,64
+Blekinge län;Sölvesborg;C;580;508;5,55;5,07
+Blekinge län;Sölvesborg;FP;487;937;4,66;9,36
+Blekinge län;Sölvesborg;KD;535;875;5,12;8,74
+Blekinge län;Sölvesborg;S;4294;4515;41,12;45,08
+Blekinge län;Sölvesborg;V;476;709;4,56;7,08
+Blekinge län;Sölvesborg;MP;238;298;2,28;2,98
+Blekinge län;Sölvesborg;ÖVR;995;306;9,53;3,06
+Dalarnas län;Avesta;M;2646;1270;19,27;9,58
+Dalarnas län;Avesta;C;1154;1253;8,40;9,45
+Dalarnas län;Avesta;FP;672;1165;4,89;8,79
+Dalarnas län;Avesta;KD;607;922;4,42;6,96
+Dalarnas län;Avesta;S;6335;6633;46,13;50,05
+Dalarnas län;Avesta;V;914;1292;6,66;9,75
+Dalarnas län;Avesta;MP;469;467;3,41;3,52
+Dalarnas län;Avesta;ÖVR;937;252;6,82;1,90
+Dalarnas län;Borlänge;M;5318;2831;18,77;10,37
+Dalarnas län;Borlänge;C;2065;1704;7,29;6,24
+Dalarnas län;Borlänge;FP;1608;2593;5,68;9,49
+Dalarnas län;Borlänge;KD;1255;1686;4,43;6,17
+Dalarnas län;Borlänge;S;12894;13265;45,51;48,57
+Dalarnas län;Borlänge;V;2025;2724;7,15;9,97
+Dalarnas län;Borlänge;MP;1240;1417;4,38;5,19
+Dalarnas län;Borlänge;ÖVR;1928;1093;6,80;4,00
+Dalarnas län;Falun;M;8775;4974;25,48;15,26
+Dalarnas län;Falun;C;3615;2744;10,50;8,42
+Dalarnas län;Falun;FP;2157;4077;6,26;12,51
+Dalarnas län;Falun;KD;2037;2450;5,91;7,52
+Dalarnas län;Falun;S;11633;12519;33,78;38,41
+Dalarnas län;Falun;V;2027;2806;5,89;8,61
+Dalarnas län;Falun;MP;2106;1811;6,11;5,56
+Dalarnas län;Falun;ÖVR;2092;1212;6,07;3,72
+Dalarnas län;Gagnef;M;1107;573;18,20;9,88
+Dalarnas län;Gagnef;C;990;874;16,28;15,06
+Dalarnas län;Gagnef;FP;249;519;4,09;8,95
+Dalarnas län;Gagnef;KD;443;615;7,28;10,60
+Dalarnas län;Gagnef;S;2350;2346;38,64;40,43
+Dalarnas län;Gagnef;V;347;423;5,71;7,29
+Dalarnas län;Gagnef;MP;249;261;4,09;4,50
+Dalarnas län;Gagnef;ÖVR;346;191;5,69;3,29
+Dalarnas län;Hedemora;M;1794;945;19,55;10,60
+Dalarnas län;Hedemora;C;1115;1149;12,15;12,89
+Dalarnas län;Hedemora;FP;374;678;4,08;7,60
+Dalarnas län;Hedemora;KD;482;706;5,25;7,92
+Dalarnas län;Hedemora;S;3744;3823;40,80;42,88
+Dalarnas län;Hedemora;V;683;928;7,44;10,41
+Dalarnas län;Hedemora;MP;427;459;4,65;5,15
+Dalarnas län;Hedemora;ÖVR;558;228;6,08;2,56
+Dalarnas län;Leksand;M;2509;1181;25,51;12,53
+Dalarnas län;Leksand;C;1333;1325;13,56;14,05
+Dalarnas län;Leksand;FP;489;965;4,97;10,24
+Dalarnas län;Leksand;KD;1034;1233;10,51;13,08
+Dalarnas län;Leksand;S;3080;3291;31,32;34,91
+Dalarnas län;Leksand;V;474;723;4,82;7,67
+Dalarnas län;Leksand;MP;478;454;4,86;4,82
+Dalarnas län;Leksand;ÖVR;437;256;4,44;2,72
+Dalarnas län;Ludvika;M;2602;1387;16,62;8,94
+Dalarnas län;Ludvika;C;949;708;6,06;4,56
+Dalarnas län;Ludvika;FP;683;1193;4,36;7,69
+Dalarnas län;Ludvika;KD;631;916;4,03;5,90
+Dalarnas län;Ludvika;S;7695;8363;49,15;53,88
+Dalarnas län;Ludvika;V;1566;2049;10,00;13,20
+Dalarnas län;Ludvika;MP;501;602;3,20;3,88
+Dalarnas län;Ludvika;ÖVR;1029;303;6,57;1,95
+Dalarnas län;Malung;M;1721;942;26,37;14,53
+Dalarnas län;Malung;C;769;733;11,78;11,30
+Dalarnas län;Malung;FP;411;648;6,30;9,99
+Dalarnas län;Malung;KD;243;425;3,72;6,55
+Dalarnas län;Malung;S;2465;2771;37,77;42,74
+Dalarnas län;Malung;V;513;618;7,86;9,53
+Dalarnas län;Malung;MP;157;171;2,41;2,64
+Dalarnas län;Malung;ÖVR;248;176;3,80;2,71
+Dalarnas län;Mora;M;2808;1421;23,30;12,19
+Dalarnas län;Mora;C;1640;1417;13,61;12,15
+Dalarnas län;Mora;FP;592;1279;4,91;10,97
+Dalarnas län;Mora;KD;579;1004;4,80;8,61
+Dalarnas län;Mora;S;4374;4543;36,29;38,96
+Dalarnas län;Mora;V;627;959;5,20;8,22
+Dalarnas län;Mora;MP;573;602;4,75;5,16
+Dalarnas län;Mora;ÖVR;860;435;7,14;3,73
+Dalarnas län;Orsa;M;894;414;21,02;10,31
+Dalarnas län;Orsa;C;664;547;15,61;13,62
+Dalarnas län;Orsa;FP;178;366;4,19;9,12
+Dalarnas län;Orsa;KD;234;330;5,50;8,22
+Dalarnas län;Orsa;S;1481;1480;34,82;36,86
+Dalarnas län;Orsa;V;295;411;6,94;10,24
+Dalarnas län;Orsa;MP;217;240;5,10;5,98
+Dalarnas län;Orsa;ÖVR;290;227;6,82;5,65
+Dalarnas län;Rättvik;M;1506;829;22,23;12,76
+Dalarnas län;Rättvik;C;1038;950;15,32;14,62
+Dalarnas län;Rättvik;FP;385;736;5,68;11,33
+Dalarnas län;Rättvik;KD;371;525;5,48;8,08
+Dalarnas län;Rättvik;S;2441;2530;36,02;38,94
+Dalarnas län;Rättvik;V;281;437;4,15;6,73
+Dalarnas län;Rättvik;MP;277;295;4,09;4,54
+Dalarnas län;Rättvik;ÖVR;477;195;7,04;3,00
+Dalarnas län;Smedjebacken;M;1104;632;16,14;9,44
+Dalarnas län;Smedjebacken;C;502;443;7,34;6,62
+Dalarnas län;Smedjebacken;FP;219;463;3,20;6,92
+Dalarnas län;Smedjebacken;KD;236;339;3,45;5,06
+Dalarnas län;Smedjebacken;S;3672;3688;53,69;55,10
+Dalarnas län;Smedjebacken;V;523;771;7,65;11,52
+Dalarnas län;Smedjebacken;MP;195;249;2,85;3,72
+Dalarnas län;Smedjebacken;ÖVR;388;108;5,67;1,61
+Dalarnas län;Säter;M;1347;753;19,99;11,68
+Dalarnas län;Säter;C;1047;1005;15,54;15,59
+Dalarnas län;Säter;FP;330;535;4,90;8,30
+Dalarnas län;Säter;KD;379;548;5,62;8,50
+Dalarnas län;Säter;S;2517;2531;37,35;39,27
+Dalarnas län;Säter;V;454;633;6,74;9,82
+Dalarnas län;Säter;MP;256;261;3,80;4,05
+Dalarnas län;Säter;ÖVR;409;179;6,07;2,78
+Dalarnas län;Vansbro;M;706;373;16,62;9,03
+Dalarnas län;Vansbro;C;676;660;15,92;15,97
+Dalarnas län;Vansbro;FP;155;284;3,65;6,87
+Dalarnas län;Vansbro;KD;395;445;9,30;10,77
+Dalarnas län;Vansbro;S;1663;1742;39,16;42,16
+Dalarnas län;Vansbro;V;316;370;7,44;8,95
+Dalarnas län;Vansbro;MP;98;128;2,31;3,10
+Dalarnas län;Vansbro;ÖVR;238;130;5,60;3,15
+Dalarnas län;Älvdalen;M;778;337;17,61;7,91
+Dalarnas län;Älvdalen;C;640;581;14,48;13,64
+Dalarnas län;Älvdalen;FP;179;379;4,05;8,90
+Dalarnas län;Älvdalen;KD;233;362;5,27;8,50
+Dalarnas län;Älvdalen;S;1874;1839;42,41;43,18
+Dalarnas län;Älvdalen;V;206;338;4,66;7,94
+Dalarnas län;Älvdalen;MP;118;182;2,67;4,27
+Dalarnas län;Älvdalen;ÖVR;391;241;8,85;5,66
+Gotlands län;Gotland;M;7715;4808;21,58;14,00
+Gotlands län;Gotland;C;6883;5367;19,25;15,63
+Gotlands län;Gotland;FP;1554;2701;4,35;7,87
+Gotlands län;Gotland;KD;1374;2242;3,84;6,53
+Gotlands län;Gotland;S;12464;14024;34,86;40,84
+Gotlands län;Gotland;V;2145;2911;6,00;8,48
+Gotlands län;Gotland;MP;2237;1898;6,26;5,53
+Gotlands län;Gotland;ÖVR;1378;385;3,85;1,12
+Gävleborgs län;Bollnäs;M;2671;1577;17,01;9,64
+Gävleborgs län;Bollnäs;C;2664;2961;16,97;18,10
+Gävleborgs län;Bollnäs;FP;752;1868;4,79;11,42
+Gävleborgs län;Bollnäs;KD;893;1232;5,69;7,53
+Gävleborgs län;Bollnäs;S;6046;6085;38,51;37,20
+Gävleborgs län;Bollnäs;V;1051;1495;6,69;9,14
+Gävleborgs län;Bollnäs;MP;589;784;3,75;4,79
+Gävleborgs län;Bollnäs;ÖVR;1035;357;6,59;2,18
+Gävleborgs län;Gävle;M;12600;6393;22,20;11,75
+Gävleborgs län;Gävle;C;3524;2372;6,21;4,36
+Gävleborgs län;Gävle;FP;4036;7013;7,11;12,89
+Gävleborgs län;Gävle;KD;2773;4050;4,88;7,45
+Gävleborgs län;Gävle;S;23058;25303;40,62;46,52
+Gävleborgs län;Gävle;V;4230;5425;7,45;9,97
+Gävleborgs län;Gävle;MP;3055;2694;5,38;4,95
+Gävleborgs län;Gävle;ÖVR;3490;1146;6,15;2,11
+Gävleborgs län;Hofors;M;821;387;13,67;6,46
+Gävleborgs län;Hofors;C;352;306;5,86;5,11
+Gävleborgs län;Hofors;FP;325;461;5,41;7,69
+Gävleborgs län;Hofors;KD;171;257;2,85;4,29
+Gävleborgs län;Hofors;S;3065;3380;51,04;56,41
+Gävleborgs län;Hofors;V;685;922;11,41;15,39
+Gävleborgs län;Hofors;MP;190;197;3,16;3,29
+Gävleborgs län;Hofors;ÖVR;396;82;6,59;1,37
+Gävleborgs län;Hudiksvall;M;3883;1723;17,53;8,06
+Gävleborgs län;Hudiksvall;C;3513;3211;15,86;15,03
+Gävleborgs län;Hudiksvall;FP;809;1661;3,65;7,77
+Gävleborgs län;Hudiksvall;KD;1098;1512;4,96;7,08
+Gävleborgs län;Hudiksvall;S;8629;9108;38,95;42,63
+Gävleborgs län;Hudiksvall;V;1875;2514;8,46;11,77
+Gävleborgs län;Hudiksvall;MP;1176;1202;5,31;5,63
+Gävleborgs län;Hudiksvall;ÖVR;1170;433;5,28;2,03
+Gävleborgs län;Ljusdal;M;2147;909;19,21;8,21
+Gävleborgs län;Ljusdal;C;1623;1612;14,52;14,56
+Gävleborgs län;Ljusdal;FP;491;994;4,39;8,98
+Gävleborgs län;Ljusdal;KD;553;815;4,95;7,36
+Gävleborgs län;Ljusdal;S;4340;4628;38,83;41,81
+Gävleborgs län;Ljusdal;V;938;1432;8,39;12,94
+Gävleborgs län;Ljusdal;MP;434;491;3,88;4,44
+Gävleborgs län;Ljusdal;ÖVR;650;188;5,82;1,70
+Gävleborgs län;Nordanstig;M;829;402;14,23;7,03
+Gävleborgs län;Nordanstig;C;1133;1144;19,45;20,01
+Gävleborgs län;Nordanstig;FP;289;453;4,96;7,92
+Gävleborgs län;Nordanstig;KD;302;489;5,19;8,55
+Gävleborgs län;Nordanstig;S;2230;2252;38,29;39,39
+Gävleborgs län;Nordanstig;V;415;528;7,13;9,24
+Gävleborgs län;Nordanstig;MP;201;256;3,45;4,48
+Gävleborgs län;Nordanstig;ÖVR;425;193;7,30;3,38
+Gävleborgs län;Ockelbo;M;549;240;14,89;6,69
+Gävleborgs län;Ockelbo;C;621;554;16,85;15,45
+Gävleborgs län;Ockelbo;FP;113;237;3,07;6,61
+Gävleborgs län;Ockelbo;KD;148;212;4,02;5,91
+Gävleborgs län;Ockelbo;S;1642;1681;44,55;46,88
+Gävleborgs län;Ockelbo;V;339;481;9,20;13,41
+Gävleborgs län;Ockelbo;MP;119;100;3,23;2,79
+Gävleborgs län;Ockelbo;ÖVR;155;81;4,21;2,26
+Gävleborgs län;Ovanåker;M;968;569;13,12;7,42
+Gävleborgs län;Ovanåker;C;1690;1780;22,91;23,21
+Gävleborgs län;Ovanåker;FP;327;617;4,43;8,04
+Gävleborgs län;Ovanåker;KD;839;1056;11,37;13,77
+Gävleborgs län;Ovanåker;S;2728;2736;36,98;35,67
+Gävleborgs län;Ovanåker;V;304;524;4,12;6,83
+Gävleborgs län;Ovanåker;MP;198;287;2,68;3,74
+Gävleborgs län;Ovanåker;ÖVR;323;101;4,38;1,32
+Gävleborgs län;Sandviken;M;4000;2034;17,53;9,06
+Gävleborgs län;Sandviken;C;1781;1463;7,80;6,52
+Gävleborgs län;Sandviken;FP;1144;1907;5,01;8,49
+Gävleborgs län;Sandviken;KD;1023;1466;4,48;6,53
+Gävleborgs län;Sandviken;S;10835;11622;47,48;51,76
+Gävleborgs län;Sandviken;V;2021;2640;8,86;11,76
+Gävleborgs län;Sandviken;MP;759;835;3,33;3,72
+Gävleborgs län;Sandviken;ÖVR;1259;487;5,52;2,17
+Gävleborgs län;Söderhamn;M;2455;1246;15,14;7,63
+Gävleborgs län;Söderhamn;C;1774;1784;10,94;10,93
+Gävleborgs län;Söderhamn;FP;661;1337;4,08;8,19
+Gävleborgs län;Söderhamn;KD;800;1141;4,93;6,99
+Gävleborgs län;Söderhamn;S;7386;7360;45,54;45,08
+Gävleborgs län;Söderhamn;V;1456;2451;8,98;15,01
+Gävleborgs län;Söderhamn;MP;554;605;3,42;3,71
+Gävleborgs län;Söderhamn;ÖVR;1132;403;6,98;2,47
+Hallands län;Falkenberg;M;6018;3357;24,58;14,35
+Hallands län;Falkenberg;C;3632;3515;14,83;15,02
+Hallands län;Falkenberg;FP;1649;2637;6,73;11,27
+Hallands län;Falkenberg;KD;1396;2117;5,70;9,05
+Hallands län;Falkenberg;S;8590;8601;35,08;36,76
+Hallands län;Falkenberg;V;920;1284;3,76;5,49
+Hallands län;Falkenberg;MP;961;892;3,92;3,81
+Hallands län;Falkenberg;ÖVR;1319;994;5,39;4,25
+Hallands län;Halmstad;M;15383;8562;27,71;16,36
+Hallands län;Halmstad;C;3755;3038;6,76;5,80
+Hallands län;Halmstad;FP;4327;7266;7,80;13,88
+Hallands län;Halmstad;KD;3398;4444;6,12;8,49
+Hallands län;Halmstad;S;20045;21403;36,11;40,89
+Hallands län;Halmstad;V;2445;3591;4,40;6,86
+Hallands län;Halmstad;MP;2410;2200;4,34;4,20
+Hallands län;Halmstad;ÖVR;3746;1838;6,75;3,51
+Hallands län;Hylte;M;1292;691;21,66;11,55
+Hallands län;Hylte;C;938;1035;15,73;17,30
+Hallands län;Hylte;FP;306;536;5,13;8,96
+Hallands län;Hylte;KD;407;521;6,82;8,71
+Hallands län;Hylte;S;2294;2528;38,46;42,25
+Hallands län;Hylte;V;196;275;3,29;4,60
+Hallands län;Hylte;MP;169;174;2,83;2,91
+Hallands län;Hylte;ÖVR;363;223;6,09;3,73
+Hallands län;Kungsbacka;M;17630;9905;39,75;24,49
+Hallands län;Kungsbacka;C;3716;2405;8,38;5,95
+Hallands län;Kungsbacka;FP;4379;7992;9,87;19,76
+Hallands län;Kungsbacka;KD;3715;4876;8,38;12,06
+Hallands län;Kungsbacka;S;9584;10594;21,61;26,20
+Hallands län;Kungsbacka;V;1373;1908;3,10;4,72
+Hallands län;Kungsbacka;MP;1690;1521;3,81;3,76
+Hallands län;Kungsbacka;ÖVR;2269;1238;5,12;3,06
+Hallands län;Laholm;M;3958;2230;27,91;16,64
+Hallands län;Laholm;C;2247;2194;15,85;16,37
+Hallands län;Laholm;FP;783;1373;5,52;10,24
+Hallands län;Laholm;KD;906;1536;6,39;11,46
+Hallands län;Laholm;S;4076;4423;28,74;33,00
+Hallands län;Laholm;V;523;642;3,69;4,79
+Hallands län;Laholm;MP;487;478;3,43;3,57
+Hallands län;Laholm;ÖVR;1200;528;8,46;3,94
+Hallands län;Varberg;M;8976;4519;25,66;13,83
+Hallands län;Varberg;C;4301;3721;12,30;11,39
+Hallands län;Varberg;FP;2354;3611;6,73;11,05
+Hallands län;Varberg;KD;2165;3226;6,19;9,87
+Hallands län;Varberg;S;12158;12746;34,76;39,00
+Hallands län;Varberg;V;1653;2295;4,73;7,02
+Hallands län;Varberg;MP;1519;1313;4,34;4,02
+Hallands län;Varberg;ÖVR;1849;1251;5,29;3,83
+Jämtlands län;Berg;M;745;405;16,40;8,56
+Jämtlands län;Berg;C;1104;1046;24,30;22,12
+Jämtlands län;Berg;FP;99;255;2,18;5,39
+Jämtlands län;Berg;KD;189;321;4,16;6,79
+Jämtlands län;Berg;S;1631;1845;35,89;39,01
+Jämtlands län;Berg;V;349;474;7,68;10,02
+Jämtlands län;Berg;MP;197;253;4,34;5,35
+Jämtlands län;Berg;ÖVR;230;130;5,06;2,75
+Jämtlands län;Bräcke;M;632;356;14,96;8,31
+Jämtlands län;Bräcke;C;629;639;14,89;14,92
+Jämtlands län;Bräcke;FP;128;236;3,03;5,51
+Jämtlands län;Bräcke;KD;95;111;2,25;2,59
+Jämtlands län;Bräcke;S;2034;2237;48,15;52,23
+Jämtlands län;Bräcke;V;410;490;9,71;11,44
+Jämtlands län;Bräcke;MP;134;140;3,17;3,27
+Jämtlands län;Bräcke;ÖVR;162;74;3,84;1,73
+Jämtlands län;Härjedalen;M;1137;650;17,19;9,77
+Jämtlands län;Härjedalen;C;852;771;12,88;11,59
+Jämtlands län;Härjedalen;FP;312;404;4,72;6,08
+Jämtlands län;Härjedalen;KD;251;310;3,80;4,66
+Jämtlands län;Härjedalen;S;3023;3341;45,71;50,24
+Jämtlands län;Härjedalen;V;542;809;8,20;12,17
+Jämtlands län;Härjedalen;MP;153;245;2,31;3,68
+Jämtlands län;Härjedalen;ÖVR;343;120;5,19;1,80
+Jämtlands län;Krokom;M;1319;743;15,73;9,11
+Jämtlands län;Krokom;C;1832;1685;21,84;20,65
+Jämtlands län;Krokom;FP;294;439;3,51;5,38
+Jämtlands län;Krokom;KD;340;421;4,05;5,16
+Jämtlands län;Krokom;S;3169;3414;37,78;41,84
+Jämtlands län;Krokom;V;603;781;7,19;9,57
+Jämtlands län;Krokom;MP;469;522;5,59;6,40
+Jämtlands län;Krokom;ÖVR;361;155;4,30;1,90
+Jämtlands län;Ragunda;M;432;270;12,37;7,66
+Jämtlands län;Ragunda;C;625;634;17,90;17,98
+Jämtlands län;Ragunda;FP;92;141;2,64;4,00
+Jämtlands län;Ragunda;KD;99;114;2,84;3,23
+Jämtlands län;Ragunda;S;1597;1742;45,75;49,40
+Jämtlands län;Ragunda;V;396;422;11,34;11,97
+Jämtlands län;Ragunda;MP;99;112;2,84;3,18
+Jämtlands län;Ragunda;ÖVR;151;91;4,33;2,58
+Jämtlands län;Strömsund;M;1123;536;13,92;6,49
+Jämtlands län;Strömsund;C;1165;1267;14,44;15,35
+Jämtlands län;Strömsund;FP;221;387;2,74;4,69
+Jämtlands län;Strömsund;KD;237;353;2,94;4,28
+Jämtlands län;Strömsund;S;3933;4193;48,76;50,79
+Jämtlands län;Strömsund;V;829;1102;10,28;13,35
+Jämtlands län;Strömsund;MP;180;253;2,23;3,06
+Jämtlands län;Strömsund;ÖVR;378;165;4,69;2,00
+Jämtlands län;Åre;M;1380;690;23,19;12,23
+Jämtlands län;Åre;C;1117;965;18,77;17,11
+Jämtlands län;Åre;FP;257;436;4,32;7,73
+Jämtlands län;Åre;KD;298;394;5,01;6,99
+Jämtlands län;Åre;S;1883;2106;31,64;37,34
+Jämtlands län;Åre;V;376;488;6,32;8,65
+Jämtlands län;Åre;MP;402;377;6,75;6,68
+Jämtlands län;Åre;ÖVR;239;184;4,02;3,26
+Jämtlands län;Östersund;M;6985;3942;19,01;11,07
+Jämtlands län;Östersund;C;5787;4698;15,75;13,19
+Jämtlands län;Östersund;FP;1823;3271;4,96;9,18
+Jämtlands län;Östersund;KD;1405;1850;3,82;5,19
+Jämtlands län;Östersund;S;14052;15378;38,25;43,17
+Jämtlands län;Östersund;V;2979;3903;8,11;10,96
+Jämtlands län;Östersund;MP;2273;2065;6,19;5,80
+Jämtlands län;Östersund;ÖVR;1437;514;3,91;1,44
+Jönköpings län;Aneby;M;733;374;17,62;9,18
+Jönköpings län;Aneby;C;543;471;13,05;11,56
+Jönköpings län;Aneby;FP;205;300;4,93;7,36
+Jönköpings län;Aneby;KD;916;1152;22,02;28,28
+Jönköpings län;Aneby;S;1310;1402;31,49;34,41
+Jönköpings län;Aneby;V;132;174;3,17;4,27
+Jönköpings län;Aneby;MP;118;120;2,84;2,95
+Jönköpings län;Aneby;ÖVR;203;81;4,88;1,99
+Jönköpings län;Eksjö;M;2476;1383;23,86;13,15
+Jönköpings län;Eksjö;C;1266;1193;12,20;11,34
+Jönköpings län;Eksjö;FP;582;944;5,61;8,98
+Jönköpings län;Eksjö;KD;1440;2038;13,88;19,38
+Jönköpings län;Eksjö;S;3390;3897;32,67;37,06
+Jönköpings län;Eksjö;V;379;512;3,65;4,87
+Jönköpings län;Eksjö;MP;384;378;3,70;3,59
+Jönköpings län;Eksjö;ÖVR;461;171;4,44;1,63
+Jönköpings län;Gislaved;M;4251;2363;25,02;14,08
+Jönköpings län;Gislaved;C;1787;1771;10,52;10,55
+Jönköpings län;Gislaved;FP;920;1500;5,42;8,94
+Jönköpings län;Gislaved;KD;1694;2475;9,97;14,75
+Jönköpings län;Gislaved;S;6243;6952;36,75;41,43
+Jönköpings län;Gislaved;V;529;795;3,11;4,74
+Jönköpings län;Gislaved;MP;451;455;2,65;2,71
+Jönköpings län;Gislaved;ÖVR;1114;470;6,56;2,80
+Jönköpings län;Gnosjö;M;1195;717;21,47;12,86
+Jönköpings län;Gnosjö;C;420;370;7,54;6,63
+Jönköpings län;Gnosjö;FP;224;420;4,02;7,53
+Jönköpings län;Gnosjö;KD;1395;1708;25,06;30,63
+Jönköpings län;Gnosjö;S;1764;1918;31,69;34,39
+Jönköpings län;Gnosjö;V;140;200;2,51;3,59
+Jönköpings län;Gnosjö;MP;126;108;2,26;1,94
+Jönköpings län;Gnosjö;ÖVR;303;136;5,44;2,44
+Jönköpings län;Habo;M;1550;843;24,80;14,87
+Jönköpings län;Habo;C;436;347;6,97;6,12
+Jönköpings län;Habo;FP;349;534;5,58;9,42
+Jönköpings län;Habo;KD;1214;1343;19,42;23,69
+Jönköpings län;Habo;S;1982;2039;31,71;35,96
+Jönköpings län;Habo;V;213;289;3,41;5,10
+Jönköpings län;Habo;MP;201;165;3,22;2,91
+Jönköpings län;Habo;ÖVR;306;110;4,90;1,94
+Jönköpings län;Jönköping;M;17624;9658;22,88;13,23
+Jönköpings län;Jönköping;C;4472;3012;5,80;4,13
+Jönköpings län;Jönköping;FP;4618;7776;5,99;10,66
+Jönköpings län;Jönköping;KD;13076;14491;16,97;19,86
+Jönköpings län;Jönköping;S;26602;28982;34,53;39,71
+Jönköpings län;Jönköping;V;3835;4731;4,98;6,48
+Jönköpings län;Jönköping;MP;3149;2648;4,09;3,63
+Jönköpings län;Jönköping;ÖVR;3665;1678;4,76;2,30
+Jönköpings län;Mullsjö;M;933;512;20,90;12,03
+Jönköpings län;Mullsjö;C;320;227;7,17;5,33
+Jönköpings län;Mullsjö;FP;222;341;4,97;8,01
+Jönköpings län;Mullsjö;KD;883;1090;19,78;25,61
+Jönköpings län;Mullsjö;S;1454;1501;32,57;35,27
+Jönköpings län;Mullsjö;V;213;300;4,77;7,05
+Jönköpings län;Mullsjö;MP;182;181;4,08;4,25
+Jönköpings län;Mullsjö;ÖVR;257;104;5,76;2,44
+Jönköpings län;Nässjö;M;3532;2095;19,21;11,50
+Jönköpings län;Nässjö;C;1471;1352;8,00;7,42
+Jönköpings län;Nässjö;FP;763;1301;4,15;7,14
+Jönköpings län;Nässjö;KD;2578;3224;14,02;17,70
+Jönköpings län;Nässjö;S;7516;7917;40,87;43,45
+Jönköpings län;Nässjö;V;989;1339;5,38;7,35
+Jönköpings län;Nässjö;MP;640;606;3,48;3,33
+Jönköpings län;Nässjö;ÖVR;900;385;4,89;2,11
+Jönköpings län;Sävsjö;M;1385;862;20,38;12,92
+Jönköpings län;Sävsjö;C;910;905;13,39;13,57
+Jönköpings län;Sävsjö;FP;257;401;3,78;6,01
+Jönköpings län;Sävsjö;KD;1422;1705;20,93;25,56
+Jönköpings län;Sävsjö;S;2068;2175;30,43;32,60
+Jönköpings län;Sävsjö;V;208;298;3,06;4,47
+Jönköpings län;Sävsjö;MP;123;146;1,81;2,19
+Jönköpings län;Sävsjö;ÖVR;422;179;6,21;2,68
+Jönköpings län;Tranås;M;2443;1431;22,00;12,97
+Jönköpings län;Tranås;C;763;613;6,87;5,56
+Jönköpings län;Tranås;FP;593;938;5,34;8,50
+Jönköpings län;Tranås;KD;1388;1963;12,50;17,79
+Jönköpings län;Tranås;S;4461;4831;40,17;43,78
+Jönköpings län;Tranås;V;509;683;4,58;6,19
+Jönköpings län;Tranås;MP;422;381;3,80;3,45
+Jönköpings län;Tranås;ÖVR;526;195;4,74;1,77
+Jönköpings län;Vaggeryd;M;1542;813;19,80;10,72
+Jönköpings län;Vaggeryd;C;651;565;8,36;7,45
+Jönköpings län;Vaggeryd;FP;357;500;4,58;6,59
+Jönköpings län;Vaggeryd;KD;1484;1882;19,05;24,82
+Jönköpings län;Vaggeryd;S;2907;3070;37,32;40,48
+Jönköpings län;Vaggeryd;V;271;379;3,48;5,00
+Jönköpings län;Vaggeryd;MP;192;198;2,47;2,61
+Jönköpings län;Vaggeryd;ÖVR;385;177;4,94;2,33
+Jönköpings län;Vetlanda;M;3220;1836;19,65;11,24
+Jönköpings län;Vetlanda;C;2133;1993;13,02;12,20
+Jönköpings län;Vetlanda;FP;897;1321;5,47;8,09
+Jönköpings län;Vetlanda;KD;2358;3216;14,39;19,69
+Jönköpings län;Vetlanda;S;5876;6242;35,86;38,22
+Jönköpings län;Vetlanda;V;721;954;4,40;5,84
+Jönköpings län;Vetlanda;MP;531;486;3,24;2,98
+Jönköpings län;Vetlanda;ÖVR;649;282;3,96;1,73
+Jönköpings län;Värnamo;M;4418;2380;22,10;12,34
+Jönköpings län;Värnamo;C;2118;1691;10,60;8,76
+Jönköpings län;Värnamo;FP;995;1702;4,98;8,82
+Jönköpings län;Värnamo;KD;3098;4029;15,50;20,88
+Jönköpings län;Värnamo;S;7184;7744;35,94;40,14
+Jönköpings län;Värnamo;V;595;763;2,98;3,95
+Jönköpings län;Värnamo;MP;551;528;2,76;2,74
+Jönköpings län;Värnamo;ÖVR;1028;456;5,14;2,36
+Kalmar län;Borgholm;M;1892;1127;26,17;15,97
+Kalmar län;Borgholm;C;1555;1501;21,51;21,27
+Kalmar län;Borgholm;FP;325;614;4,50;8,70
+Kalmar län;Borgholm;KD;580;1022;8,02;14,48
+Kalmar län;Borgholm;S;1938;2020;26,80;28,62
+Kalmar län;Borgholm;V;276;403;3,82;5,71
+Kalmar län;Borgholm;MP;287;281;3,97;3,98
+Kalmar län;Borgholm;ÖVR;377;90;5,21;1,28
+Kalmar län;Emmaboda;M;1032;585;17,64;9,80
+Kalmar län;Emmaboda;C;812;793;13,88;13,28
+Kalmar län;Emmaboda;FP;163;328;2,79;5,49
+Kalmar län;Emmaboda;KD;451;593;7,71;9,93
+Kalmar län;Emmaboda;S;2647;3008;45,24;50,37
+Kalmar län;Emmaboda;V;238;345;4,07;5,78
+Kalmar län;Emmaboda;MP;205;200;3,50;3,35
+Kalmar län;Emmaboda;ÖVR;303;120;5,18;2,01
+Kalmar län;Hultsfred;M;1394;812;16,09;9,13
+Kalmar län;Hultsfred;C;1218;1251;14,06;14,07
+Kalmar län;Hultsfred;FP;325;484;3,75;5,44
+Kalmar län;Hultsfred;KD;700;1092;8,08;12,28
+Kalmar län;Hultsfred;S;3794;4113;43,80;46,25
+Kalmar län;Hultsfred;V;496;726;5,73;8,16
+Kalmar län;Hultsfred;MP;247;207;2,85;2,33
+Kalmar län;Hultsfred;ÖVR;488;208;5,63;2,34
+Kalmar län;Högsby;M;579;370;15,83;9,60
+Kalmar län;Högsby;C;539;495;14,73;12,84
+Kalmar län;Högsby;FP;153;203;4,18;5,27
+Kalmar län;Högsby;KD;259;550;7,08;14,27
+Kalmar län;Högsby;S;1634;1778;44,67;46,13
+Kalmar län;Högsby;V;187;316;5,11;8,20
+Kalmar län;Högsby;MP;77;90;2,10;2,34
+Kalmar län;Högsby;ÖVR;230;52;6,29;1,35
+Kalmar län;Kalmar;M;9785;5767;24,82;15,37
+Kalmar län;Kalmar;C;2982;2298;7,56;6,12
+Kalmar län;Kalmar;FP;2596;4279;6,58;11,40
+Kalmar län;Kalmar;KD;2575;3702;6,53;9,86
+Kalmar län;Kalmar;S;15584;16110;39,53;42,93
+Kalmar län;Kalmar;V;1878;2663;4,76;7,10
+Kalmar län;Kalmar;MP;2053;1772;5,21;4,72
+Kalmar län;Kalmar;ÖVR;1975;938;5,01;2,50
+Kalmar län;Mönsterås;M;1427;837;17,30;10,36
+Kalmar län;Mönsterås;C;1015;928;12,31;11,49
+Kalmar län;Mönsterås;FP;346;563;4,20;6,97
+Kalmar län;Mönsterås;KD;556;827;6,74;10,24
+Kalmar län;Mönsterås;S;3812;3862;46,22;47,80
+Kalmar län;Mönsterås;V;432;642;5,24;7,95
+Kalmar län;Mönsterås;MP;231;235;2,80;2,91
+Kalmar län;Mönsterås;ÖVR;428;185;5,19;2,29
+Kalmar län;Mörbylånga;M;2210;1290;25,24;15,34
+Kalmar län;Mörbylånga;C;1166;1108;13,32;13,17
+Kalmar län;Mörbylånga;FP;529;879;6,04;10,45
+Kalmar län;Mörbylånga;KD;626;1013;7,15;12,05
+Kalmar län;Mörbylånga;S;3055;3171;34,89;37,71
+Kalmar län;Mörbylånga;V;361;535;4,12;6,36
+Kalmar län;Mörbylånga;MP;371;325;4,24;3,86
+Kalmar län;Mörbylånga;ÖVR;439;89;5,01;1,06
+Kalmar län;Nybro;M;2355;1305;18,94;10,75
+Kalmar län;Nybro;C;1493;1404;12,01;11,57
+Kalmar län;Nybro;FP;452;845;3,64;6,96
+Kalmar län;Nybro;KD;865;1329;6,96;10,95
+Kalmar län;Nybro;S;5505;5674;44,28;46,75
+Kalmar län;Nybro;V;656;918;5,28;7,56
+Kalmar län;Nybro;MP;334;283;2,69;2,33
+Kalmar län;Nybro;ÖVR;771;378;6,20;3,11
+Kalmar län;Oskarshamn;M;3482;2026;21,20;12,54
+Kalmar län;Oskarshamn;C;990;848;6,03;5,25
+Kalmar län;Oskarshamn;FP;797;1338;4,85;8,28
+Kalmar län;Oskarshamn;KD;1389;2209;8,46;13,67
+Kalmar län;Oskarshamn;S;7273;7702;44,27;47,66
+Kalmar län;Oskarshamn;V;1114;1316;6,78;8,14
+Kalmar län;Oskarshamn;MP;461;490;2,81;3,03
+Kalmar län;Oskarshamn;ÖVR;922;231;5,61;1,43
+Kalmar län;Torsås;M;920;587;20,47;13,12
+Kalmar län;Torsås;C;787;861;17,51;19,24
+Kalmar län;Torsås;FP;169;293;3,76;6,55
+Kalmar län;Torsås;KD;400;576;8,90;12,87
+Kalmar län;Torsås;S;1663;1748;37,00;39,07
+Kalmar län;Torsås;V;139;200;3,09;4,47
+Kalmar län;Torsås;MP;143;156;3,18;3,49
+Kalmar län;Torsås;ÖVR;273;53;6,07;1,18
+Kalmar län;Vimmerby;M;1768;1023;18,61;10,98
+Kalmar län;Vimmerby;C;1633;1704;17,19;18,30
+Kalmar län;Vimmerby;FP;387;593;4,07;6,37
+Kalmar län;Vimmerby;KD;784;1181;8,25;12,68
+Kalmar län;Vimmerby;S;3755;3839;39,53;41,22
+Kalmar län;Vimmerby;V;391;564;4,12;6,06
+Kalmar län;Vimmerby;MP;328;301;3,45;3,23
+Kalmar län;Vimmerby;ÖVR;453;109;4,77;1,17
+Kalmar län;Västervik;M;4586;2602;20,07;11,64
+Kalmar län;Västervik;C;2116;2169;9,26;9,71
+Kalmar län;Västervik;FP;1438;2446;6,29;10,94
+Kalmar län;Västervik;KD;1328;2018;5,81;9,03
+Kalmar län;Västervik;S;10347;10064;45,29;45,03
+Kalmar län;Västervik;V;1258;1891;5,51;8,46
+Kalmar län;Västervik;MP;950;870;4,16;3,89
+Kalmar län;Västervik;ÖVR;823;289;3,60;1,29
+Kronobergs län;Alvesta;M;2793;1478;24,15;12,99
+Kronobergs län;Alvesta;C;1508;1544;13,04;13,57
+Kronobergs län;Alvesta;FP;586;1002;5,07;8,81
+Kronobergs län;Alvesta;KD;864;1270;7,47;11,17
+Kronobergs län;Alvesta;S;4263;4568;36,85;40,16
+Kronobergs län;Alvesta;V;508;814;4,39;7,16
+Kronobergs län;Alvesta;MP;372;373;3,22;3,28
+Kronobergs län;Alvesta;ÖVR;673;325;5,82;2,86
+Kronobergs län;Lessebo;M;879;506;18,16;10,07
+Kronobergs län;Lessebo;C;463;409;9,56;8,14
+Kronobergs län;Lessebo;FP;194;375;4,01;7,46
+Kronobergs län;Lessebo;KD;198;325;4,09;6,47
+Kronobergs län;Lessebo;S;2332;2674;48,17;53,22
+Kronobergs län;Lessebo;V;367;471;7,58;9,38
+Kronobergs län;Lessebo;MP;171;182;3,53;3,62
+Kronobergs län;Lessebo;ÖVR;237;82;4,90;1,63
+Kronobergs län;Ljungby;M;3849;1972;23,18;12,20
+Kronobergs län;Ljungby;C;2327;2319;14,01;14,35
+Kronobergs län;Ljungby;FP;830;1375;5,00;8,51
+Kronobergs län;Ljungby;KD;1519;2080;9,15;12,87
+Kronobergs län;Ljungby;S;5948;6388;35,81;39,53
+Kronobergs län;Ljungby;V;741;1050;4,46;6,50
+Kronobergs län;Ljungby;MP;585;634;3,52;3,92
+Kronobergs län;Ljungby;ÖVR;809;342;4,87;2,12
+Kronobergs län;Markaryd;M;1112;659;19,84;11,78
+Kronobergs län;Markaryd;C;582;557;10,38;9,96
+Kronobergs län;Markaryd;FP;208;369;3,71;6,60
+Kronobergs län;Markaryd;KD;704;902;12,56;16,12
+Kronobergs län;Markaryd;S;2314;2473;41,28;44,20
+Kronobergs län;Markaryd;V;158;278;2,82;4,97
+Kronobergs län;Markaryd;MP;135;146;2,41;2,61
+Kronobergs län;Markaryd;ÖVR;392;211;6,99;3,77
+Kronobergs län;Tingsryd;M;2046;1170;26,23;14,88
+Kronobergs län;Tingsryd;C;1238;1395;15,87;17,75
+Kronobergs län;Tingsryd;FP;324;490;4,15;6,23
+Kronobergs län;Tingsryd;KD;592;937;7,59;11,92
+Kronobergs län;Tingsryd;S;2630;2870;33,72;36,51
+Kronobergs län;Tingsryd;V;314;472;4,03;6,00
+Kronobergs län;Tingsryd;MP;230;258;2,95;3,28
+Kronobergs län;Tingsryd;ÖVR;426;269;5,46;3,42
+Kronobergs län;Uppvidinge;M;1146;609;20,48;10,61
+Kronobergs län;Uppvidinge;C;892;910;15,94;15,86
+Kronobergs län;Uppvidinge;FP;190;388;3,40;6,76
+Kronobergs län;Uppvidinge;KD;361;514;6,45;8,96
+Kronobergs län;Uppvidinge;S;2114;2491;37,78;43,41
+Kronobergs län;Uppvidinge;V;338;511;6,04;8,91
+Kronobergs län;Uppvidinge;MP;149;157;2,66;2,74
+Kronobergs län;Uppvidinge;ÖVR;405;158;7,24;2,75
+Kronobergs län;Växjö;M;13326;7425;26,72;15,92
+Kronobergs län;Växjö;C;4356;3548;8,73;7,61
+Kronobergs län;Växjö;FP;3591;5723;7,20;12,27
+Kronobergs län;Växjö;KD;3845;4668;7,71;10,01
+Kronobergs län;Växjö;S;16919;18070;33,92;38,75
+Kronobergs län;Växjö;V;2733;3827;5,48;8,21
+Kronobergs län;Växjö;MP;2722;2292;5,46;4,92
+Kronobergs län;Växjö;ÖVR;2387;1078;4,79;2,31
+Kronobergs län;Älmhult;M;2303;1381;24,42;14,78
+Kronobergs län;Älmhult;C;1196;1064;12,68;11,39
+Kronobergs län;Älmhult;FP;458;816;4,86;8,73
+Kronobergs län;Älmhult;KD;741;999;7,86;10,69
+Kronobergs län;Älmhult;S;3536;4162;37,49;44,55
+Kronobergs län;Älmhult;V;322;441;3,41;4,72
+Kronobergs län;Älmhult;MP;331;312;3,51;3,34
+Kronobergs län;Älmhult;ÖVR;545;168;5,78;1,80
+Norrbottens län;Arjeplog;M;210;77;10,74;3,89
+Norrbottens län;Arjeplog;C;202;184;10,33;9,29
+Norrbottens län;Arjeplog;FP;119;108;6,09;5,45
+Norrbottens län;Arjeplog;KD;93;112;4,76;5,65
+Norrbottens län;Arjeplog;S;879;907;44,96;45,78
+Norrbottens län;Arjeplog;V;283;294;14,48;14,84
+Norrbottens län;Arjeplog;MP;62;90;3,17;4,54
+Norrbottens län;Arjeplog;ÖVR;107;209;5,47;10,55
+Norrbottens län;Arvidsjaur;M;465;224;10,48;5,06
+Norrbottens län;Arvidsjaur;C;334;331;7,53;7,48
+Norrbottens län;Arvidsjaur;FP;172;239;3,88;5,40
+Norrbottens län;Arvidsjaur;KD;95;191;2,14;4,32
+Norrbottens län;Arvidsjaur;S;2550;2385;57,46;53,90
+Norrbottens län;Arvidsjaur;V;553;642;12,46;14,51
+Norrbottens län;Arvidsjaur;MP;76;83;1,71;1,88
+Norrbottens län;Arvidsjaur;ÖVR;193;330;4,35;7,46
+Norrbottens län;Boden;M;3201;1777;17,95;9,96
+Norrbottens län;Boden;C;979;701;5,49;3,93
+Norrbottens län;Boden;FP;756;1215;4,24;6,81
+Norrbottens län;Boden;KD;835;936;4,68;5,24
+Norrbottens län;Boden;S;8723;8439;48,92;47,28
+Norrbottens län;Boden;V;1576;2072;8,84;11,61
+Norrbottens län;Boden;MP;517;893;2,90;5,00
+Norrbottens län;Boden;ÖVR;1244;1817;6,98;10,18
+Norrbottens län;Gällivare;M;1361;805;11,92;7,01
+Norrbottens län;Gällivare;C;298;214;2,61;1,86
+Norrbottens län;Gällivare;FP;269;457;2,36;3,98
+Norrbottens län;Gällivare;KD;323;395;2,83;3,44
+Norrbottens län;Gällivare;S;6034;4814;52,84;41,92
+Norrbottens län;Gällivare;V;2037;1907;17,84;16,61
+Norrbottens län;Gällivare;MP;329;560;2,88;4,88
+Norrbottens län;Gällivare;ÖVR;769;2332;6,73;20,31
+Norrbottens län;Haparanda;M;714;469;17,19;11,50
+Norrbottens län;Haparanda;C;509;439;12,25;10,76
+Norrbottens län;Haparanda;FP;94;161;2,26;3,95
+Norrbottens län;Haparanda;KD;152;224;3,66;5,49
+Norrbottens län;Haparanda;S;2134;1829;51,37;44,84
+Norrbottens län;Haparanda;V;261;401;6,28;9,83
+Norrbottens län;Haparanda;MP;88;170;2,12;4,17
+Norrbottens län;Haparanda;ÖVR;202;386;4,86;9,46
+Norrbottens län;Jokkmokk;M;371;145;10,83;4,09
+Norrbottens län;Jokkmokk;C;190;115;5,55;3,24
+Norrbottens län;Jokkmokk;FP;200;193;5,84;5,45
+Norrbottens län;Jokkmokk;KD;79;132;2,31;3,72
+Norrbottens län;Jokkmokk;S;1636;1606;47,77;45,32
+Norrbottens län;Jokkmokk;V;505;479;14,74;13,52
+Norrbottens län;Jokkmokk;MP;223;308;6,51;8,69
+Norrbottens län;Jokkmokk;ÖVR;221;566;6,45;15,97
+Norrbottens län;Kalix;M;1123;710;10,28;6,38
+Norrbottens län;Kalix;C;766;687;7,01;6,17
+Norrbottens län;Kalix;FP;365;549;3,34;4,93
+Norrbottens län;Kalix;KD;363;444;3,32;3,99
+Norrbottens län;Kalix;S;6547;5941;59,93;53,40
+Norrbottens län;Kalix;V;766;1127;7,01;10,13
+Norrbottens län;Kalix;MP;509;978;4,66;8,79
+Norrbottens län;Kalix;ÖVR;485;690;4,44;6,20
+Norrbottens län;Kiruna;M;1308;613;9,50;4,47
+Norrbottens län;Kiruna;C;450;263;3,27;1,92
+Norrbottens län;Kiruna;FP;433;575;3,15;4,19
+Norrbottens län;Kiruna;KD;536;529;3,89;3,86
+Norrbottens län;Kiruna;S;7127;5613;51,79;40,94
+Norrbottens län;Kiruna;V;2069;2034;15,03;14,84
+Norrbottens län;Kiruna;MP;511;721;3,71;5,26
+Norrbottens län;Kiruna;ÖVR;1328;3361;9,65;24,52
+Norrbottens län;Luleå;M;7959;4417;17,02;9,87
+Norrbottens län;Luleå;C;3065;2154;6,55;4,81
+Norrbottens län;Luleå;FP;2802;4391;5,99;9,81
+Norrbottens län;Luleå;KD;2069;2616;4,42;5,84
+Norrbottens län;Luleå;S;21982;21034;47,00;46,98
+Norrbottens län;Luleå;V;3964;5204;8,48;11,62
+Norrbottens län;Luleå;MP;2682;2791;5,73;6,23
+Norrbottens län;Luleå;ÖVR;2245;2163;4,80;4,83
+Norrbottens län;Pajala;M;406;220;10,03;5,01
+Norrbottens län;Pajala;C;193;186;4,77;4,23
+Norrbottens län;Pajala;FP;91;98;2,25;2,23
+Norrbottens län;Pajala;KD;226;347;5,58;7,90
+Norrbottens län;Pajala;S;1859;1560;45,91;35,52
+Norrbottens län;Pajala;V;924;857;22,82;19,51
+Norrbottens län;Pajala;MP;85;111;2,10;2,53
+Norrbottens län;Pajala;ÖVR;265;1013;6,54;23,06
+Norrbottens län;Piteå;M;2856;1248;10,52;4,72
+Norrbottens län;Piteå;C;1914;1618;7,05;6,12
+Norrbottens län;Piteå;FP;1095;1640;4,03;6,20
+Norrbottens län;Piteå;KD;1371;1693;5,05;6,40
+Norrbottens län;Piteå;S;15380;14685;56,66;55,51
+Norrbottens län;Piteå;V;2305;3136;8,49;11,85
+Norrbottens län;Piteå;MP;1028;1058;3,79;4,00
+Norrbottens län;Piteå;ÖVR;1196;1377;4,41;5,21
+Norrbottens län;Älvsbyn;M;425;223;7,76;3,97
+Norrbottens län;Älvsbyn;C;470;424;8,58;7,55
+Norrbottens län;Älvsbyn;FP;168;222;3,07;3,95
+Norrbottens län;Älvsbyn;KD;256;349;4,67;6,21
+Norrbottens län;Älvsbyn;S;3105;3014;56,66;53,65
+Norrbottens län;Älvsbyn;V;617;841;11,26;14,97
+Norrbottens län;Älvsbyn;MP;114;134;2,08;2,39
+Norrbottens län;Älvsbyn;ÖVR;325;411;5,93;7,32
+Norrbottens län;Överkalix;M;173;93;7,09;3,56
+Norrbottens län;Överkalix;C;279;244;11,43;9,33
+Norrbottens län;Överkalix;FP;62;84;2,54;3,21
+Norrbottens län;Överkalix;KD;64;91;2,62;3,48
+Norrbottens län;Överkalix;S;1427;1404;58,48;53,67
+Norrbottens län;Överkalix;V;307;342;12,58;13,07
+Norrbottens län;Överkalix;MP;51;86;2,09;3,29
+Norrbottens län;Överkalix;ÖVR;77;272;3,16;10,40
+Norrbottens län;Övertorneå;M;354;186;12,71;6,35
+Norrbottens län;Övertorneå;C;416;345;14,94;11,78
+Norrbottens län;Övertorneå;FP;88;77;3,16;2,63
+Norrbottens län;Övertorneå;KD;127;180;4,56;6,15
+Norrbottens län;Övertorneå;S;1222;1079;43,88;36,84
+Norrbottens län;Övertorneå;V;327;376;11,74;12,84
+Norrbottens län;Övertorneå;MP;75;90;2,69;3,07
+Norrbottens län;Övertorneå;ÖVR;176;596;6,32;20,35
+Skåne län;Malmö;M;44232;24235;28,48;16,47
+Skåne län;Malmö;C;4475;1701;2,88;1,16
+Skåne län;Malmö;FP;13769;20322;8,87;13,81
+Skåne län;Malmö;KD;5373;7793;3,46;5,30
+Skåne län;Malmö;S;54732;62338;35,24;42,37
+Skåne län;Malmö;V;8468;11172;5,45;7,59
+Skåne län;Malmö;MP;9425;6310;6,07;4,29
+Skåne län;Malmö;ÖVR;14828;13263;9,55;9,01
+Skåne län;Bromölla;M;1180;659;15,89;9,31
+Skåne län;Bromölla;C;347;270;4,67;3,81
+Skåne län;Bromölla;FP;406;545;5,47;7,70
+Skåne län;Bromölla;KD;335;498;4,51;7,03
+Skåne län;Bromölla;S;3851;3993;51,86;56,40
+Skåne län;Bromölla;V;429;619;5,78;8,74
+Skåne län;Bromölla;MP;173;207;2,33;2,92
+Skåne län;Bromölla;ÖVR;705;289;9,49;4,08
+Skåne län;Båstad;M;3908;2386;41,80;27,12
+Skåne län;Båstad;C;1191;996;12,74;11,32
+Skåne län;Båstad;FP;720;1354;7,70;15,39
+Skåne län;Båstad;KD;782;1314;8,36;14,93
+Skåne län;Båstad;S;1704;1879;18,23;21,35
+Skåne län;Båstad;V;165;271;1,76;3,08
+Skåne län;Båstad;MP;349;318;3,73;3,61
+Skåne län;Båstad;ÖVR;530;281;5,67;3,19
+Skåne län;Hässleholm;M;7445;4293;25,26;15,15
+Skåne län;Hässleholm;C;2783;2506;9,44;8,84
+Skåne län;Hässleholm;FP;1785;2975;6,06;10,50
+Skåne län;Hässleholm;KD;2538;3693;8,61;13,03
+Skåne län;Hässleholm;S;10302;10911;34,96;38,49
+Skåne län;Hässleholm;V;997;1578;3,38;5,57
+Skåne län;Hässleholm;MP;1094;1148;3,71;4,05
+Skåne län;Hässleholm;ÖVR;2524;1241;8,57;4,38
+Skåne län;Klippan;M;2457;1609;27,03;18,94
+Skåne län;Klippan;C;660;622;7,26;7,32
+Skåne län;Klippan;FP;489;791;5,38;9,31
+Skåne län;Klippan;KD;590;1001;6,49;11,78
+Skåne län;Klippan;S;3482;3444;38,31;40,54
+Skåne län;Klippan;V;264;386;2,90;4,54
+Skåne län;Klippan;MP;232;227;2,55;2,67
+Skåne län;Klippan;ÖVR;916;416;10,08;4,90
+Skåne län;Kristianstad;M;12347;7423;26,43;16,72
+Skåne län;Kristianstad;C;3506;2188;7,51;4,93
+Skåne län;Kristianstad;FP;4580;6238;9,81;14,05
+Skåne län;Kristianstad;KD;2218;4031;4,75;9,08
+Skåne län;Kristianstad;S;17039;18489;36,48;41,64
+Skåne län;Kristianstad;V;1754;2627;3,76;5,92
+Skåne län;Kristianstad;MP;1737;1680;3,72;3,78
+Skåne län;Kristianstad;ÖVR;3527;1725;7,55;3,89
+Skåne län;Osby;M;1465;813;19,18;10,85
+Skåne län;Osby;C;757;685;9,91;9,15
+Skåne län;Osby;FP;420;621;5,50;8,29
+Skåne län;Osby;KD;592;857;7,75;11,44
+Skåne län;Osby;S;3259;3443;42,67;45,97
+Skåne län;Osby;V;314;541;4,11;7,22
+Skåne län;Osby;MP;221;242;2,89;3,23
+Skåne län;Osby;ÖVR;610;288;7,99;3,85
+Skåne län;Perstorp;M;913;584;23,47;15,76
+Skåne län;Perstorp;C;278;266;7,15;7,18
+Skåne län;Perstorp;FP;216;399;5,55;10,77
+Skåne län;Perstorp;KD;224;345;5,76;9,31
+Skåne län;Perstorp;S;1591;1589;40,90;42,89
+Skåne län;Perstorp;V;211;285;5,42;7,69
+Skåne län;Perstorp;MP;66;80;1,70;2,16
+Skåne län;Perstorp;ÖVR;391;157;10,05;4,24
+Skåne län;Simrishamn;M;3752;2290;30,87;19,84
+Skåne län;Simrishamn;C;1181;1037;9,72;8,98
+Skåne län;Simrishamn;FP;745;1375;6,13;11,91
+Skåne län;Simrishamn;KD;817;1050;6,72;9,10
+Skåne län;Simrishamn;S;3672;4116;30,21;35,66
+Skåne län;Simrishamn;V;425;770;3,50;6,67
+Skåne län;Simrishamn;MP;580;453;4,77;3,92
+Skåne län;Simrishamn;ÖVR;983;451;8,09;3,91
+Skåne län;Tomelilla;M;2079;1278;27,63;18,44
+Skåne län;Tomelilla;C;886;834;11,77;12,03
+Skåne län;Tomelilla;FP;393;672;5,22;9,70
+Skåne län;Tomelilla;KD;399;558;5,30;8,05
+Skåne län;Tomelilla;S;2458;2593;32,66;37,42
+Skåne län;Tomelilla;V;244;366;3,24;5,28
+Skåne län;Tomelilla;MP;245;221;3,26;3,19
+Skåne län;Tomelilla;ÖVR;821;408;10,91;5,89
+Skåne län;Åstorp;M;1734;1218;23,40;17,77
+Skåne län;Åstorp;C;425;303;5,73;4,42
+Skåne län;Åstorp;FP;376;585;5,07;8,53
+Skåne län;Åstorp;KD;370;664;4,99;9,69
+Skåne län;Åstorp;S;3354;3241;45,26;47,28
+Skåne län;Åstorp;V;215;360;2,90;5,25
+Skåne län;Åstorp;MP;133;149;1,79;2,17
+Skåne län;Åstorp;ÖVR;804;335;10,85;4,89
+Skåne län;Ängelholm;M;8684;5425;35,78;24,05
+Skåne län;Ängelholm;C;1718;1314;7,08;5,82
+Skåne län;Ängelholm;FP;1741;3072;7,17;13,62
+Skåne län;Ängelholm;KD;1791;2792;7,38;12,38
+Skåne län;Ängelholm;S;6666;7186;27,46;31,85
+Skåne län;Ängelholm;V;666;913;2,74;4,05
+Skåne län;Ängelholm;MP;896;849;3,69;3,76
+Skåne län;Ängelholm;ÖVR;2109;1008;8,69;4,47
+Skåne län;Örkelljunga;M;1455;922;26,45;17,80
+Skåne län;Örkelljunga;C;428;379;7,78;7,32
+Skåne län;Örkelljunga;FP;331;521;6,02;10,06
+Skåne län;Örkelljunga;KD;763;1108;13,87;21,39
+Skåne län;Örkelljunga;S;1631;1659;29,65;32,02
+Skåne län;Örkelljunga;V;131;193;2,38;3,73
+Skåne län;Örkelljunga;MP;106;130;1,93;2,51
+Skåne län;Örkelljunga;ÖVR;655;269;11,91;5,19
+Skåne län;Östra Göinge;M;1527;1007;18,55;12,53
+Skåne län;Östra Göinge;C;676;560;8,21;6,97
+Skåne län;Östra Göinge;FP;471;628;5,72;7,81
+Skåne län;Östra Göinge;KD;574;753;6,97;9,37
+Skåne län;Östra Göinge;S;3785;3945;45,97;49,08
+Skåne län;Östra Göinge;V;301;589;3,66;7,33
+Skåne län;Östra Göinge;MP;219;274;2,66;3,41
+Skåne län;Östra Göinge;ÖVR;680;282;8,26;3,51
+Skåne län;Burlöv;M;2188;1237;24,71;14,25
+Skåne län;Burlöv;C;285;204;3,22;2,35
+Skåne län;Burlöv;FP;655;1031;7,40;11,88
+Skåne län;Burlöv;KD;295;451;3,33;5,19
+Skåne län;Burlöv;S;3742;4184;42,27;48,19
+Skåne län;Burlöv;V;377;551;4,26;6,35
+Skåne län;Burlöv;MP;277;238;3,13;2,74
+Skåne län;Burlöv;ÖVR;1034;786;11,68;9,05
+Skåne län;Kävlinge;M;5380;2761;31,81;18,14
+Skåne län;Kävlinge;C;942;650;5,57;4,27
+Skåne län;Kävlinge;FP;1457;2106;8,62;13,83
+Skåne län;Kävlinge;KD;705;970;4,17;6,37
+Skåne län;Kävlinge;S;5973;6549;35,32;43,02
+Skåne län;Kävlinge;V;377;628;2,23;4,13
+Skåne län;Kävlinge;MP;432;402;2,55;2,64
+Skåne län;Kävlinge;ÖVR;1646;1158;9,73;7,61
+Skåne län;Lomma;M;5664;3173;44,56;26,70
+Skåne län;Lomma;C;665;298;5,23;2,51
+Skåne län;Lomma;FP;1398;2366;11,00;19,91
+Skåne län;Lomma;KD;673;920;5,29;7,74
+Skåne län;Lomma;S;2841;3800;22,35;31,98
+Skåne län;Lomma;V;201;309;1,58;2,60
+Skåne län;Lomma;MP;371;369;2,92;3,11
+Skåne län;Lomma;ÖVR;899;648;7,07;5,45
+Skåne län;Lund;M;19883;10655;29,78;16,89
+Skåne län;Lund;C;4780;2082;7,16;3,30
+Skåne län;Lund;FP;8233;12969;12,33;20,56
+Skåne län;Lund;KD;2952;3594;4,42;5,70
+Skåne län;Lund;S;17189;21595;25,74;34,24
+Skåne län;Lund;V;3934;5768;5,89;9,14
+Skåne län;Lund;MP;6093;4535;9,13;7,19
+Skåne län;Lund;ÖVR;3705;1879;5,55;2,98
+Skåne län;Sjöbo;M;3018;1761;29,59;18,42
+Skåne län;Sjöbo;C;1070;1028;10,49;10,75
+Skåne län;Sjöbo;FP;530;866;5,20;9,06
+Skåne län;Sjöbo;KD;602;889;5,90;9,30
+Skåne län;Sjöbo;S;3284;3507;32,20;36,68
+Skåne län;Sjöbo;V;304;456;2,98;4,77
+Skåne län;Sjöbo;MP;275;266;2,70;2,78
+Skåne län;Sjöbo;ÖVR;1116;788;10,94;8,24
+Skåne län;Skurup;M;2453;1405;28,99;17,65
+Skåne län;Skurup;C;747;753;8,83;9,46
+Skåne län;Skurup;FP;549;888;6,49;11,15
+Skåne län;Skurup;KD;389;567;4,60;7,12
+Skåne län;Skurup;S;2978;3175;35,20;39,88
+Skåne län;Skurup;V;236;385;2,79;4,84
+Skåne län;Skurup;MP;248;210;2,93;2,64
+Skåne län;Skurup;ÖVR;861;578;10,18;7,26
+Skåne län;Staffanstorp;M;4642;2526;35,98;20,72
+Skåne län;Staffanstorp;C;671;480;5,20;3,94
+Skåne län;Staffanstorp;FP;1102;1791;8,54;14,69
+Skåne län;Staffanstorp;KD;551;859;4,27;7,05
+Skåne län;Staffanstorp;S;4132;5080;32,03;41,67
+Skåne län;Staffanstorp;V;287;399;2,22;3,27
+Skåne län;Staffanstorp;MP;425;291;3,29;2,39
+Skåne län;Staffanstorp;ÖVR;1090;765;8,45;6,28
+Skåne län;Svedala;M;3537;1818;30,36;16,61
+Skåne län;Svedala;C;532;433;4,57;3,96
+Skåne län;Svedala;FP;953;1473;8,18;13,46
+Skåne län;Svedala;KD;451;755;3,87;6,90
+Skåne län;Svedala;S;4245;4875;36,44;44,55
+Skåne län;Svedala;V;257;420;2,21;3,84
+Skåne län;Svedala;MP;316;276;2,71;2,52
+Skåne län;Svedala;ÖVR;1359;893;11,67;8,16
+Skåne län;Trelleborg;M;5775;3380;23,82;14,98
+Skåne län;Trelleborg;C;1176;931;4,85;4,13
+Skåne län;Trelleborg;FP;1554;2211;6,41;9,80
+Skåne län;Trelleborg;KD;1430;1612;5,90;7,14
+Skåne län;Trelleborg;S;9638;10859;39,76;48,12
+Skåne län;Trelleborg;V;630;931;2,60;4,13
+Skåne län;Trelleborg;MP;668;638;2,76;2,83
+Skåne län;Trelleborg;ÖVR;3370;2003;13,90;8,88
+Skåne län;Vellinge;M;11952;7787;55,89;38,59
+Skåne län;Vellinge;C;781;472;3,65;2,34
+Skåne län;Vellinge;FP;1878;3712;8,78;18,40
+Skåne län;Vellinge;KD;1205;1589;5,64;7,87
+Skåne län;Vellinge;S;3599;4805;16,83;23,81
+Skåne län;Vellinge;V;225;288;1,05;1,43
+Skåne län;Vellinge;MP;408;385;1,91;1,91
+Skåne län;Vellinge;ÖVR;1335;1141;6,24;5,65
+Skåne län;Ystad;M;5467;3149;31,69;19,73
+Skåne län;Ystad;C;1102;939;6,39;5,88
+Skåne län;Ystad;FP;1113;1857;6,45;11,63
+Skåne län;Ystad;KD;872;1028;5,05;6,44
+Skåne län;Ystad;S;6354;7030;36,83;44,04
+Skåne län;Ystad;V;469;741;2,72;4,64
+Skåne län;Ystad;MP;568;468;3,29;2,93
+Skåne län;Ystad;ÖVR;1309;750;7,59;4,70
+Skåne län;Bjuv;M;1578;939;20,71;12,94
+Skåne län;Bjuv;C;336;266;4,41;3,67
+Skåne län;Bjuv;FP;370;625;4,86;8,62
+Skåne län;Bjuv;KD;326;529;4,28;7,29
+Skåne län;Bjuv;S;3673;3865;48,21;53,28
+Skåne län;Bjuv;V;227;425;2,98;5,86
+Skåne län;Bjuv;MP;152;157;2,00;2,16
+Skåne län;Bjuv;ÖVR;957;448;12,56;6,18
+Skåne län;Eslöv;M;3933;2272;22,18;14,06
+Skåne län;Eslöv;C;1649;1520;9,30;9,41
+Skåne län;Eslöv;FP;1249;1750;7,04;10,83
+Skåne län;Eslöv;KD;682;952;3,85;5,89
+Skåne län;Eslöv;S;7117;7363;40,14;45,57
+Skåne län;Eslöv;V;624;844;3,52;5,22
+Skåne län;Eslöv;MP;555;510;3,13;3,16
+Skåne län;Eslöv;ÖVR;1920;947;10,83;5,86
+Skåne län;Helsingborg;M;23235;12846;31,50;18,79
+Skåne län;Helsingborg;C;2814;1452;3,81;2,12
+Skåne län;Helsingborg;FP;6389;10323;8,66;15,10
+Skåne län;Helsingborg;KD;3699;5770;5,01;8,44
+Skåne län;Helsingborg;S;24494;26664;33,21;38,99
+Skåne län;Helsingborg;V;2547;4036;3,45;5,90
+Skåne län;Helsingborg;MP;3038;2441;4,12;3,57
+Skåne län;Helsingborg;ÖVR;7549;4849;10,23;7,09
+Skåne län;Höganäs;M;5637;3259;37,30;22,83
+Skåne län;Höganäs;C;874;567;5,78;3,97
+Skåne län;Höganäs;FP;1273;2309;8,42;16,17
+Skåne län;Höganäs;KD;1180;1646;7,81;11,53
+Skåne län;Höganäs;S;4117;4675;27,24;32,74
+Skåne län;Höganäs;V;357;673;2,36;4,71
+Skåne län;Höganäs;MP;604;509;4,00;3,57
+Skåne län;Höganäs;ÖVR;1072;639;7,09;4,48
+Skåne län;Hörby;M;2274;1140;26,74;14,61
+Skåne län;Hörby;C;1052;1115;12,37;14,29
+Skåne län;Hörby;FP;599;901;7,04;11,54
+Skåne län;Hörby;KD;537;785;6,31;10,06
+Skåne län;Hörby;S;2451;2626;28,82;33,65
+Skåne län;Hörby;V;208;281;2,45;3,60
+Skåne län;Hörby;MP;265;273;3,12;3,50
+Skåne län;Hörby;ÖVR;1118;684;13,15;8,76
+Skåne län;Höör;M;2442;1349;28,21;16,96
+Skåne län;Höör;C;742;609;8,57;7,66
+Skåne län;Höör;FP;624;1045;7,21;13,14
+Skåne län;Höör;KD;491;722;5,67;9,08
+Skåne län;Höör;S;2658;2817;30,70;35,43
+Skåne län;Höör;V;332;391;3,84;4,92
+Skåne län;Höör;MP;446;377;5,15;4,74
+Skåne län;Höör;ÖVR;922;642;10,65;8,07
+Skåne län;Landskrona;M;5581;3512;24,21;16,43
+Skåne län;Landskrona;C;687;460;2,98;2,15
+Skåne län;Landskrona;FP;2809;2902;12,18;13,57
+Skåne län;Landskrona;KD;633;1224;2,75;5,72
+Skåne län;Landskrona;S;9398;9485;40,76;44,36
+Skåne län;Landskrona;V;889;1348;3,86;6,30
+Skåne län;Landskrona;MP;673;542;2,92;2,53
+Skåne län;Landskrona;ÖVR;2386;1909;10,35;8,93
+Skåne län;Svalöv;M;1713;1103;22,88;15,23
+Skåne län;Svalöv;C;1030;919;13,76;12,69
+Skåne län;Svalöv;FP;444;696;5,93;9,61
+Skåne län;Svalöv;KD;321;526;4,29;7,27
+Skåne län;Svalöv;S;2672;2969;35,69;41,01
+Skåne län;Svalöv;V;225;297;3,01;4,10
+Skåne län;Svalöv;MP;228;206;3,05;2,85
+Skåne län;Svalöv;ÖVR;854;524;11,41;7,24
+Stockholms län;Stockholm;M;169211;96205;35,07;21,01
+Stockholms län;Stockholm;C;27257;8109;5,65;1,77
+Stockholms län;Stockholm;FP;48476;89510;10,05;19,54
+Stockholms län;Stockholm;KD;24327;30228;5,04;6,60
+Stockholms län;Stockholm;S;111765;143640;23,17;31,36
+Stockholms län;Stockholm;V;35616;49795;7,38;10,87
+Stockholms län;Stockholm;MP;45030;31027;9,33;6,77
+Stockholms län;Stockholm;ÖVR;20773;9491;4,31;2,07
+Stockholms län;Botkyrka;M;10180;4795;27,03;13,80
+Stockholms län;Botkyrka;C;1226;556;3,26;1,60
+Stockholms län;Botkyrka;FP;2890;4967;7,67;14,29
+Stockholms län;Botkyrka;KD;2537;3327;6,74;9,57
+Stockholms län;Botkyrka;S;14465;14987;38,41;43,13
+Stockholms län;Botkyrka;V;2710;3573;7,20;10,28
+Stockholms län;Botkyrka;MP;2030;1645;5,39;4,73
+Stockholms län;Botkyrka;ÖVR;1623;898;4,31;2,58
+Stockholms län;Danderyd;M;11744;8644;59,74;45,09
+Stockholms län;Danderyd;C;1242;359;6,32;1,87
+Stockholms län;Danderyd;FP;2089;4733;10,63;24,69
+Stockholms län;Danderyd;KD;1848;2047;9,40;10,68
+Stockholms län;Danderyd;S;1541;2145;7,84;11,19
+Stockholms län;Danderyd;V;230;396;1,17;2,07
+Stockholms län;Danderyd;MP;594;612;3,02;3,19
+Stockholms län;Danderyd;ÖVR;369;235;1,88;1,23
+Stockholms län;Ekerö;M;6625;3562;44,68;26,12
+Stockholms län;Ekerö;C;1040;516;7,01;3,78
+Stockholms län;Ekerö;FP;1529;2779;10,31;20,38
+Stockholms län;Ekerö;KD;1093;1434;7,37;10,52
+Stockholms län;Ekerö;S;2535;3522;17,10;25,83
+Stockholms län;Ekerö;V;483;712;3,26;5,22
+Stockholms län;Ekerö;MP;980;866;6,61;6,35
+Stockholms län;Ekerö;ÖVR;543;244;3,66;1,79
+Stockholms län;Haninge;M;13128;6123;32,62;16,11
+Stockholms län;Haninge;C;1574;768;3,91;2,02
+Stockholms län;Haninge;FP;3171;5588;7,88;14,70
+Stockholms län;Haninge;KD;2356;3074;5,85;8,09
+Stockholms län;Haninge;S;13395;15950;33,28;41,96
+Stockholms län;Haninge;V;2375;3402;5,90;8,95
+Stockholms län;Haninge;MP;2199;1919;5,46;5,05
+Stockholms län;Haninge;ÖVR;2049;1186;5,09;3,12
+Stockholms län;Huddinge;M;17041;8924;35,16;19,52
+Stockholms län;Huddinge;C;2056;863;4,24;1,89
+Stockholms län;Huddinge;FP;4423;7785;9,13;17,03
+Stockholms län;Huddinge;KD;2992;3718;6,17;8,13
+Stockholms län;Huddinge;S;14118;17036;29,13;37,27
+Stockholms län;Huddinge;V;2781;3772;5,74;8,25
+Stockholms län;Huddinge;MP;2630;2159;5,43;4,72
+Stockholms län;Huddinge;ÖVR;2420;1450;4,99;3,17
+Stockholms län;Järfälla;M;12676;6750;34,12;18,57
+Stockholms län;Järfälla;C;1518;741;4,09;2,04
+Stockholms län;Järfälla;FP;3513;6639;9,45;18,26
+Stockholms län;Järfälla;KD;2522;3387;6,79;9,32
+Stockholms län;Järfälla;S;11188;13521;30,11;37,20
+Stockholms län;Järfälla;V;2091;2830;5,63;7,79
+Stockholms län;Järfälla;MP;2031;1691;5,47;4,65
+Stockholms län;Järfälla;ÖVR;1617;790;4,35;2,17
+Stockholms län;Lidingö;M;14386;9563;52,90;36,39
+Stockholms län;Lidingö;C;1738;482;6,39;1,83
+Stockholms län;Lidingö;FP;3241;6959;11,92;26,48
+Stockholms län;Lidingö;KD;2201;2443;8,09;9,30
+Stockholms län;Lidingö;S;3135;4475;11,53;17,03
+Stockholms län;Lidingö;V;598;919;2,20;3,50
+Stockholms län;Lidingö;MP;1163;1076;4,28;4,09
+Stockholms län;Lidingö;ÖVR;731;362;2,69;1,38
+Stockholms län;Nacka;M;21467;12142;43,79;27,44
+Stockholms län;Nacka;C;2810;735;5,73;1,66
+Stockholms län;Nacka;FP;5024;9740;10,25;22,01
+Stockholms län;Nacka;KD;3075;3504;6,27;7,92
+Stockholms län;Nacka;S;9732;11898;19,85;26,89
+Stockholms län;Nacka;V;2126;3035;4,34;6,86
+Stockholms län;Nacka;MP;3250;2407;6,63;5,44
+Stockholms län;Nacka;ÖVR;1538;782;3,14;1,77
+Stockholms län;Norrtälje;M;10613;5427;32,05;17,35
+Stockholms län;Norrtälje;C;3157;2695;9,53;8,61
+Stockholms län;Norrtälje;FP;2211;4099;6,68;13,10
+Stockholms län;Norrtälje;KD;2096;2586;6,33;8,27
+Stockholms län;Norrtälje;S;10418;12309;31,46;39,34
+Stockholms län;Norrtälje;V;1590;1941;4,80;6,20
+Stockholms län;Norrtälje;MP;1616;1430;4,88;4,57
+Stockholms län;Norrtälje;ÖVR;1413;800;4,27;2,56
+Stockholms län;Nykvarn;M;1697;803;34,60;17,57
+Stockholms län;Nykvarn;C;350;220;7,14;4,81
+Stockholms län;Nykvarn;FP;351;641;7,16;14,03
+Stockholms län;Nykvarn;KD;286;374;5,83;8,18
+Stockholms län;Nykvarn;S;1597;1961;32,56;42,91
+Stockholms län;Nykvarn;V;139;237;2,83;5,19
+Stockholms län;Nykvarn;MP;203;192;4,14;4,20
+Stockholms län;Nykvarn;ÖVR;282;142;5,75;3,11
+Stockholms län;Nynäshamn;M;4677;2243;31,31;15,80
+Stockholms län;Nynäshamn;C;767;506;5,13;3,56
+Stockholms län;Nynäshamn;FP;988;1869;6,61;13,17
+Stockholms län;Nynäshamn;KD;897;1235;6,00;8,70
+Stockholms län;Nynäshamn;S;5209;6078;34,87;42,81
+Stockholms län;Nynäshamn;V;856;1251;5,73;8,81
+Stockholms län;Nynäshamn;MP;771;692;5,16;4,87
+Stockholms län;Nynäshamn;ÖVR;775;322;5,19;2,27
+Stockholms län;Salem;M;2980;1543;35,54;19,84
+Stockholms län;Salem;C;415;173;4,95;2,22
+Stockholms län;Salem;FP;803;1442;9,58;18,54
+Stockholms län;Salem;KD;536;740;6,39;9,51
+Stockholms län;Salem;S;2412;2819;28,76;36,24
+Stockholms län;Salem;V;343;470;4,09;6,04
+Stockholms län;Salem;MP;490;386;5,84;4,96
+Stockholms län;Salem;ÖVR;407;205;4,85;2,64
+Stockholms län;Sigtuna;M;7108;3807;34,66;20,07
+Stockholms län;Sigtuna;C;1079;703;5,26;3,71
+Stockholms län;Sigtuna;FP;1560;2924;7,61;15,42
+Stockholms län;Sigtuna;KD;1300;1764;6,34;9,30
+Stockholms län;Sigtuna;S;6751;7235;32,92;38,15
+Stockholms län;Sigtuna;V;837;1293;4,08;6,82
+Stockholms län;Sigtuna;MP;915;803;4,46;4,23
+Stockholms län;Sigtuna;ÖVR;955;438;4,66;2,31
+Stockholms län;Sollentuna;M;14841;8479;41,12;24,54
+Stockholms län;Sollentuna;C;2152;876;5,96;2,54
+Stockholms län;Sollentuna;FP;3917;7442;10,85;21,54
+Stockholms län;Sollentuna;KD;2749;3429;7,62;9,92
+Stockholms län;Sollentuna;S;7867;10103;21,80;29,24
+Stockholms län;Sollentuna;V;1478;2046;4,10;5,92
+Stockholms län;Sollentuna;MP;1883;1608;5,22;4,65
+Stockholms län;Sollentuna;ÖVR;1203;567;3,33;1,64
+Stockholms län;Solna;M;14781;7766;37,79;21,83
+Stockholms län;Solna;C;1998;640;5,11;1,80
+Stockholms län;Solna;FP;4188;6886;10,71;19,36
+Stockholms län;Solna;KD;1996;2442;5,10;6,86
+Stockholms län;Solna;S;9528;11842;24,36;33,29
+Stockholms län;Solna;V;2343;3302;5,99;9,28
+Stockholms län;Solna;MP;2745;1969;7,02;5,53
+Stockholms län;Solna;ÖVR;1538;728;3,93;2,05
+Stockholms län;Sundbyberg;M;6907;3847;33,44;19,17
+Stockholms län;Sundbyberg;C;944;395;4,57;1,97
+Stockholms län;Sundbyberg;FP;1897;3454;9,19;17,21
+Stockholms län;Sundbyberg;KD;904;1278;4,38;6,37
+Stockholms län;Sundbyberg;S;6146;7493;29,76;37,34
+Stockholms län;Sundbyberg;V;1438;1956;6,96;9,75
+Stockholms län;Sundbyberg;MP;1446;1130;7,00;5,63
+Stockholms län;Sundbyberg;ÖVR;970;516;4,70;2,57
+Stockholms län;Södertälje;M;11505;5921;26,81;14,47
+Stockholms län;Södertälje;C;2304;1377;5,37;3,37
+Stockholms län;Södertälje;FP;3067;5289;7,15;12,93
+Stockholms län;Södertälje;KD;3109;3962;7,24;9,68
+Stockholms län;Södertälje;S;15438;17298;35,97;42,28
+Stockholms län;Södertälje;V;2403;3072;5,60;7,51
+Stockholms län;Södertälje;MP;2759;2448;6,43;5,98
+Stockholms län;Södertälje;ÖVR;2335;1547;5,44;3,78
+Stockholms län;Tyresö;M;9313;4860;38,62;21,78
+Stockholms län;Tyresö;C;1174;445;4,87;1,99
+Stockholms län;Tyresö;FP;2252;4104;9,34;18,39
+Stockholms län;Tyresö;KD;1431;1749;5,93;7,84
+Stockholms län;Tyresö;S;6321;7860;26,21;35,23
+Stockholms län;Tyresö;V;1176;1612;4,88;7,22
+Stockholms län;Tyresö;MP;1460;1104;6,05;4,95
+Stockholms län;Tyresö;ÖVR;986;579;4,09;2,59
+Stockholms län;Täby;M;20913;13275;53,84;35,07
+Stockholms län;Täby;C;2011;751;5,18;1,98
+Stockholms län;Täby;FP;4359;9557;11,22;25,25
+Stockholms län;Täby;KD;2909;3647;7,49;9,64
+Stockholms län;Täby;S;5379;7368;13,85;19,47
+Stockholms län;Täby;V;810;1285;2,09;3,40
+Stockholms län;Täby;MP;1469;1369;3,78;3,62
+Stockholms län;Täby;ÖVR;993;596;2,56;1,57
+Stockholms län;Upplands Väsby;M;7326;3822;34,53;18,69
+Stockholms län;Upplands Väsby;C;848;489;4,00;2,39
+Stockholms län;Upplands Väsby;FP;1907;3350;8,99;16,38
+Stockholms län;Upplands Väsby;KD;1338;1699;6,31;8,31
+Stockholms län;Upplands Väsby;S;6501;7943;30,64;38,83
+Stockholms län;Upplands Väsby;V;1225;1703;5,77;8,33
+Stockholms län;Upplands Väsby;MP;1093;916;5,15;4,48
+Stockholms län;Upplands Väsby;ÖVR;976;532;4,60;2,60
+Stockholms län;Upplands-Bro;M;3860;2054;31,89;18,04
+Stockholms län;Upplands-Bro;C;532;320;4,39;2,81
+Stockholms län;Upplands-Bro;FP;930;1760;7,68;15,46
+Stockholms län;Upplands-Bro;KD;1012;1239;8,36;10,88
+Stockholms län;Upplands-Bro;S;3925;4487;32,42;39,41
+Stockholms län;Upplands-Bro;V;684;899;5,65;7,90
+Stockholms län;Upplands-Bro;MP;609;436;5,03;3,83
+Stockholms län;Upplands-Bro;ÖVR;553;189;4,57;1,66
+Stockholms län;Vallentuna;M;6911;3278;42,09;22,26
+Stockholms län;Vallentuna;C;1230;658;7,49;4,47
+Stockholms län;Vallentuna;FP;1447;2820;8,81;19,15
+Stockholms län;Vallentuna;KD;1162;1654;7,08;11,23
+Stockholms län;Vallentuna;S;3435;4373;20,92;29,70
+Stockholms län;Vallentuna;V;553;807;3,37;5,48
+Stockholms län;Vallentuna;MP;1002;844;6,10;5,73
+Stockholms län;Vallentuna;ÖVR;678;291;4,13;1,98
+Stockholms län;Vaxholm;M;3014;1516;46,57;26,33
+Stockholms län;Vaxholm;C;446;207;6,89;3,59
+Stockholms län;Vaxholm;FP;578;1328;8,93;23,06
+Stockholms län;Vaxholm;KD;502;556;7,76;9,66
+Stockholms län;Vaxholm;S;1113;1481;17,20;25,72
+Stockholms län;Vaxholm;V;190;327;2,94;5,68
+Stockholms län;Vaxholm;MP;447;280;6,91;4,86
+Stockholms län;Vaxholm;ÖVR;182;63;2,81;1,09
+Stockholms län;Värmdö;M;8850;4385;42,91;24,20
+Stockholms län;Värmdö;C;1126;458;5,46;2,53
+Stockholms län;Värmdö;FP;1737;3280;8,42;18,10
+Stockholms län;Värmdö;KD;1283;1577;6,22;8,70
+Stockholms län;Värmdö;S;4614;5865;22,37;32,37
+Stockholms län;Värmdö;V;884;1274;4,29;7,03
+Stockholms län;Värmdö;MP;1326;1015;6,43;5,60
+Stockholms län;Värmdö;ÖVR;805;267;3,90;1,47
+Stockholms län;Österåker;M;9557;4927;42,33;23,99
+Stockholms län;Österåker;C;1261;544;5,58;2,65
+Stockholms län;Österåker;FP;2106;4050;9,33;19,72
+Stockholms län;Österåker;KD;1658;2007;7,34;9,77
+Stockholms län;Österåker;S;5138;6511;22,75;31,71
+Stockholms län;Österåker;V;818;1154;3,62;5,62
+Stockholms län;Österåker;MP;1254;1008;5,55;4,91
+Stockholms län;Österåker;ÖVR;788;335;3,49;1,63
+Södermanlands län;Eskilstuna;M;11576;6164;21,60;12,23
+Södermanlands län;Eskilstuna;C;3192;2218;5,96;4,40
+Södermanlands län;Eskilstuna;FP;3706;6370;6,91;12,64
+Södermanlands län;Eskilstuna;KD;3104;3814;5,79;7,57
+Södermanlands län;Eskilstuna;S;23614;24090;44,06;47,79
+Södermanlands län;Eskilstuna;V;2882;3920;5,38;7,78
+Södermanlands län;Eskilstuna;MP;2869;2501;5,35;4,96
+Södermanlands län;Eskilstuna;ÖVR;2652;1327;4,95;2,63
+Södermanlands län;Flen;M;2004;1180;20,22;12,13
+Södermanlands län;Flen;C;859;731;8,67;7,52
+Södermanlands län;Flen;FP;490;902;4,94;9,28
+Södermanlands län;Flen;KD;559;842;5,64;8,66
+Södermanlands län;Flen;S;4604;4679;46,45;48,12
+Södermanlands län;Flen;V;533;733;5,38;7,54
+Södermanlands län;Flen;MP;424;441;4,28;4,54
+Södermanlands län;Flen;ÖVR;438;216;4,42;2,22
+Södermanlands län;Gnesta;M;1566;834;26,14;14,46
+Södermanlands län;Gnesta;C;678;598;11,32;10,37
+Södermanlands län;Gnesta;FP;332;658;5,54;11,41
+Södermanlands län;Gnesta;KD;334;493;5,58;8,55
+Södermanlands län;Gnesta;S;2064;2327;34,46;40,34
+Södermanlands län;Gnesta;V;291;381;4,86;6,60
+Södermanlands län;Gnesta;MP;438;374;7,31;6,48
+Södermanlands län;Gnesta;ÖVR;287;104;4,79;1,80
+Södermanlands län;Katrineholm;M;3824;2131;19,10;10,90
+Södermanlands län;Katrineholm;C;1338;1167;6,68;5,97
+Södermanlands län;Katrineholm;FP;1438;1923;7,18;9,84
+Södermanlands län;Katrineholm;KD;1135;1523;5,67;7,79
+Södermanlands län;Katrineholm;S;9613;10293;48,01;52,67
+Södermanlands län;Katrineholm;V;868;1093;4,34;5,59
+Södermanlands län;Katrineholm;MP;1035;981;5,17;5,02
+Södermanlands län;Katrineholm;ÖVR;772;432;3,86;2,21
+Södermanlands län;Nyköping;M;7543;4001;23,63;12,97
+Södermanlands län;Nyköping;C;2337;1841;7,32;5,97
+Södermanlands län;Nyköping;FP;2152;3477;6,74;11,27
+Södermanlands län;Nyköping;KD;2409;2884;7,55;9,35
+Södermanlands län;Nyköping;S;12893;14633;40,39;47,43
+Södermanlands län;Nyköping;V;1536;2278;4,81;7,38
+Södermanlands län;Nyköping;MP;1653;1328;5,18;4,30
+Södermanlands län;Nyköping;ÖVR;1399;412;4,38;1,34
+Södermanlands län;Oxelösund;M;1285;666;18,51;9,81
+Södermanlands län;Oxelösund;C;238;129;3,43;1,90
+Södermanlands län;Oxelösund;FP;397;599;5,72;8,82
+Södermanlands län;Oxelösund;KD;321;400;4,62;5,89
+Södermanlands län;Oxelösund;S;3522;3815;50,72;56,18
+Södermanlands län;Oxelösund;V;563;793;8,11;11,68
+Södermanlands län;Oxelösund;MP;329;322;4,74;4,74
+Södermanlands län;Oxelösund;ÖVR;289;67;4,16;0,99
+Södermanlands län;Strängnäs;M;6130;3220;32,40;18,36
+Södermanlands län;Strängnäs;C;1432;955;7,57;5,45
+Södermanlands län;Strängnäs;FP;1562;2858;8,25;16,30
+Södermanlands län;Strängnäs;KD;1268;1659;6,70;9,46
+Södermanlands län;Strängnäs;S;6148;6742;32,49;38,45
+Södermanlands län;Strängnäs;V;704;1042;3,72;5,94
+Södermanlands län;Strängnäs;MP;883;787;4,67;4,49
+Södermanlands län;Strängnäs;ÖVR;795;271;4,20;1,55
+Södermanlands län;Trosa;M;2372;1183;35,20;19,03
+Södermanlands län;Trosa;C;423;320;6,28;5,15
+Södermanlands län;Trosa;FP;531;833;7,88;13,40
+Södermanlands län;Trosa;KD;471;579;6,99;9,31
+Södermanlands län;Trosa;S;2091;2547;31,03;40,96
+Södermanlands län;Trosa;V;226;344;3,35;5,53
+Södermanlands län;Trosa;MP;333;331;4,94;5,32
+Södermanlands län;Trosa;ÖVR;292;81;4,33;1,30
+Södermanlands län;Vingåker;M;1050;621;18,41;11,09
+Södermanlands län;Vingåker;C;445;418;7,80;7,47
+Södermanlands län;Vingåker;FP;235;484;4,12;8,65
+Södermanlands län;Vingåker;KD;349;461;6,12;8,24
+Södermanlands län;Vingåker;S;2909;2966;51,00;52,98
+Södermanlands län;Vingåker;V;227;278;3,98;4,97
+Södermanlands län;Vingåker;MP;254;281;4,45;5,02
+Södermanlands län;Vingåker;ÖVR;235;89;4,12;1,59
+Uppsala län;Enköping;M;6688;3550;29,05;16,35
+Uppsala län;Enköping;C;2874;2479;12,48;11,42
+Uppsala län;Enköping;FP;1202;2345;5,22;10,80
+Uppsala län;Enköping;KD;1363;2088;5,92;9,62
+Uppsala län;Enköping;S;7866;8686;34,17;40,00
+Uppsala län;Enköping;V;874;1167;3,80;5,37
+Uppsala län;Enköping;MP;1007;766;4,37;3,53
+Uppsala län;Enköping;ÖVR;1146;635;4,98;2,92
+Uppsala län;Heby;M;1520;749;18,95;9,56
+Uppsala län;Heby;C;1360;1326;16,95;16,93
+Uppsala län;Heby;FP;404;659;5,04;8,41
+Uppsala län;Heby;KD;573;825;7,14;10,53
+Uppsala län;Heby;S;2946;3174;36,72;40,52
+Uppsala län;Heby;V;474;655;5,91;8,36
+Uppsala län;Heby;MP;251;274;3,13;3,50
+Uppsala län;Heby;ÖVR;495;171;6,17;2,18
+Uppsala län;Håbo;M;4254;2287;39,59;23,33
+Uppsala län;Håbo;C;639;396;5,95;4,04
+Uppsala län;Håbo;FP;735;1365;6,84;13,93
+Uppsala län;Håbo;KD;677;1068;6,30;10,90
+Uppsala län;Håbo;S;3091;3585;28,76;36,57
+Uppsala län;Håbo;V;385;493;3,58;5,03
+Uppsala län;Håbo;MP;424;374;3,95;3,82
+Uppsala län;Håbo;ÖVR;541;234;5,03;2,39
+Uppsala län;Knivsta;M;2688;1436;33,96;20,05
+Uppsala län;Knivsta;C;796;485;10,06;6,77
+Uppsala län;Knivsta;FP;786;1281;9,93;17,89
+Uppsala län;Knivsta;KD;629;755;7,95;10,54
+Uppsala län;Knivsta;S;1923;2279;24,30;31,82
+Uppsala län;Knivsta;V;283;391;3,58;5,46
+Uppsala län;Knivsta;MP;437;361;5,52;5,04
+Uppsala län;Knivsta;ÖVR;373;174;4,71;2,43
+Uppsala län;Tierp;M;1764;981;14,69;8,21
+Uppsala län;Tierp;C;1722;1490;14,34;12,47
+Uppsala län;Tierp;FP;666;962;5,55;8,05
+Uppsala län;Tierp;KD;656;914;5,46;7,65
+Uppsala län;Tierp;S;5495;6061;45,77;50,73
+Uppsala län;Tierp;V;656;878;5,46;7,35
+Uppsala län;Tierp;MP;431;442;3,59;3,70
+Uppsala län;Tierp;ÖVR;616;219;5,13;1,83
+Uppsala län;Uppsala;M;31252;16236;26,89;15,06
+Uppsala län;Uppsala;C;10002;5450;8,61;5,05
+Uppsala län;Uppsala;FP;13079;20110;11,25;18,65
+Uppsala län;Uppsala;KD;8165;9562;7,03;8,87
+Uppsala län;Uppsala;S;31237;36370;26,88;33,73
+Uppsala län;Uppsala;V;7577;10086;6,52;9,35
+Uppsala län;Uppsala;MP;9097;7439;7,83;6,90
+Uppsala län;Uppsala;ÖVR;5798;2589;4,99;2,40
+Uppsala län;Älvkarleby;M;813;359;14,63;6,75
+Uppsala län;Älvkarleby;C;254;168;4,57;3,16
+Uppsala län;Älvkarleby;FP;276;434;4,97;8,16
+Uppsala län;Älvkarleby;KD;206;257;3,71;4,83
+Uppsala län;Älvkarleby;S;3022;3255;54,37;61,22
+Uppsala län;Älvkarleby;V;423;534;7,61;10,04
+Uppsala län;Älvkarleby;MP;192;184;3,45;3,46
+Uppsala län;Älvkarleby;ÖVR;372;126;6,69;2,37
+Uppsala län;Östhammar;M;3037;1633;23,52;12,94
+Uppsala län;Östhammar;C;1693;1534;13,11;12,16
+Uppsala län;Östhammar;FP;781;1097;6,05;8,70
+Uppsala län;Östhammar;KD;707;1002;5,47;7,94
+Uppsala län;Östhammar;S;5094;5799;39,45;45,97
+Uppsala län;Östhammar;V;568;823;4,40;6,52
+Uppsala län;Östhammar;MP;473;496;3,66;3,93
+Uppsala län;Östhammar;ÖVR;561;232;4,34;1,84
+Värmlands län;Arvika;M;2890;1555;18,52;10,31
+Värmlands län;Arvika;C;1746;1356;11,19;8,99
+Värmlands län;Arvika;FP;864;1619;5,54;10,73
+Värmlands län;Arvika;KD;850;1193;5,45;7,91
+Värmlands län;Arvika;S;6497;6636;41,63;43,99
+Värmlands län;Arvika;V;1061;1424;6,80;9,44
+Värmlands län;Arvika;MP;761;838;4,88;5,55
+Värmlands län;Arvika;ÖVR;939;465;6,02;3,08
+Värmlands län;Eda;M;681;382;16,11;8,84
+Värmlands län;Eda;C;669;576;15,82;13,33
+Värmlands län;Eda;FP;149;355;3,52;8,21
+Värmlands län;Eda;KD;256;352;6,05;8,14
+Värmlands län;Eda;S;1917;2154;45,34;49,84
+Värmlands län;Eda;V;205;304;4,85;7,03
+Värmlands län;Eda;MP;87;114;2,06;2,64
+Värmlands län;Eda;ÖVR;264;85;6,24;1,97
+Värmlands län;Filipstad;M;917;543;14,00;8,19
+Värmlands län;Filipstad;C;384;369;5,86;5,56
+Värmlands län;Filipstad;FP;273;487;4,17;7,34
+Värmlands län;Filipstad;KD;228;387;3,48;5,84
+Värmlands län;Filipstad;S;3702;3570;56,51;53,83
+Värmlands län;Filipstad;V;586;815;8,95;12,29
+Värmlands län;Filipstad;MP;150;218;2,29;3,29
+Värmlands län;Filipstad;ÖVR;311;243;4,75;3,66
+Värmlands län;Forshaga;M;1149;626;16,34;9,24
+Värmlands län;Forshaga;C;538;511;7,65;7,54
+Värmlands län;Forshaga;FP;351;589;4,99;8,69
+Värmlands län;Forshaga;KD;376;490;5,35;7,23
+Värmlands län;Forshaga;S;3598;3513;51,16;51,85
+Värmlands län;Forshaga;V;398;550;5,66;8,12
+Värmlands län;Forshaga;MP;217;263;3,09;3,88
+Värmlands län;Forshaga;ÖVR;406;233;5,77;3,44
+Värmlands län;Grums;M;913;482;16,33;8,77
+Värmlands län;Grums;C;529;529;9,46;9,62
+Värmlands län;Grums;FP;184;318;3,29;5,78
+Värmlands län;Grums;KD;302;413;5,40;7,51
+Värmlands län;Grums;S;2907;3006;51,99;54,68
+Värmlands län;Grums;V;356;483;6,37;8,79
+Värmlands län;Grums;MP;131;116;2,34;2,11
+Värmlands län;Grums;ÖVR;269;150;4,81;2,73
+Värmlands län;Hagfors;M;976;544;11,73;6,31
+Värmlands län;Hagfors;C;688;810;8,27;9,40
+Värmlands län;Hagfors;FP;256;427;3,08;4,96
+Värmlands län;Hagfors;KD;258;419;3,10;4,86
+Värmlands län;Hagfors;S;4644;4903;55,81;56,91
+Värmlands län;Hagfors;V;922;1180;11,08;13,70
+Värmlands län;Hagfors;MP;148;176;1,78;2,04
+Värmlands län;Hagfors;ÖVR;429;156;5,16;1,81
+Värmlands län;Hammarö;M;2265;1229;24,95;14,17
+Värmlands län;Hammarö;C;510;346;5,62;3,99
+Värmlands län;Hammarö;FP;637;1156;7,02;13,33
+Värmlands län;Hammarö;KD;597;662;6,58;7,63
+Värmlands län;Hammarö;S;3804;4028;41,90;46,45
+Värmlands län;Hammarö;V;520;713;5,73;8,22
+Värmlands län;Hammarö;MP;362;314;3,99;3,62
+Värmlands län;Hammarö;ÖVR;383;223;4,22;2,57
+Värmlands län;Karlstad;M;13504;7794;25,22;15,20
+Värmlands län;Karlstad;C;4020;2930;7,51;5,71
+Värmlands län;Karlstad;FP;4104;7300;7,66;14,24
+Värmlands län;Karlstad;KD;3504;4456;6,54;8,69
+Värmlands län;Karlstad;S;19731;20485;36,84;39,95
+Värmlands län;Karlstad;V;3199;4093;5,97;7,98
+Värmlands län;Karlstad;MP;2929;2500;5,47;4,88
+Värmlands län;Karlstad;ÖVR;2563;1714;4,79;3,34
+Värmlands län;Kil;M;1504;954;20,99;13,63
+Värmlands län;Kil;C;787;702;10,98;10,03
+Värmlands län;Kil;FP;433;799;6,04;11,41
+Värmlands län;Kil;KD;464;685;6,47;9,78
+Värmlands län;Kil;S;2991;2928;41,73;41,82
+Värmlands län;Kil;V;372;495;5,19;7,07
+Värmlands län;Kil;MP;246;266;3,43;3,80
+Värmlands län;Kil;ÖVR;370;172;5,16;2,46
+Värmlands län;Kristinehamn;M;3111;1787;20,56;12,00
+Värmlands län;Kristinehamn;C;1294;1285;8,55;8,63
+Värmlands län;Kristinehamn;FP;972;1824;6,42;12,25
+Värmlands län;Kristinehamn;KD;839;1240;5,54;8,33
+Värmlands län;Kristinehamn;S;6595;6265;43,59;42,08
+Värmlands län;Kristinehamn;V;1105;1419;7,30;9,53
+Värmlands län;Kristinehamn;MP;547;638;3,62;4,29
+Värmlands län;Kristinehamn;ÖVR;668;430;4,41;2,89
+Värmlands län;Munkfors;M;237;158;9,51;6,13
+Värmlands län;Munkfors;C;241;221;9,67;8,58
+Värmlands län;Munkfors;FP;138;180;5,54;6,99
+Värmlands län;Munkfors;KD;68;106;2,73;4,11
+Värmlands län;Munkfors;S;1391;1527;55,82;59,28
+Värmlands län;Munkfors;V;227;248;9,11;9,63
+Värmlands län;Munkfors;MP;60;76;2,41;2,95
+Värmlands län;Munkfors;ÖVR;130;60;5,22;2,33
+Värmlands län;Storfors;M;429;255;15,54;9,27
+Värmlands län;Storfors;C;232;201;8,40;7,30
+Värmlands län;Storfors;FP;99;211;3,59;7,67
+Värmlands län;Storfors;KD;125;200;4,53;7,27
+Värmlands län;Storfors;S;1444;1448;52,30;52,62
+Värmlands län;Storfors;V;237;287;8,58;10,43
+Värmlands län;Storfors;MP;61;84;2,21;3,05
+Värmlands län;Storfors;ÖVR;134;66;4,85;2,40
+Värmlands län;Sunne;M;1979;1194;23,69;14,58
+Värmlands län;Sunne;C;1661;1660;19,88;20,27
+Värmlands län;Sunne;FP;433;767;5,18;9,37
+Värmlands län;Sunne;KD;476;727;5,70;8,88
+Värmlands län;Sunne;S;2858;2874;34,21;35,10
+Värmlands län;Sunne;V;329;485;3,94;5,92
+Värmlands län;Sunne;MP;271;309;3,24;3,77
+Värmlands län;Sunne;ÖVR;348;173;4,17;2,11
+Värmlands län;Säffle;M;2015;1245;20,63;12,38
+Värmlands län;Säffle;C;1666;1921;17,06;19,11
+Värmlands län;Säffle;FP;508;1082;5,20;10,76
+Värmlands län;Säffle;KD;683;1094;6,99;10,88
+Värmlands län;Säffle;S;3589;3401;36,75;33,83
+Värmlands län;Säffle;V;409;660;4,19;6,56
+Värmlands län;Säffle;MP;241;359;2,47;3,57
+Värmlands län;Säffle;ÖVR;655;292;6,71;2,90
+Värmlands län;Torsby;M;1675;1251;21,36;15,69
+Värmlands län;Torsby;C;918;1012;11,71;12,69
+Värmlands län;Torsby;FP;253;471;3,23;5,91
+Värmlands län;Torsby;KD;304;434;3,88;5,44
+Värmlands län;Torsby;S;3507;3480;44,72;43,64
+Värmlands län;Torsby;V;654;926;8,34;11,61
+Värmlands län;Torsby;MP;192;230;2,45;2,88
+Värmlands län;Torsby;ÖVR;339;171;4,32;2,14
+Värmlands län;Årjäng;M;956;500;19,32;9,79
+Värmlands län;Årjäng;C;925;732;18,69;14,33
+Värmlands län;Årjäng;FP;407;1378;8,23;26,98
+Värmlands län;Årjäng;KD;493;548;9,96;10,73
+Värmlands län;Årjäng;S;1579;1497;31,91;29,31
+Värmlands län;Årjäng;V;230;279;4,65;5,46
+Värmlands län;Årjäng;MP;116;107;2,34;2,09
+Värmlands län;Årjäng;ÖVR;242;67;4,89;1,31
+Västerbottens län;Bjurholm;M;301;228;19,17;14,14
+Västerbottens län;Bjurholm;C;314;323;20,00;20,02
+Västerbottens län;Bjurholm;FP;152;170;9,68;10,54
+Västerbottens län;Bjurholm;KD;132;164;8,41;10,17
+Västerbottens län;Bjurholm;S;560;629;35,67;39,00
+Västerbottens län;Bjurholm;V;51;65;3,25;4,03
+Västerbottens län;Bjurholm;MP;35;14;2,23;0,87
+Västerbottens län;Bjurholm;ÖVR;25;20;1,59;1,24
+Västerbottens län;Dorotea;M;162;73;8,74;3,76
+Västerbottens län;Dorotea;C;231;245;12,46;12,63
+Västerbottens län;Dorotea;FP;160;178;8,63;9,18
+Västerbottens län;Dorotea;KD;60;90;3,24;4,64
+Västerbottens län;Dorotea;S;1012;1068;54,58;55,05
+Västerbottens län;Dorotea;V;167;213;9,01;10,98
+Västerbottens län;Dorotea;MP;19;34;1,02;1,75
+Västerbottens län;Dorotea;ÖVR;43;39;2,32;2,01
+Västerbottens län;Lycksele;M;952;423;12,21;5,50
+Västerbottens län;Lycksele;C;678;644;8,70;8,37
+Västerbottens län;Lycksele;FP;476;841;6,11;10,93
+Västerbottens län;Lycksele;KD;727;842;9,33;10,94
+Västerbottens län;Lycksele;S;3906;3890;50,12;50,56
+Västerbottens län;Lycksele;V;568;758;7,29;9,85
+Västerbottens län;Lycksele;MP;210;162;2,69;2,11
+Västerbottens län;Lycksele;ÖVR;277;134;3,55;1,74
+Västerbottens län;Malå;M;222;135;10,42;6,14
+Västerbottens län;Malå;C;189;199;8,87;9,05
+Västerbottens län;Malå;FP;134;187;6,29;8,50
+Västerbottens län;Malå;KD;113;158;5,31;7,19
+Västerbottens län;Malå;S;1155;1073;54,23;48,79
+Västerbottens län;Malå;V;234;381;10,99;17,33
+Västerbottens län;Malå;MP;30;45;1,41;2,05
+Västerbottens län;Malå;ÖVR;53;21;2,49;0,95
+Västerbottens län;Nordmaling;M;553;340;11,84;7,50
+Västerbottens län;Nordmaling;C;736;656;15,76;14,47
+Västerbottens län;Nordmaling;FP;386;406;8,27;8,95
+Västerbottens län;Nordmaling;KD;302;460;6,47;10,14
+Västerbottens län;Nordmaling;S;2157;2190;46,20;48,29
+Västerbottens län;Nordmaling;V;283;338;6,06;7,45
+Västerbottens län;Nordmaling;MP;116;105;2,48;2,32
+Västerbottens län;Nordmaling;ÖVR;136;40;2,91;0,88
+Västerbottens län;Norsjö;M;201;117;7,33;4,11
+Västerbottens län;Norsjö;C;421;559;15,35;19,61
+Västerbottens län;Norsjö;FP;125;191;4,56;6,70
+Västerbottens län;Norsjö;KD;249;256;9,08;8,98
+Västerbottens län;Norsjö;S;1354;1257;49,38;44,11
+Västerbottens län;Norsjö;V;264;390;9,63;13,68
+Västerbottens län;Norsjö;MP;45;48;1,64;1,68
+Västerbottens län;Norsjö;ÖVR;83;32;3,03;1,12
+Västerbottens län;Robertsfors;M;436;248;9,88;5,72
+Västerbottens län;Robertsfors;C;1240;1316;28,11;30,35
+Västerbottens län;Robertsfors;FP;172;235;3,90;5,42
+Västerbottens län;Robertsfors;KD;281;384;6,37;8,86
+Västerbottens län;Robertsfors;S;1746;1684;39,57;38,84
+Västerbottens län;Robertsfors;V;273;346;6,19;7,98
+Västerbottens län;Robertsfors;MP;137;93;3,11;2,14
+Västerbottens län;Robertsfors;ÖVR;127;30;2,88;0,69
+Västerbottens län;Skellefteå;M;5076;2265;11,04;5,04
+Västerbottens län;Skellefteå;C;4624;4591;10,06;10,21
+Västerbottens län;Skellefteå;FP;2750;4261;5,98;9,48
+Västerbottens län;Skellefteå;KD;2891;3807;6,29;8,47
+Västerbottens län;Skellefteå;S;23134;22779;50,31;50,66
+Västerbottens län;Skellefteå;V;4111;5150;8,94;11,45
+Västerbottens län;Skellefteå;MP;1959;1612;4,26;3,58
+Västerbottens län;Skellefteå;ÖVR;1436;502;3,12;1,12
+Västerbottens län;Sorsele;M;213;100;12,66;5,57
+Västerbottens län;Sorsele;C;301;274;17,90;15,27
+Västerbottens län;Sorsele;FP;71;115;4,22;6,41
+Västerbottens län;Sorsele;KD;156;210;9,27;11,71
+Västerbottens län;Sorsele;S;695;791;41,32;44,09
+Västerbottens län;Sorsele;V;136;168;8,09;9,36
+Västerbottens län;Sorsele;MP;48;85;2,85;4,74
+Västerbottens län;Sorsele;ÖVR;62;51;3,69;2,84
+Västerbottens län;Storuman;M;608;332;15,65;8,25
+Västerbottens län;Storuman;C;481;550;12,38;13,66
+Västerbottens län;Storuman;FP;243;323;6,25;8,02
+Västerbottens län;Storuman;KD;386;460;9,94;11,43
+Västerbottens län;Storuman;S;1590;1703;40,93;42,31
+Västerbottens län;Storuman;V;325;402;8,37;9,99
+Västerbottens län;Storuman;MP;104;143;2,68;3,55
+Västerbottens län;Storuman;ÖVR;148;112;3,81;2,78
+Västerbottens län;Umeå;M;11681;4994;16,53;7,77
+Västerbottens län;Umeå;C;7429;5526;10,51;8,60
+Västerbottens län;Umeå;FP;4845;7571;6,86;11,78
+Västerbottens län;Umeå;KD;3963;4823;5,61;7,51
+Västerbottens län;Umeå;S;27279;28182;38,60;43,86
+Västerbottens län;Umeå;V;6058;8122;8,57;12,64
+Västerbottens län;Umeå;MP;6416;4166;9,08;6,48
+Västerbottens län;Umeå;ÖVR;3003;866;4,25;1,35
+Västerbottens län;Vilhelmina;M;402;145;8,93;3,16
+Västerbottens län;Vilhelmina;C;579;583;12,86;12,70
+Västerbottens län;Vilhelmina;FP;270;398;6,00;8,67
+Västerbottens län;Vilhelmina;KD;450;522;10,00;11,38
+Västerbottens län;Vilhelmina;S;2117;2211;47,02;48,18
+Västerbottens län;Vilhelmina;V;402;470;8,93;10,24
+Västerbottens län;Vilhelmina;MP;105;153;2,33;3,33
+Västerbottens län;Vilhelmina;ÖVR;177;107;3,93;2,33
+Västerbottens län;Vindeln;M;571;300;16,41;8,58
+Västerbottens län;Vindeln;C;674;697;19,37;19,93
+Västerbottens län;Vindeln;FP;204;332;5,86;9,49
+Västerbottens län;Vindeln;KD;297;394;8,53;11,26
+Västerbottens län;Vindeln;S;1363;1382;39,17;39,51
+Västerbottens län;Vindeln;V;165;258;4,74;7,38
+Västerbottens län;Vindeln;MP;83;80;2,39;2,29
+Västerbottens län;Vindeln;ÖVR;123;55;3,53;1,57
+Västerbottens län;Vännäs;M;629;269;12,47;5,52
+Västerbottens län;Vännäs;C;920;905;18,24;18,58
+Västerbottens län;Vännäs;FP;223;338;4,42;6,94
+Västerbottens län;Vännäs;KD;356;432;7,06;8,87
+Västerbottens län;Vännäs;S;2144;2181;42,51;44,78
+Västerbottens län;Vännäs;V;418;559;8,29;11,48
+Västerbottens län;Vännäs;MP;215;156;4,26;3,20
+Västerbottens län;Vännäs;ÖVR;139;31;2,76;0,64
+Västerbottens län;Åsele;M;206;114;9,95;5,16
+Västerbottens län;Åsele;C;337;380;16,27;17,21
+Västerbottens län;Åsele;FP;99;127;4,78;5,75
+Västerbottens län;Åsele;KD;134;133;6,47;6,02
+Västerbottens län;Åsele;S;1048;1156;50,60;52,36
+Västerbottens län;Åsele;V;144;202;6,95;9,15
+Västerbottens län;Åsele;MP;22;42;1,06;1,90
+Västerbottens län;Åsele;ÖVR;81;54;3,91;2,45
+Västernorrlands län;Härnösand;M;3033;1533;19,07;9,99
+Västernorrlands län;Härnösand;C;1824;1619;11,47;10,55
+Västernorrlands län;Härnösand;FP;800;1552;5,03;10,11
+Västernorrlands län;Härnösand;KD;777;1133;4,89;7,38
+Västernorrlands län;Härnösand;S;6267;6997;39,40;45,59
+Västernorrlands län;Härnösand;V;1115;1472;7,01;9,59
+Västernorrlands län;Härnösand;MP;913;874;5,74;5,69
+Västernorrlands län;Härnösand;ÖVR;1176;169;7,39;1,10
+Västernorrlands län;Kramfors;M;1629;880;12,81;6,76
+Västernorrlands län;Kramfors;C;1832;1814;14,41;13,94
+Västernorrlands län;Kramfors;FP;379;698;2,98;5,36
+Västernorrlands län;Kramfors;KD;527;757;4,14;5,82
+Västernorrlands län;Kramfors;S;6380;6644;50,17;51,04
+Västernorrlands län;Kramfors;V;1179;1637;9,27;12,58
+Västernorrlands län;Kramfors;MP;383;477;3,01;3,66
+Västernorrlands län;Kramfors;ÖVR;408;110;3,21;0,85
+Västernorrlands län;Sollefteå;M;1700;891;13,02;6,79
+Västernorrlands län;Sollefteå;C;1368;1293;10,48;9,85
+Västernorrlands län;Sollefteå;FP;525;748;4,02;5,70
+Västernorrlands län;Sollefteå;KD;603;975;4,62;7,43
+Västernorrlands län;Sollefteå;S;6672;7004;51,12;53,36
+Västernorrlands län;Sollefteå;V;1193;1511;9,14;11,51
+Västernorrlands län;Sollefteå;MP;465;532;3,56;4,05
+Västernorrlands län;Sollefteå;ÖVR;526;172;4,03;1,31
+Västernorrlands län;Sundsvall;M;12436;6263;21,02;10,92
+Västernorrlands län;Sundsvall;C;4871;3935;8,23;6,86
+Västernorrlands län;Sundsvall;FP;4300;6939;7,27;12,09
+Västernorrlands län;Sundsvall;KD;3002;3946;5,07;6,88
+Västernorrlands län;Sundsvall;S;24921;26627;42,12;46,41
+Västernorrlands län;Sundsvall;V;3927;5719;6,64;9,97
+Västernorrlands län;Sundsvall;MP;2639;2412;4,46;4,20
+Västernorrlands län;Sundsvall;ÖVR;3076;1533;5,20;2,67
+Västernorrlands län;Timrå;M;1365;581;12,63;5,40
+Västernorrlands län;Timrå;C;937;891;8,67;8,29
+Västernorrlands län;Timrå;FP;497;856;4,60;7,96
+Västernorrlands län;Timrå;KD;475;631;4,39;5,87
+Västernorrlands län;Timrå;S;5772;5914;53,39;54,99
+Västernorrlands län;Timrå;V;835;1343;7,72;12,49
+Västernorrlands län;Timrå;MP;303;251;2,80;2,33
+Västernorrlands län;Timrå;ÖVR;627;287;5,80;2,67
+Västernorrlands län;Ånge;M;901;451;13,96;6,96
+Västernorrlands län;Ånge;C;784;819;12,15;12,63
+Västernorrlands län;Ånge;FP;220;399;3,41;6,15
+Västernorrlands län;Ånge;KD;324;418;5,02;6,45
+Västernorrlands län;Ånge;S;3135;3247;48,57;50,08
+Västernorrlands län;Ånge;V;551;777;8,54;11,98
+Västernorrlands län;Ånge;MP;170;214;2,63;3,30
+Västernorrlands län;Ånge;ÖVR;370;159;5,73;2,45
+Västernorrlands län;Örnsköldsvik;M;5255;2243;14,88;6,43
+Västernorrlands län;Örnsköldsvik;C;4581;4195;12,98;12,03
+Västernorrlands län;Örnsköldsvik;FP;1567;2782;4,44;7,98
+Västernorrlands län;Örnsköldsvik;KD;2966;3590;8,40;10,30
+Västernorrlands län;Örnsköldsvik;S;17368;18053;49,19;51,78
+Västernorrlands län;Örnsköldsvik;V;1429;2443;4,05;7,01
+Västernorrlands län;Örnsköldsvik;MP;998;912;2,83;2,62
+Västernorrlands län;Örnsköldsvik;ÖVR;1141;644;3,23;1,85
+Västmanlands län;Arboga;M;1733;953;21,12;11,67
+Västmanlands län;Arboga;C;725;564;8,83;6,90
+Västmanlands län;Arboga;FP;542;1006;6,60;12,31
+Västmanlands län;Arboga;KD;423;683;5,15;8,36
+Västmanlands län;Arboga;S;3453;3622;42,07;44,34
+Västmanlands län;Arboga;V;525;723;6,40;8,85
+Västmanlands län;Arboga;MP;316;429;3,85;5,25
+Västmanlands län;Arboga;ÖVR;490;189;5,97;2,31
+Västmanlands län;Fagersta;M;1291;747;17,84;10,23
+Västmanlands län;Fagersta;C;322;286;4,45;3,92
+Västmanlands län;Fagersta;FP;372;581;5,14;7,96
+Västmanlands län;Fagersta;KD;334;441;4,62;6,04
+Västmanlands län;Fagersta;S;3611;3838;49,90;52,57
+Västmanlands län;Fagersta;V;683;997;9,44;13,66
+Västmanlands län;Fagersta;MP;220;261;3,04;3,57
+Västmanlands län;Fagersta;ÖVR;404;150;5,58;2,05
+Västmanlands län;Hallstahammar;M;1375;696;16,01;8,34
+Västmanlands län;Hallstahammar;C;458;361;5,33;4,33
+Västmanlands län;Hallstahammar;FP;507;817;5,90;9,79
+Västmanlands län;Hallstahammar;KD;620;696;7,22;8,34
+Västmanlands län;Hallstahammar;S;4213;4361;49,06;52,26
+Västmanlands län;Hallstahammar;V;648;886;7,55;10,62
+Västmanlands län;Hallstahammar;MP;316;277;3,68;3,32
+Västmanlands län;Hallstahammar;ÖVR;451;251;5,25;3,01
+Västmanlands län;Kungsör;M;1161;586;23,39;12,16
+Västmanlands län;Kungsör;C;539;428;10,86;8,88
+Västmanlands län;Kungsör;FP;302;562;6,09;11,66
+Västmanlands län;Kungsör;KD;280;409;5,64;8,49
+Västmanlands län;Kungsör;S;1924;2184;38,77;45,31
+Västmanlands län;Kungsör;V;287;398;5,78;8,26
+Västmanlands län;Kungsör;MP;183;173;3,69;3,59
+Västmanlands län;Kungsör;ÖVR;287;80;5,78;1,66
+Västmanlands län;Köping;M;2897;1546;19,90;11,01
+Västmanlands län;Köping;C;1254;979;8,62;6,97
+Västmanlands län;Köping;FP;813;1442;5,59;10,27
+Västmanlands län;Köping;KD;728;959;5,00;6,83
+Västmanlands län;Köping;S;6572;6853;45,15;48,79
+Västmanlands län;Köping;V;966;1395;6,64;9,93
+Västmanlands län;Köping;MP;486;457;3,34;3,25
+Västmanlands län;Köping;ÖVR;840;415;5,77;2,95
+Västmanlands län;Norberg;M;573;311;16,34;8,91
+Västmanlands län;Norberg;C;233;189;6,64;5,42
+Västmanlands län;Norberg;FP;158;281;4,51;8,05
+Västmanlands län;Norberg;KD;117;175;3,34;5,02
+Västmanlands län;Norberg;S;1562;1730;44,54;49,58
+Västmanlands län;Norberg;V;442;601;12,60;17,23
+Västmanlands län;Norberg;MP;147;145;4,19;4,16
+Västmanlands län;Norberg;ÖVR;275;57;7,84;1,63
+Västmanlands län;Sala;M;3011;1484;22,98;11,78
+Västmanlands län;Sala;C;1872;1612;14,29;12,79
+Västmanlands län;Sala;FP;824;1427;6,29;11,33
+Västmanlands län;Sala;KD;854;1212;6,52;9,62
+Västmanlands län;Sala;S;4650;5143;35,50;40,82
+Västmanlands län;Sala;V;745;928;5,69;7,37
+Västmanlands län;Sala;MP;463;544;3,53;4,32
+Västmanlands län;Sala;ÖVR;681;250;5,20;1,98
+Västmanlands län;Skinnskatteberg;M;399;210;14,39;7,77
+Västmanlands län;Skinnskatteberg;C;256;225;9,23;8,32
+Västmanlands län;Skinnskatteberg;FP;157;185;5,66;6,84
+Västmanlands län;Skinnskatteberg;KD;106;143;3,82;5,29
+Västmanlands län;Skinnskatteberg;S;1347;1450;48,58;53,62
+Västmanlands län;Skinnskatteberg;V;254;348;9,16;12,87
+Västmanlands län;Skinnskatteberg;MP;95;105;3,43;3,88
+Västmanlands län;Skinnskatteberg;ÖVR;159;38;5,73;1,41
+Västmanlands län;Surahammar;M;813;404;14,35;7,21
+Västmanlands län;Surahammar;C;271;214;4,78;3,82
+Västmanlands län;Surahammar;FP;335;487;5,91;8,69
+Västmanlands län;Surahammar;KD;238;312;4,20;5,57
+Västmanlands län;Surahammar;S;3056;3241;53,95;57,83
+Västmanlands län;Surahammar;V;475;646;8,39;11,53
+Västmanlands län;Surahammar;MP;175;197;3,09;3,52
+Västmanlands län;Surahammar;ÖVR;301;103;5,31;1,84
+Västmanlands län;Västerås;M;21280;10802;26,70;14,52
+Västmanlands län;Västerås;C;4256;2354;5,34;3,16
+Västmanlands län;Västerås;FP;8066;12408;10,12;16,68
+Västmanlands län;Västerås;KD;4802;6102;6,02;8,20
+Västmanlands län;Västerås;S;28626;31557;35,92;42,41
+Västmanlands län;Västerås;V;4186;5433;5,25;7,30
+Västmanlands län;Västerås;MP;3907;3642;4,90;4,89
+Västmanlands län;Västerås;ÖVR;4581;2112;5,75;2,84
+Västra Götalands län;Göteborg;M;78679;47586;26,88;17,43
+Västra Götalands län;Göteborg;C;13076;5115;4,47;1,87
+Västra Götalands län;Göteborg;FP;29981;49187;10,24;18,01
+Västra Götalands län;Göteborg;KD;19698;23519;6,73;8,61
+Västra Götalands län;Göteborg;S;84693;90547;28,93;33,16
+Västra Götalands län;Göteborg;V;25407;32405;8,68;11,87
+Västra Götalands län;Göteborg;MP;24694;17657;8,44;6,47
+Västra Götalands län;Göteborg;ÖVR;16498;7040;5,64;2,58
+Västra Götalands län;Ale;M;3272;1620;21,24;11,05
+Västra Götalands län;Ale;C;1071;796;6,95;5,43
+Västra Götalands län;Ale;FP;1116;1771;7,24;12,08
+Västra Götalands län;Ale;KD;1094;1499;7,10;10,23
+Västra Götalands län;Ale;S;6164;6428;40,01;43,85
+Västra Götalands län;Ale;V;1102;1508;7,15;10,29
+Västra Götalands län;Ale;MP;645;606;4,19;4,13
+Västra Götalands län;Ale;ÖVR;941;430;6,11;2,93
+Västra Götalands län;Alingsås;M;5249;2839;22,68;13,10
+Västra Götalands län;Alingsås;C;1869;1186;8,08;5,47
+Västra Götalands län;Alingsås;FP;2240;3323;9,68;15,33
+Västra Götalands län;Alingsås;KD;2417;3434;10,44;15,85
+Västra Götalands län;Alingsås;S;7297;7450;31,53;34,38
+Västra Götalands län;Alingsås;V;1474;1992;6,37;9,19
+Västra Götalands län;Alingsås;MP;1541;1213;6,66;5,60
+Västra Götalands län;Alingsås;ÖVR;1057;233;4,57;1,08
+Västra Götalands län;Bengtsfors;M;1009;551;16,55;8,89
+Västra Götalands län;Bengtsfors;C;878;872;14,40;14,07
+Västra Götalands län;Bengtsfors;FP;297;559;4,87;9,02
+Västra Götalands län;Bengtsfors;KD;418;653;6,86;10,54
+Västra Götalands län;Bengtsfors;S;2608;2863;42,78;46,20
+Västra Götalands län;Bengtsfors;V;338;430;5,54;6,94
+Västra Götalands län;Bengtsfors;MP;247;186;4,05;3,00
+Västra Götalands län;Bengtsfors;ÖVR;301;83;4,94;1,34
+Västra Götalands län;Dals-Ed;M;543;291;19,77;10,78
+Västra Götalands län;Dals-Ed;C;471;484;17,15;17,93
+Västra Götalands län;Dals-Ed;FP;129;174;4,70;6,44
+Västra Götalands län;Dals-Ed;KD;331;464;12,05;17,19
+Västra Götalands län;Dals-Ed;S;931;1023;33,89;37,89
+Västra Götalands län;Dals-Ed;V;84;115;3,06;4,26
+Västra Götalands län;Dals-Ed;MP;77;99;2,80;3,67
+Västra Götalands län;Dals-Ed;ÖVR;181;50;6,59;1,85
+Västra Götalands län;Färgelanda;M;714;374;17,50;9,18
+Västra Götalands län;Färgelanda;C;764;796;18,72;19,55
+Västra Götalands län;Färgelanda;FP;259;440;6,35;10,81
+Västra Götalands län;Färgelanda;KD;230;409;5,64;10,04
+Västra Götalands län;Färgelanda;S;1556;1621;38,13;39,81
+Västra Götalands län;Färgelanda;V;153;248;3,75;6,09
+Västra Götalands län;Färgelanda;MP;87;80;2,13;1,96
+Västra Götalands län;Färgelanda;ÖVR;318;104;7,79;2,55
+Västra Götalands län;Herrljunga;M;1246;697;21,30;12,06
+Västra Götalands län;Herrljunga;C;904;923;15,46;15,97
+Västra Götalands län;Herrljunga;FP;402;567;6,87;9,81
+Västra Götalands län;Herrljunga;KD;622;991;10,63;17,14
+Västra Götalands län;Herrljunga;S;1814;1892;31,01;32,73
+Västra Götalands län;Herrljunga;V;288;382;4,92;6,61
+Västra Götalands län;Herrljunga;MP;188;201;3,21;3,48
+Västra Götalands län;Herrljunga;ÖVR;385;128;6,58;2,21
+Västra Götalands län;Lerum;M;6815;3655;29,95;17,25
+Västra Götalands län;Lerum;C;1441;724;6,33;3,42
+Västra Götalands län;Lerum;FP;2320;3841;10,20;18,13
+Västra Götalands län;Lerum;KD;1999;2567;8,79;12,12
+Västra Götalands län;Lerum;S;6251;6976;27,47;32,93
+Västra Götalands län;Lerum;V;1272;1803;5,59;8,51
+Västra Götalands län;Lerum;MP;1450;1060;6,37;5,00
+Västra Götalands län;Lerum;ÖVR;1205;558;5,30;2,63
+Västra Götalands län;Lilla Edet;M;1309;731;17,72;10,24
+Västra Götalands län;Lilla Edet;C;671;609;9,08;8,53
+Västra Götalands län;Lilla Edet;FP;402;690;5,44;9,66
+Västra Götalands län;Lilla Edet;KD;404;573;5,47;8,02
+Västra Götalands län;Lilla Edet;S;3140;3256;42,50;45,60
+Västra Götalands län;Lilla Edet;V;583;697;7,89;9,76
+Västra Götalands län;Lilla Edet;MP;280;337;3,79;4,72
+Västra Götalands län;Lilla Edet;ÖVR;600;248;8,12;3,47
+Västra Götalands län;Mellerud;M;1161;716;20,52;12,66
+Västra Götalands län;Mellerud;C;901;865;15,93;15,29
+Västra Götalands län;Mellerud;FP;301;544;5,32;9,62
+Västra Götalands län;Mellerud;KD;532;757;9,40;13,38
+Västra Götalands län;Mellerud;S;1934;2020;34,19;35,71
+Västra Götalands län;Mellerud;V;284;358;5,02;6,33
+Västra Götalands län;Mellerud;MP;177;174;3,13;3,08
+Västra Götalands län;Mellerud;ÖVR;367;222;6,49;3,93
+Västra Götalands län;Trollhättan;M;6049;3532;18,82;11,47
+Västra Götalands län;Trollhättan;C;1801;1385;5,60;4,50
+Västra Götalands län;Trollhättan;FP;2188;3466;6,81;11,26
+Västra Götalands län;Trollhättan;KD;1762;2363;5,48;7,67
+Västra Götalands län;Trollhättan;S;15926;15365;49,55;49,90
+Västra Götalands län;Trollhättan;V;1733;2721;5,39;8,84
+Västra Götalands län;Trollhättan;MP;1373;1215;4,27;3,95
+Västra Götalands län;Trollhättan;ÖVR;1307;744;4,07;2,42
+Västra Götalands län;Vårgårda;M;1225;669;18,39;10,63
+Västra Götalands län;Vårgårda;C;909;774;13,64;12,30
+Västra Götalands län;Vårgårda;FP;505;630;7,58;10,01
+Västra Götalands län;Vårgårda;KD;1107;1473;16,61;23,40
+Västra Götalands län;Vårgårda;S;1968;1973;29,54;31,34
+Västra Götalands län;Vårgårda;V;279;397;4,19;6,31
+Västra Götalands län;Vårgårda;MP;311;262;4,67;4,16
+Västra Götalands län;Vårgårda;ÖVR;359;117;5,39;1,86
+Västra Götalands län;Vänersborg;M;4440;2470;19,37;11,16
+Västra Götalands län;Vänersborg;C;1945;1659;8,49;7,50
+Västra Götalands län;Vänersborg;FP;1551;2496;6,77;11,28
+Västra Götalands län;Vänersborg;KD;1722;2270;7,51;10,26
+Västra Götalands län;Vänersborg;S;9631;9726;42,03;43,96
+Västra Götalands län;Vänersborg;V;1357;2133;5,92;9,64
+Västra Götalands län;Vänersborg;MP;1095;956;4,78;4,32
+Västra Götalands län;Vänersborg;ÖVR;1176;413;5,13;1,87
+Västra Götalands län;Åmål;M;1395;715;18,37;9,66
+Västra Götalands län;Åmål;C;846;842;11,14;11,38
+Västra Götalands län;Åmål;FP;385;699;5,07;9,45
+Västra Götalands län;Åmål;KD;485;750;6,39;10,14
+Västra Götalands län;Åmål;S;3354;3457;44,18;46,72
+Västra Götalands län;Åmål;V;439;514;5,78;6,95
+Västra Götalands län;Åmål;MP;318;298;4,19;4,03
+Västra Götalands län;Åmål;ÖVR;370;125;4,87;1,69
+Västra Götalands län;Bollebygd;M;1399;796;27,05;16,64
+Västra Götalands län;Bollebygd;C;484;371;9,36;7,75
+Västra Götalands län;Bollebygd;FP;342;522;6,61;10,91
+Västra Götalands län;Bollebygd;KD;441;667;8,53;13,94
+Västra Götalands län;Bollebygd;S;1676;1783;32,41;37,26
+Västra Götalands län;Bollebygd;V;289;336;5,59;7,02
+Västra Götalands län;Bollebygd;MP;182;214;3,52;4,47
+Västra Götalands län;Bollebygd;ÖVR;358;96;6,92;2,01
+Västra Götalands län;Borås;M;15297;8815;25,39;15,17
+Västra Götalands län;Borås;C;3495;2510;5,80;4,32
+Västra Götalands län;Borås;FP;4342;6753;7,21;11,62
+Västra Götalands län;Borås;KD;4735;6786;7,86;11,67
+Västra Götalands län;Borås;S;21911;24512;36,36;42,17
+Västra Götalands län;Borås;V;3665;4747;6,08;8,17
+Västra Götalands län;Borås;MP;2544;2221;4,22;3,82
+Västra Götalands län;Borås;ÖVR;4269;1781;7,08;3,06
+Västra Götalands län;Mark;M;4182;2170;20,41;11,09
+Västra Götalands län;Mark;C;2424;2054;11,83;10,50
+Västra Götalands län;Mark;FP;1093;1851;5,33;9,46
+Västra Götalands län;Mark;KD;1597;2360;7,79;12,07
+Västra Götalands län;Mark;S;7851;8362;38,31;42,75
+Västra Götalands län;Mark;V;1306;1588;6,37;8,12
+Västra Götalands län;Mark;MP;819;798;4,00;4,08
+Västra Götalands län;Mark;ÖVR;1220;376;5,95;1,92
+Västra Götalands län;Svenljunga;M;1464;827;24,01;13,68
+Västra Götalands län;Svenljunga;C;992;918;16,27;15,19
+Västra Götalands län;Svenljunga;FP;381;626;6,25;10,36
+Västra Götalands län;Svenljunga;KD;467;769;7,66;12,72
+Västra Götalands län;Svenljunga;S;2083;2310;34,16;38,21
+Västra Götalands län;Svenljunga;V;157;292;2,58;4,83
+Västra Götalands län;Svenljunga;MP;134;200;2,20;3,31
+Västra Götalands län;Svenljunga;ÖVR;419;103;6,87;1,70
+Västra Götalands län;Tranemo;M;1532;882;21,17;12,25
+Västra Götalands län;Tranemo;C;1271;1112;17,56;15,44
+Västra Götalands län;Tranemo;FP;417;641;5,76;8,90
+Västra Götalands län;Tranemo;KD;473;849;6,53;11,79
+Västra Götalands län;Tranemo;S;2612;3030;36,09;42,08
+Västra Götalands län;Tranemo;V;256;359;3,54;4,99
+Västra Götalands län;Tranemo;MP;222;239;3,07;3,32
+Västra Götalands län;Tranemo;ÖVR;455;88;6,29;1,22
+Västra Götalands län;Ulricehamn;M;3364;1728;24,00;12,56
+Västra Götalands län;Ulricehamn;C;2060;1825;14,70;13,27
+Västra Götalands län;Ulricehamn;FP;798;1558;5,69;11,33
+Västra Götalands län;Ulricehamn;KD;1380;2115;9,85;15,38
+Västra Götalands län;Ulricehamn;S;4296;4825;30,65;35,08
+Västra Götalands län;Ulricehamn;V;560;866;4,00;6,30
+Västra Götalands län;Ulricehamn;MP;587;552;4,19;4,01
+Västra Götalands län;Ulricehamn;ÖVR;970;286;6,92;2,08
+Västra Götalands län;Härryda;M;5711;3050;29,63;17,23
+Västra Götalands län;Härryda;C;1339;694;6,95;3,92
+Västra Götalands län;Härryda;FP;2056;3345;10,67;18,90
+Västra Götalands län;Härryda;KD;1421;1699;7,37;9,60
+Västra Götalands län;Härryda;S;5620;6054;29,16;34,21
+Västra Götalands län;Härryda;V;1050;1368;5,45;7,73
+Västra Götalands län;Härryda;MP;1055;909;5,47;5,14
+Västra Götalands län;Härryda;ÖVR;1020;578;5,29;3,27
+Västra Götalands län;Kungälv;M;6516;3518;26,24;15,07
+Västra Götalands län;Kungälv;C;1961;1411;7,90;6,05
+Västra Götalands län;Kungälv;FP;2173;3467;8,75;14,86
+Västra Götalands län;Kungälv;KD;2165;2835;8,72;12,15
+Västra Götalands län;Kungälv;S;8192;8972;32,99;38,45
+Västra Götalands län;Kungälv;V;1261;1760;5,08;7,54
+Västra Götalands län;Kungälv;MP;1116;936;4,49;4,01
+Västra Götalands län;Kungälv;ÖVR;1448;438;5,83;1,88
+Västra Götalands län;Lysekil;M;1918;1042;20,69;11,41
+Västra Götalands län;Lysekil;C;445;339;4,80;3,71
+Västra Götalands län;Lysekil;FP;950;1403;10,25;15,36
+Västra Götalands län;Lysekil;KD;553;640;5,97;7,01
+Västra Götalands län;Lysekil;S;3975;4465;42,88;48,89
+Västra Götalands län;Lysekil;V;510;690;5,50;7,56
+Västra Götalands län;Lysekil;MP;432;406;4,66;4,45
+Västra Götalands län;Lysekil;ÖVR;486;148;5,24;1,62
+Västra Götalands län;Munkedal;M;1214;640;20,08;10,67
+Västra Götalands län;Munkedal;C;860;845;14,22;14,08
+Västra Götalands län;Munkedal;FP;354;542;5,86;9,03
+Västra Götalands län;Munkedal;KD;483;728;7,99;12,13
+Västra Götalands län;Munkedal;S;2316;2421;38,31;40,35
+Västra Götalands län;Munkedal;V;286;421;4,73;7,02
+Västra Götalands län;Munkedal;MP;198;195;3,27;3,25
+Västra Götalands län;Munkedal;ÖVR;335;208;5,54;3,47
+Västra Götalands län;Mölndal;M;10030;5433;27,80;15,90
+Västra Götalands län;Mölndal;C;2015;1015;5,59;2,97
+Västra Götalands län;Mölndal;FP;4190;6482;11,61;18,97
+Västra Götalands län;Mölndal;KD;2756;3319;7,64;9,72
+Västra Götalands län;Mölndal;S;10801;11990;29,94;35,10
+Västra Götalands län;Mölndal;V;2217;3039;6,15;8,90
+Västra Götalands län;Mölndal;MP;1982;1481;5,49;4,34
+Västra Götalands län;Mölndal;ÖVR;2087;1402;5,78;4,10
+Västra Götalands län;Orust;M;2517;1326;25,75;14,62
+Västra Götalands län;Orust;C;1139;846;11,65;9,33
+Västra Götalands län;Orust;FP;783;1327;8,01;14,63
+Västra Götalands län;Orust;KD;784;1023;8,02;11,28
+Västra Götalands län;Orust;S;3027;3229;30,97;35,61
+Västra Götalands län;Orust;V;495;732;5,06;8,07
+Västra Götalands län;Orust;MP;467;420;4,78;4,63
+Västra Götalands län;Orust;ÖVR;561;165;5,74;1,82
+Västra Götalands län;Partille;M;5726;3171;28,28;16,36
+Västra Götalands län;Partille;C;931;371;4,60;1,91
+Västra Götalands län;Partille;FP;2163;3740;10,68;19,29
+Västra Götalands län;Partille;KD;1707;2186;8,43;11,28
+Västra Götalands län;Partille;S;6158;6702;30,41;34,57
+Västra Götalands län;Partille;V;1242;1754;6,13;9,05
+Västra Götalands län;Partille;MP;1058;869;5,22;4,48
+Västra Götalands län;Partille;ÖVR;1265;592;6,25;3,05
+Västra Götalands län;Sotenäs;M;1837;1125;30,18;19,14
+Västra Götalands län;Sotenäs;C;387;273;6,36;4,65
+Västra Götalands län;Sotenäs;FP;626;880;10,28;14,97
+Västra Götalands län;Sotenäs;KD;589;629;9,68;10,70
+Västra Götalands län;Sotenäs;S;1929;2302;31,69;39,17
+Västra Götalands län;Sotenäs;V;223;345;3,66;5,87
+Västra Götalands län;Sotenäs;MP;201;198;3,30;3,37
+Västra Götalands län;Sotenäs;ÖVR;295;125;4,85;2,13
+Västra Götalands län;Stenungsund;M;3907;2016;27,80;16,00
+Västra Götalands län;Stenungsund;C;1040;646;7,40;5,13
+Västra Götalands län;Stenungsund;FP;1269;2075;9,03;16,47
+Västra Götalands län;Stenungsund;KD;1030;1419;7,33;11,26
+Västra Götalands län;Stenungsund;S;4420;4706;31,45;37,35
+Västra Götalands län;Stenungsund;V;710;855;5,05;6,79
+Västra Götalands län;Stenungsund;MP;708;527;5,04;4,18
+Västra Götalands län;Stenungsund;ÖVR;972;357;6,92;2,83
+Västra Götalands län;Strömstad;M;1322;793;21,86;13,95
+Västra Götalands län;Strömstad;C;832;786;13,76;13,82
+Västra Götalands län;Strömstad;FP;590;728;9,76;12,80
+Västra Götalands län;Strömstad;KD;382;433;6,32;7,62
+Västra Götalands län;Strömstad;S;2068;2188;34,19;38,48
+Västra Götalands län;Strömstad;V;299;387;4,94;6,81
+Västra Götalands län;Strömstad;MP;317;302;5,24;5,31
+Västra Götalands län;Strömstad;ÖVR;238;69;3,94;1,21
+Västra Götalands län;Tanum;M;1991;1013;26,82;14,51
+Västra Götalands län;Tanum;C;1409;1298;18,98;18,60
+Västra Götalands län;Tanum;FP;649;994;8,74;14,24
+Västra Götalands län;Tanum;KD;528;732;7,11;10,49
+Västra Götalands län;Tanum;S;1874;2042;25,25;29,26
+Västra Götalands län;Tanum;V;259;410;3,49;5,87
+Västra Götalands län;Tanum;MP;352;349;4,74;5,00
+Västra Götalands län;Tanum;ÖVR;361;142;4,86;2,03
+Västra Götalands län;Tjörn;M;2871;1481;29,49;16,13
+Västra Götalands län;Tjörn;C;618;347;6,35;3,78
+Västra Götalands län;Tjörn;FP;1080;1613;11,10;17,57
+Västra Götalands län;Tjörn;KD;1546;2019;15,88;21,99
+Västra Götalands län;Tjörn;S;2416;2639;24,82;28,74
+Västra Götalands län;Tjörn;V;387;498;3,98;5,42
+Västra Götalands län;Tjörn;MP;407;341;4,18;3,71
+Västra Götalands län;Tjörn;ÖVR;409;245;4,20;2,67
+Västra Götalands län;Uddevalla;M;7139;3449;23,14;11,80
+Västra Götalands län;Uddevalla;C;1891;1551;6,13;5,31
+Västra Götalands län;Uddevalla;FP;2311;3658;7,49;12,52
+Västra Götalands län;Uddevalla;KD;2424;3130;7,86;10,71
+Västra Götalands län;Uddevalla;S;11987;12664;38,85;43,33
+Västra Götalands län;Uddevalla;V;1612;2668;5,22;9,13
+Västra Götalands län;Uddevalla;MP;1436;1200;4,65;4,11
+Västra Götalands län;Uddevalla;ÖVR;2053;906;6,65;3,10
+Västra Götalands län;Öckerö;M;2271;1410;28,40;18,85
+Västra Götalands län;Öckerö;C;268;134;3,35;1,79
+Västra Götalands län;Öckerö;FP;743;1006;9,29;13,45
+Västra Götalands län;Öckerö;KD;1733;2039;21,67;27,25
+Västra Götalands län;Öckerö;S;1922;2076;24,03;27,75
+Västra Götalands län;Öckerö;V;326;462;4,08;6,17
+Västra Götalands län;Öckerö;MP;357;276;4,46;3,69
+Västra Götalands län;Öckerö;ÖVR;377;79;4,71;1,06
+Västra Götalands län;Essunga;M;977;627;27,37;17,76
+Västra Götalands län;Essunga;C;651;661;18,24;18,73
+Västra Götalands län;Essunga;FP;165;306;4,62;8,67
+Västra Götalands län;Essunga;KD;269;434;7,54;12,29
+Västra Götalands län;Essunga;S;1065;1165;29,83;33,00
+Västra Götalands län;Essunga;V;154;200;4,31;5,67
+Västra Götalands län;Essunga;MP;108;94;3,03;2,66
+Västra Götalands län;Essunga;ÖVR;181;43;5,07;1,22
+Västra Götalands län;Falköping;M;4389;2673;22,44;14,27
+Västra Götalands län;Falköping;C;2464;2257;12,60;12,05
+Västra Götalands län;Falköping;FP;871;1595;4,45;8,52
+Västra Götalands län;Falköping;KD;1887;2773;9,65;14,80
+Västra Götalands län;Falköping;S;7066;7000;36,12;37,37
+Västra Götalands län;Falköping;V;938;1297;4,80;6,92
+Västra Götalands län;Falköping;MP;709;743;3,62;3,97
+Västra Götalands län;Falköping;ÖVR;1237;393;6,32;2,10
+Västra Götalands län;Grästorp;M;1075;649;29,46;18,27
+Västra Götalands län;Grästorp;C;598;603;16,39;16,98
+Västra Götalands län;Grästorp;FP;165;334;4,52;9,40
+Västra Götalands län;Grästorp;KD;233;438;6,39;12,33
+Västra Götalands län;Grästorp;S;1190;1181;32,61;33,25
+Västra Götalands län;Grästorp;V;130;186;3,56;5,24
+Västra Götalands län;Grästorp;MP;88;104;2,41;2,93
+Västra Götalands län;Grästorp;ÖVR;170;57;4,66;1,60
+Västra Götalands län;Gullspång;M;612;402;17,79;11,63
+Västra Götalands län;Gullspång;C;384;370;11,16;10,70
+Västra Götalands län;Gullspång;FP;160;236;4,65;6,83
+Västra Götalands län;Gullspång;KD;242;377;7,03;10,91
+Västra Götalands län;Gullspång;S;1482;1483;43,08;42,90
+Västra Götalands län;Gullspång;V;181;279;5,26;8,07
+Västra Götalands län;Gullspång;MP;104;135;3,02;3,91
+Västra Götalands län;Gullspång;ÖVR;275;175;7,99;5,06
+Västra Götalands län;Götene;M;1684;917;21,02;11,55
+Västra Götalands län;Götene;C;876;864;10,93;10,89
+Västra Götalands län;Götene;FP;441;723;5,50;9,11
+Västra Götalands län;Götene;KD;867;1114;10,82;14,04
+Västra Götalands län;Götene;S;3090;3218;38,56;40,54
+Västra Götalands län;Götene;V;379;635;4,73;8,00
+Västra Götalands län;Götene;MP;312;308;3,89;3,88
+Västra Götalands län;Götene;ÖVR;364;158;4,54;1,99
+Västra Götalands län;Hjo;M;1442;817;25,65;15,01
+Västra Götalands län;Hjo;C;514;456;9,14;8,38
+Västra Götalands län;Hjo;FP;333;617;5,92;11,33
+Västra Götalands län;Hjo;KD;565;820;10,05;15,06
+Västra Götalands län;Hjo;S;1995;2055;35,49;37,75
+Västra Götalands län;Hjo;V;246;374;4,38;6,87
+Västra Götalands län;Hjo;MP;247;203;4,39;3,73
+Västra Götalands län;Hjo;ÖVR;279;102;4,96;1,87
+Västra Götalands län;Karlsborg;M;996;602;22,11;13,56
+Västra Götalands län;Karlsborg;C;607;452;13,48;10,18
+Västra Götalands län;Karlsborg;FP;275;424;6,11;9,55
+Västra Götalands län;Karlsborg;KD;334;550;7,42;12,39
+Västra Götalands län;Karlsborg;S;1773;1932;39,37;43,51
+Västra Götalands län;Karlsborg;V;172;275;3,82;6,19
+Västra Götalands län;Karlsborg;MP;127;140;2,82;3,15
+Västra Götalands län;Karlsborg;ÖVR;220;65;4,88;1,46
+Västra Götalands län;Lidköping;M;5349;2745;22,38;12,01
+Västra Götalands län;Lidköping;C;2102;1826;8,79;7,99
+Västra Götalands län;Lidköping;FP;1280;2298;5,36;10,06
+Västra Götalands län;Lidköping;KD;2094;2591;8,76;11,34
+Västra Götalands län;Lidköping;S;9432;9921;39,46;43,41
+Västra Götalands län;Lidköping;V;1524;2159;6,38;9,45
+Västra Götalands län;Lidköping;MP;1021;844;4,27;3,69
+Västra Götalands län;Lidköping;ÖVR;1099;470;4,60;2,06
+Västra Götalands län;Mariestad;M;3485;1859;23,65;13,11
+Västra Götalands län;Mariestad;C;999;880;6,78;6,21
+Västra Götalands län;Mariestad;FP;719;1438;4,88;10,14
+Västra Götalands län;Mariestad;KD;1135;1609;7,70;11,35
+Västra Götalands län;Mariestad;S;6204;6183;42,10;43,61
+Västra Götalands län;Mariestad;V;898;1246;6,09;8,79
+Västra Götalands län;Mariestad;MP;565;619;3,83;4,37
+Västra Götalands län;Mariestad;ÖVR;731;345;4,96;2,43
+Västra Götalands län;Skara;M;2936;1629;25,50;14,79
+Västra Götalands län;Skara;C;1053;991;9,15;9,00
+Västra Götalands län;Skara;FP;708;1139;6,15;10,34
+Västra Götalands län;Skara;KD;775;1162;6,73;10,55
+Västra Götalands län;Skara;S;4427;4643;38,45;42,15
+Västra Götalands län;Skara;V;557;863;4,84;7,83
+Västra Götalands län;Skara;MP;477;441;4,14;4,00
+Västra Götalands län;Skara;ÖVR;581;147;5,05;1,33
+Västra Götalands län;Skövde;M;7885;4301;25,43;14,59
+Västra Götalands län;Skövde;C;2726;2217;8,79;7,52
+Västra Götalands län;Skövde;FP;2089;3603;6,74;12,22
+Västra Götalands län;Skövde;KD;2291;3435;7,39;11,65
+Västra Götalands län;Skövde;S;11625;12058;37,49;40,91
+Västra Götalands län;Skövde;V;1552;2091;5,01;7,09
+Västra Götalands län;Skövde;MP;1240;1161;4,00;3,94
+Västra Götalands län;Skövde;ÖVR;1598;611;5,15;2,07
+Västra Götalands län;Tibro;M;1291;754;19,67;11,90
+Västra Götalands län;Tibro;C;642;515;9,78;8,13
+Västra Götalands län;Tibro;FP;458;680;6,98;10,73
+Västra Götalands län;Tibro;KD;675;904;10,28;14,26
+Västra Götalands län;Tibro;S;2642;2691;40,26;42,46
+Västra Götalands län;Tibro;V;299;459;4,56;7,24
+Västra Götalands län;Tibro;MP;188;223;2,86;3,52
+Västra Götalands län;Tibro;ÖVR;368;112;5,61;1,77
+Västra Götalands län;Tidaholm;M;1364;770;17,27;9,98
+Västra Götalands län;Tidaholm;C;682;638;8,63;8,27
+Västra Götalands län;Tidaholm;FP;334;651;4,23;8,44
+Västra Götalands län;Tidaholm;KD;572;880;7,24;11,40
+Västra Götalands län;Tidaholm;S;3850;3794;48,74;49,17
+Västra Götalands län;Tidaholm;V;440;649;5,57;8,41
+Västra Götalands län;Tidaholm;MP;235;246;2,98;3,19
+Västra Götalands län;Tidaholm;ÖVR;422;88;5,34;1,14
+Västra Götalands län;Töreboda;M;1167;727;21,23;13,66
+Västra Götalands län;Töreboda;C;770;779;14,01;14,64
+Västra Götalands län;Töreboda;FP;221;388;4,02;7,29
+Västra Götalands län;Töreboda;KD;380;581;6,91;10,92
+Västra Götalands län;Töreboda;S;2191;2089;39,85;39,25
+Västra Götalands län;Töreboda;V;286;392;5,20;7,37
+Västra Götalands län;Töreboda;MP;170;197;3,09;3,70
+Västra Götalands län;Töreboda;ÖVR;313;169;5,69;3,18
+Västra Götalands län;Vara;M;2832;1856;28,57;19,55
+Västra Götalands län;Vara;C;1587;1535;16,01;16,17
+Västra Götalands län;Vara;FP;483;841;4,87;8,86
+Västra Götalands län;Vara;KD;772;1191;7,79;12,55
+Västra Götalands län;Vara;S;3187;3157;32,15;33,26
+Västra Götalands län;Vara;V;409;529;4,13;5,57
+Västra Götalands län;Vara;MP;230;256;2,32;2,70
+Västra Götalands län;Vara;ÖVR;413;127;4,17;1,34
+Örebro län;Askersund;M;1371;800;18,60;11,13
+Örebro län;Askersund;C;801;760;10,87;10,58
+Örebro län;Askersund;FP;384;630;5,21;8,77
+Örebro län;Askersund;KD;549;673;7,45;9,37
+Örebro län;Askersund;S;3238;3269;43,93;45,49
+Örebro län;Askersund;V;399;615;5,41;8,56
+Örebro län;Askersund;MP;259;231;3,51;3,21
+Örebro län;Askersund;ÖVR;370;208;5,02;2,89
+Örebro län;Degerfors;M;615;332;9,76;5,11
+Örebro län;Degerfors;C;341;343;5,41;5,28
+Örebro län;Degerfors;FP;201;391;3,19;6,02
+Örebro län;Degerfors;KD;329;340;5,22;5,24
+Örebro län;Degerfors;S;3633;3947;57,65;60,81
+Örebro län;Degerfors;V;703;866;11,16;13,34
+Örebro län;Degerfors;MP;168;164;2,67;2,53
+Örebro län;Degerfors;ÖVR;312;108;4,95;1,66
+Örebro län;Hallsberg;M;1407;814;14,71;8,45
+Örebro län;Hallsberg;C;837;809;8,75;8,40
+Örebro län;Hallsberg;FP;473;831;4,94;8,62
+Örebro län;Hallsberg;KD;630;839;6,58;8,71
+Örebro län;Hallsberg;S;4695;4895;49,07;50,80
+Örebro län;Hallsberg;V;569;804;5,95;8,34
+Örebro län;Hallsberg;MP;336;328;3,51;3,40
+Örebro län;Hallsberg;ÖVR;621;315;6,49;3,27
+Örebro län;Hällefors;M;570;309;12,56;6,90
+Örebro län;Hällefors;C;345;277;7,60;6,19
+Örebro län;Hällefors;FP;122;277;2,69;6,19
+Örebro län;Hällefors;KD;134;193;2,95;4,31
+Örebro län;Hällefors;S;2610;2805;57,49;62,64
+Örebro län;Hällefors;V;390;437;8,59;9,76
+Örebro län;Hällefors;MP;124;133;2,73;2,97
+Örebro län;Hällefors;ÖVR;245;47;5,40;1,05
+Örebro län;Karlskoga;M;3747;2125;19,81;11,34
+Örebro län;Karlskoga;C;793;528;4,19;2,82
+Örebro län;Karlskoga;FP;898;1805;4,75;9,63
+Örebro län;Karlskoga;KD;1010;1239;5,34;6,61
+Örebro län;Karlskoga;S;9341;10228;49,38;54,58
+Örebro län;Karlskoga;V;1206;1665;6,38;8,89
+Örebro län;Karlskoga;MP;604;551;3,19;2,94
+Örebro län;Karlskoga;ÖVR;1318;597;6,97;3,19
+Örebro län;Kumla;M;1987;1179;16,54;10,19
+Örebro län;Kumla;C;893;838;7,43;7,24
+Örebro län;Kumla;FP;731;1081;6,09;9,34
+Örebro län;Kumla;KD;1066;1207;8,88;10,43
+Örebro län;Kumla;S;5684;5615;47,32;48,52
+Örebro län;Kumla;V;565;910;4,70;7,86
+Örebro län;Kumla;MP;350;362;2,91;3,13
+Örebro län;Kumla;ÖVR;735;381;6,12;3,29
+Örebro län;Laxå;M;513;268;13,50;6,80
+Örebro län;Laxå;C;290;286;7,63;7,25
+Örebro län;Laxå;FP;162;351;4,26;8,90
+Örebro län;Laxå;KD;304;396;8,00;10,04
+Örebro län;Laxå;S;2038;2001;53,65;50,74
+Örebro län;Laxå;V;212;384;5,58;9,74
+Örebro län;Laxå;MP;76;94;2,00;2,38
+Örebro län;Laxå;ÖVR;204;164;5,37;4,16
+Örebro län;Lekeberg;M;852;487;18,85;11,20
+Örebro län;Lekeberg;C;776;786;17,17;18,08
+Örebro län;Lekeberg;FP;219;388;4,85;8,93
+Örebro län;Lekeberg;KD;451;513;9,98;11,80
+Örebro län;Lekeberg;S;1574;1589;34,83;36,55
+Örebro län;Lekeberg;V;184;283;4,07;6,51
+Örebro län;Lekeberg;MP;161;161;3,56;3,70
+Örebro län;Lekeberg;ÖVR;302;140;6,68;3,22
+Örebro län;Lindesberg;M;2577;1417;18,19;10,13
+Örebro län;Lindesberg;C;1750;1682;12,35;12,02
+Örebro län;Lindesberg;FP;622;1171;4,39;8,37
+Örebro län;Lindesberg;KD;765;1063;5,40;7,60
+Örebro län;Lindesberg;S;6168;6650;43,54;47,54
+Örebro län;Lindesberg;V;751;1079;5,30;7,71
+Örebro län;Lindesberg;MP;504;565;3,56;4,04
+Örebro län;Lindesberg;ÖVR;1028;362;7,26;2,59
+Örebro län;Ljusnarsberg;M;453;228;14,52;7,19
+Örebro län;Ljusnarsberg;C;321;341;10,29;10,75
+Örebro län;Ljusnarsberg;FP;97;190;3,11;5,99
+Örebro län;Ljusnarsberg;KD;118;196;3,78;6,18
+Örebro län;Ljusnarsberg;S;1510;1644;48,41;51,83
+Örebro län;Ljusnarsberg;V;277;389;8,88;12,26
+Örebro län;Ljusnarsberg;MP;107;108;3,43;3,40
+Örebro län;Ljusnarsberg;ÖVR;236;76;7,57;2,40
+Örebro län;Nora;M;1180;691;18,55;11,02
+Örebro län;Nora;C;572;490;8,99;7,81
+Örebro län;Nora;FP;425;713;6,68;11,37
+Örebro län;Nora;KD;393;560;6,18;8,93
+Örebro län;Nora;S;2740;2840;43,07;45,27
+Örebro län;Nora;V;348;573;5,47;9,13
+Örebro län;Nora;MP;295;257;4,64;4,10
+Örebro län;Nora;ÖVR;409;149;6,43;2,38
+Örebro län;Örebro;M;16950;9258;21,02;12,06
+Örebro län;Örebro;C;5062;3539;6,28;4,61
+Örebro län;Örebro;FP;7006;10909;8,69;14,21
+Örebro län;Örebro;KD;6541;7827;8,11;10,20
+Örebro län;Örebro;S;30623;32052;37,98;41,75
+Örebro län;Örebro;V;4804;6872;5,96;8,95
+Örebro län;Örebro;MP;4849;3997;6,01;5,21
+Örebro län;Örebro;ÖVR;4795;2317;5,95;3,02
+Östergötlands län;Boxholm;M;452;244;13,53;7,39
+Östergötlands län;Boxholm;C;373;377;11,17;11,42
+Östergötlands län;Boxholm;FP;97;194;2,90;5,88
+Östergötlands län;Boxholm;KD;268;323;8,02;9,79
+Östergötlands län;Boxholm;S;1686;1761;50,48;53,36
+Östergötlands län;Boxholm;V;183;249;5,48;7,55
+Östergötlands län;Boxholm;MP;100;107;2,99;3,24
+Östergötlands län;Boxholm;ÖVR;181;45;5,42;1,36
+Östergötlands län;Finspång;M;2397;1284;18,02;9,69
+Östergötlands län;Finspång;C;937;762;7,04;5,75
+Östergötlands län;Finspång;FP;622;1097;4,68;8,28
+Östergötlands län;Finspång;KD;931;1274;7,00;9,61
+Östergötlands län;Finspång;S;6265;6844;47,10;51,64
+Östergötlands län;Finspång;V;881;1258;6,62;9,49
+Östergötlands län;Finspång;MP;544;535;4,09;4,04
+Östergötlands län;Finspång;ÖVR;724;199;5,44;1,50
+Östergötlands län;Kinda;M;1306;680;20,80;11,14
+Östergötlands län;Kinda;C;1020;997;16,24;16,33
+Östergötlands län;Kinda;FP;230;494;3,66;8,09
+Östergötlands län;Kinda;KD;527;879;8,39;14,40
+Östergötlands län;Kinda;S;2383;2352;37,95;38,53
+Östergötlands län;Kinda;V;262;352;4,17;5,77
+Östergötlands län;Kinda;MP;249;258;3,97;4,23
+Östergötlands län;Kinda;ÖVR;302;93;4,81;1,52
+Östergötlands län;Linköping;M;24321;13410;27,35;15,96
+Östergötlands län;Linköping;C;6401;4255;7,20;5,06
+Östergötlands län;Linköping;FP;7656;12678;8,61;15,09
+Östergötlands län;Linköping;KD;6805;9011;7,65;10,72
+Östergötlands län;Linköping;S;29196;32093;32,83;38,19
+Östergötlands län;Linköping;V;4226;5891;4,75;7,01
+Östergötlands län;Linköping;MP;5492;4514;6,18;5,37
+Östergötlands län;Linköping;ÖVR;4823;2191;5,42;2,61
+Östergötlands län;Mjölby;M;3411;1943;21,49;12,66
+Östergötlands län;Mjölby;C;1369;1227;8,62;7,99
+Östergötlands län;Mjölby;FP;869;1516;5,47;9,88
+Östergötlands län;Mjölby;KD;1142;1551;7,19;10,10
+Östergötlands län;Mjölby;S;6813;7125;42,92;46,41
+Östergötlands län;Mjölby;V;733;1101;4,62;7,17
+Östergötlands län;Mjölby;MP;510;518;3,21;3,37
+Östergötlands län;Mjölby;ÖVR;1026;370;6,46;2,41
+Östergötlands län;Motala;M;5419;2693;20,96;10,77
+Östergötlands län;Motala;C;1594;1276;6,16;5,11
+Östergötlands län;Motala;FP;1575;2560;6,09;10,24
+Östergötlands län;Motala;KD;1530;2247;5,92;8,99
+Östergötlands län;Motala;S;11413;12338;44,14;49,36
+Östergötlands län;Motala;V;1512;1896;5,85;7,59
+Östergötlands län;Motala;MP;1032;1020;3,99;4,08
+Östergötlands län;Motala;ÖVR;1784;964;6,90;3,86
+Östergötlands län;Norrköping;M;19924;12043;26,15;16,71
+Östergötlands län;Norrköping;C;4303;2725;5,65;3,78
+Östergötlands län;Norrköping;FP;4553;8371;5,98;11,62
+Östergötlands län;Norrköping;KD;4867;6553;6,39;9,09
+Östergötlands län;Norrköping;S;28252;30469;37,08;42,29
+Östergötlands län;Norrköping;V;4454;5635;5,85;7,82
+Östergötlands län;Norrköping;MP;4200;3682;5,51;5,11
+Östergötlands län;Norrköping;ÖVR;5642;2576;7,40;3,58
+Östergötlands län;Söderköping;M;2542;1620;28,59;19,03
+Östergötlands län;Söderköping;C;1039;886;11,69;10,41
+Östergötlands län;Söderköping;FP;475;874;5,34;10,27
+Östergötlands län;Söderköping;KD;677;977;7,62;11,48
+Östergötlands län;Söderköping;S;2744;3007;30,87;35,32
+Östergötlands län;Söderköping;V;392;490;4,41;5,76
+Östergötlands län;Söderköping;MP;467;458;5,25;5,38
+Östergötlands län;Söderköping;ÖVR;554;202;6,23;2,37
+Östergötlands län;Vadstena;M;1389;806;27,93;16,70
+Östergötlands län;Vadstena;C;405;329;8,14;6,82
+Östergötlands län;Vadstena;FP;269;493;5,41;10,22
+Östergötlands län;Vadstena;KD;397;580;7,98;12,02
+Östergötlands län;Vadstena;S;1788;1963;35,95;40,68
+Östergötlands län;Vadstena;V;213;257;4,28;5,33
+Östergötlands län;Vadstena;MP;211;230;4,24;4,77
+Östergötlands län;Vadstena;ÖVR;301;168;6,05;3,48
+Östergötlands län;Valdemarsvik;M;1193;711;22,88;13,88
+Östergötlands län;Valdemarsvik;C;768;793;14,73;15,48
+Östergötlands län;Valdemarsvik;FP;217;396;4,16;7,73
+Östergötlands län;Valdemarsvik;KD;343;466;6,58;9,10
+Östergötlands län;Valdemarsvik;S;2094;2225;40,16;43,43
+Östergötlands län;Valdemarsvik;V;206;297;3,95;5,80
+Östergötlands län;Valdemarsvik;MP;142;174;2,72;3,40
+Östergötlands län;Valdemarsvik;ÖVR;251;61;4,81;1,19
+Östergötlands län;Ydre;M;508;267;20,27;10,42
+Östergötlands län;Ydre;C;477;434;19,03;16,93
+Östergötlands län;Ydre;FP;107;213;4,27;8,31
+Östergötlands län;Ydre;KD;361;548;14,41;21,38
+Östergötlands län;Ydre;S;772;845;30,81;32,97
+Östergötlands län;Ydre;V;90;111;3,59;4,33
+Östergötlands län;Ydre;MP;96;123;3,83;4,80
+Östergötlands län;Ydre;ÖVR;95;22;3,79;0,86
+Östergötlands län;Åtvidaberg;M;1466;810;19,78;10,96
+Östergötlands län;Åtvidaberg;C;762;717;10,28;9,70
+Östergötlands län;Åtvidaberg;FP;311;566;4,20;7,66
+Östergötlands län;Åtvidaberg;KD;519;749;7,00;10,14
+Östergötlands län;Åtvidaberg;S;3441;3623;46,43;49,03
+Östergötlands län;Åtvidaberg;V;345;497;4,66;6,73
+Östergötlands län;Åtvidaberg;MP;230;271;3,10;3,67
+Östergötlands län;Åtvidaberg;ÖVR;337;156;4,55;2,11
+Östergötlands län;Ödeshög;M;709;416;20,81;12,20
+Östergötlands län;Ödeshög;C;436;476;12,80;13,95
+Östergötlands län;Ödeshög;FP;136;202;3,99;5,92
+Östergötlands län;Ödeshög;KD;464;626;13,62;18,35
+Östergötlands län;Ödeshög;S;1215;1298;35,66;38,05
+Östergötlands län;Ödeshög;V;131;188;3,85;5,51
+Östergötlands län;Ödeshög;MP;129;156;3,79;4,57
+Östergötlands län;Ödeshög;ÖVR;187;49;5,49;1,44
