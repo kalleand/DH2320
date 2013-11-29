@@ -24,20 +24,13 @@ function initThree(theCanvas) {
  * Create the geometries that will be use and add them to the scene
  */
 function initGeometry() {
-    //var texture = new THREE.Texture();
-    //var texLoader = new THREE.ImageLoader();
-    //texLoader.addEventListener( 'load', function(event){
-        //texture.image = event.content;
-        //texture.needsUpdate = true;
-    //} );
-    //texLoader.load('images/wood_new_seam.png');
     //Create the materials that will be used by the different sides of our geometries
     var texture = new THREE.ImageUtils.loadTexture('images/wood_new_seam.png');
     //var texture = new THREE.ImageUtils.loadTexture('images/wood2.png');
     texture.wrapS = THREE.RepeatWrapping;
     texture.wrapT = THREE.RepeatWrapping;
     texture.repeat.set(2,2);
-    var cube_material = new THREE.MeshBasicMaterial( { map: texture } );
+    var cube_material = new THREE.MeshPhongMaterial( { map: texture } );
 
     //Create the Cube with size 2
     var temp_cube = new THREE.CubeGeometry( 2, 2, 2 );
@@ -55,10 +48,10 @@ function initGeometry() {
 
     // Meh, its the same but using TetrahedronGeometry instead.
     var materials_tetra = [];
-    materials_tetra[0] = new THREE.MeshBasicMaterial( { color: 0xff0000 } );
-    materials_tetra[1] = new THREE.MeshBasicMaterial( { color: 0x00ff00 } );
-    materials_tetra[2] = new THREE.MeshBasicMaterial( { color: 0x0000ff } );
-    materials_tetra[3] = new THREE.MeshBasicMaterial( { color: 0xffffff } );
+    materials_tetra[0] = new THREE.MeshPhongMaterial( { color: 0xff0000 } );
+    materials_tetra[1] = new THREE.MeshPhongMaterial( { color: 0x00ff00 } );
+    materials_tetra[2] = new THREE.MeshPhongMaterial( { color: 0x0000ff } );
+    materials_tetra[3] = new THREE.MeshPhongMaterial( { color: 0xffffff } );
 
     var temp_tetra = new THREE.TetrahedronGeometry(1.73);
 
@@ -72,6 +65,13 @@ function initGeometry() {
     tetrahedron.position.set(1.5, 1.0, -8.0);
 
     scene.add(tetrahedron);
+
+    var light = new THREE.AmbientLight( 0x808080 ); // soft white light
+    scene.add( light );
+    var spotLight = new THREE.SpotLight( 0xffffff, 3.0, 5.0);
+    spotLight.position.set(-2, 1, -5);
+    spotLight.target = cube;
+    scene.add( spotLight );
 }
 
 
