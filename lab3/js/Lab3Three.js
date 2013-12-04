@@ -30,7 +30,7 @@ function initGeometry() {
     texture.wrapS = THREE.RepeatWrapping;
     texture.wrapT = THREE.RepeatWrapping;
     texture.repeat.set(2,2);
-    var cube_material = new THREE.MeshPhongMaterial( { map: texture } );
+    var cube_material = new THREE.MeshPhongMaterial( { ambient: 0x808080, map: texture } );
 
     //Create the Cube with size 2
     var temp_cube = new THREE.CubeGeometry( 2, 2, 2 );
@@ -48,10 +48,10 @@ function initGeometry() {
 
     // Meh, its the same but using TetrahedronGeometry instead.
     var materials_tetra = [];
-    materials_tetra[0] = new THREE.MeshPhongMaterial( { color: 0xff0000 } );
-    materials_tetra[1] = new THREE.MeshPhongMaterial( { color: 0x00ff00 } );
-    materials_tetra[2] = new THREE.MeshPhongMaterial( { color: 0x0000ff } );
-    materials_tetra[3] = new THREE.MeshPhongMaterial( { color: 0xffffff } );
+    materials_tetra[0] = new THREE.MeshPhongMaterial( { ambient: 0xff0000, color: 0xff0000 } );
+    materials_tetra[1] = new THREE.MeshPhongMaterial( { ambient: 0x00ff00, color: 0x00ff00 } );
+    materials_tetra[2] = new THREE.MeshPhongMaterial( { ambient: 0x0000ff, color: 0x0000ff } );
+    materials_tetra[3] = new THREE.MeshPhongMaterial( { ambient: 0xffffff, color: 0xffffff } );
 
     var temp_tetra = new THREE.TetrahedronGeometry(1.73);
 
@@ -66,15 +66,25 @@ function initGeometry() {
 
     scene.add(tetrahedron);
 
-    var light = new THREE.AmbientLight( 0x808080 ); // soft white light
+    var light = new THREE.AmbientLight( 0x505050 );
     scene.add( light );
-    var spotLight = new THREE.SpotLight( 0xffffff, 3.0, 5.0);
-    spotLight.position.set(-2, 1, -5);
-    spotLight.target = cube;
-    scene.add( spotLight );
+
+    var light_point_1 = new THREE.PointLight( 0xffffff, 1, 10);
+    light_point_1.position.set( 3, 3, 0 );
+    scene.add( light_point_1 );
+
+    var light_point_2 = new THREE.PointLight( 0xffffff, 3, 10);
+    light_point_2.position.set( -3, 3, 0 );
+    scene.add( light_point_2 );
+
+    var light_point_3 = new THREE.PointLight( 0xffffff, 1, 10);
+    light_point_3.position.set( 3, -2, 0);
+    scene.add( light_point_3 );
+
+    var light_point_4 = new THREE.PointLight( 0xffffff, 1, 10);
+    light_point_4.position.set( 1, -2, 0);
+    scene.add( light_point_4 );
 }
-
-
 
 /**
  * This function takes care of all changes that are needed to animate our objects
