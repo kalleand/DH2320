@@ -73,7 +73,7 @@ around x-axis divided by 2. The tetrahedron, in contrast to the cube, was set to
 not rotate around the y-axis.
 
 The colors were fixed to match in both scenes through trial and error mostly.
-
+\newpage
 \section{Lab 2: Photoshop Techniques}
 Using mostly Photoshop and some GIMP we restored and altered a number of pictures.
 
@@ -93,7 +93,7 @@ We made a poster for a post-apocalyptic event (inspired by Fallout and Borderlan
 
 \subsection{Webpage} % adding structure to cube in three.js
 Using the seamless wooden tile constructed earlier we added texture to the rotating cube in a copy of the Three.js parts of our first lab. To apply the texture to the cube we changed the materials to mapping a texture. Since we wanted the same texture on all six surfaces of the cube, we no longer needed six different materials. We then added repeating of the texture and set the repeat to two times in both axes. See source code for implementation details.
-
+\newpage
 \section{Lab 3: 3D Modelling and animation}
 
 \subsection{A ball bouncing on a table} % Maya
@@ -102,13 +102,13 @@ Using Maya we modeled a ball bouncing on a table. The most advanced shape involv
 The ball itself is a straight on \textbf{sphere primitive} colored pink with \textbf{Phong} material. In contrast to the table's \textit{face} normals the ball has \textit{average} normals so that it will not be flat shaded. 
 
 \subsubsection{Animation}
-After modelling the shapes, the next step was to animate the ball bouncing on the table. Using 60 frames the ball was to appear above the table, bounce on it twice and then drop off. The bounces was set to be att approximately frame 20 and 40, i.e., a third and two thirds into the animation. % write more stuffs here
+After modelling the shapes, the next step was to animate the ball bouncing on the table. Using 60 frames the ball was to appear above the table, bounce on it twice and then drop off. The bounces was set to be att approximately frame 20 and 40, i.e., a third and two thirds into the animation, and accordingly the ''extremes'' at frame 30 and 50. In the \textbf{Graph Editor} we made sure the motion curve for the x-positions became a straight line. This way the speed of the ball will be constant. To make the movement more like bouncing, we forced the ball to change its y-direction immediately after hitting the table in each bounce (still using the \textbf{Graph Editor}). This was done by splitting the tangents at these points and alter the left-hand and right-hand side separately to form a v-shape. 
 
 \subsubsection{Lighting and rendering}
-% write stuffs here
+Lighting the scene was done by the basic principle of \textit{three-point lighting}; a \textit{key light} to light the object (i.e., the ball), a \textit{fill light} to light the rest of the scene, and a \textit{back light} to distinguish foreground objects from background objects. We placed the \textit{key light} in the upper-left front, the \textit{fill light} in the upper-right front, and the \textit{back light} in the upper-left back, all facing the middle of the table. To separate the different lights they have different \textbf{intensities}. The \textit{back light} only has an intensity of 0.3 and the \textit{fill light} 0.5, while the \textit{key light} har full 1.0 intensity. Adding shadows was done by checking the \textbf{Use Depth Map Shadows} box for all the light sources. Lastly the scene was rendered into a movie file for viewing on the web page.
 
 \subsection{Adding lights} % to webpage
-
+\newpage
 \section{Lab 4: Introduction to Data Mining}
 The answers to the questions are available in the attached questionnaire. The tables was charts were constructed following the lab assignment. Additional charts or columns were created to answer certain questions in the questionnaire. Below is how we reasoned about the questions.
 
@@ -134,8 +134,8 @@ We answered the next two questions in the same manner, but with the M party sele
 To answer question 19 se selected \"Ovr and sorted on the highest percentage both 2002 and 2006 and compared the top provinces. For the southern provinces we mainly included Sk\aa ne, Blekinge and Halland. They were in the absolute top in 2006, but in 2002 it wasn't as clear. 
 
 Question 20, we played around with the municipalities where the support was highest for each party and noted the participation percentage. The differences were not high enough to make a definite statement about the trends noted.
-
-\section{Lab 5: InDoctroduction to 3D visualization}
+\newpage
+\section{Lab 5: Introduction to 3D visualization}
 
 \subsection{Visualizing a three-dimensional vector field}
 
