@@ -193,7 +193,7 @@ was in Kalix (59.9\% for S).
 Question 7, to achieve this we sorted on the column \textbf{Change} in
 \textbf{Party Votes} with the party S investigated, marking the positive values
 and noted the number in the text object.  Question 8 was achieved in a similar
-maner as question 7, only to find no decreased support for M.
+manner as question 7, only to find no decreased support for M.
 
 Question 9, we sorted on column \textbf{Participation} in \textbf{Vote overview
 2006} and selected the highest value. Selecting that municipality (Lomma) the
@@ -216,7 +216,7 @@ province at the top, which answered the next question.
 We answered the next two questions in the same manner, but with the M party
 selected instead.
 
-To answer question 19 se selected \"Ovr and sorted on the highest percentage
+To answer question 19 see selected \"Ovr and sorted on the highest percentage
 both 2002 and 2006 and compared the top provinces. For the southern provinces we
 mainly included Sk\aa ne, Blekinge and Halland. They were in the absolute top in
 2006, but in 2002 it wasn't as clear.
@@ -225,36 +225,58 @@ Question 20, we played around with the municipalities where the support was
 highest for each party and noted the participation percentage. The differences
 were not high enough to make a definite statement about the trends noted.
 
-\section{Lab 5: InDoctroduction to 3D visualization}
+\section{Lab 5: Introduction to 3D visualization}
 
 \subsection{Visualizing a three-dimensional vector field}
 
 \subsection{Analyzing the air quality of a kitchen}
 
 \begin{enumerate}
-    \item The most likely place the dust will settle are in the air filter in the
+    \item
+        \begin{figure}
+            \label{fig:dust}
+            \includegraphics[width=1\linewidth]{lab5/kitchen-dust-screenshot.png}
+            \caption{Dust gathering in the kitchen.}
+        \end{figure}
+        The most likely place the dust will settle are in the air filter in the
         kitchen fan and on the floor where the air velocity are low. In the
-        image \ref{} we have visualized the air velocity and from it we can see
+        figure \ref{fig:dust} we have visualized the air velocity and from it we can see
         that the air mainly comes from the door and escapes through the kitchen
         fan with some coming from the windows as well. The filter in the kitchen
         fan will therefore collect some of the dust. From the same image we can
         see that there are little to no air movement in the lower parts of the
         kitchen and particularly in the lower left and lower right part of the
         image the dust will probably collect.
-    \item The highest air pressure can be found in the image \ref{}. The red dot
+    \item
+        \begin{figure}
+            \label{fig:pressure}
+            \includegraphics[width=1\linewidth]{lab5/kitchen-highest-pressure-screenshot.png}
+            \caption{Highest air pressure.}
+        \end{figure}
+        The highest air pressure can be found in the figure \ref{fig:pressure}. The red dot
         in the image indicate where the air pressure is the highest. Generally
         the air pressure increases the closer to the ground we get. The highest
         air pressure value is 0.186993.
-    \item As we can see in the image \ref{} the highest air velocity are at the
+    \item
+        \begin{figure}
+            \label{fig:velocity}
+            \includegraphics[width=1\linewidth]{lab5/kitchen-largest-air-velocity-screenshot.png}
+            \caption{Highest air velocity.}
+        \end{figure}
+        As we can see in the figure \ref{fig:velocity} the highest air velocity are at the
         door, at the window in the opposite side of the door and at the kitchen
         fan. The absolutely highest air velocity can be found at the window and
         its numerical value is 0.067129.
 \end{enumerate}
 
 \subsection{Volume rendering}
-
+\begin{figure}
+    \label{fig:volume}
+    \includegraphics[width=1\linewidth]{lab5/head-transfer-function.png}
+    \caption{Final transfer function.}
+\end{figure}
 We followed the lab assignments and reflected on what we did to use this to get
-the end result shown in image \ref{}. The end result was achieved through
+the end result shown in figure \ref{fig:volume}. The end result was achieved through
 experimenting with the transfer function. We made the higher ranges of values
 have quite high opacity and the lower ranges have lower. This made the skeleton
 of the skull show with an indication of where the skin is located. The teeth
