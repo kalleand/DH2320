@@ -233,10 +233,10 @@ were not high enough to make a definite statement about the trends noted.
 
 \begin{enumerate}
     \item
-        \begin{figure}
-            \label{fig:dust}
+        \begin{figure}[H]
             \includegraphics[width=1\linewidth]{lab5/kitchen-dust-screenshot.png}
             \caption{Dust gathering in the kitchen.}
+            \label{fig:dust}
         \end{figure}
         The most likely place the dust will settle are in the air filter in the
         kitchen fan and on the floor where the air velocity are low. In the
@@ -248,20 +248,20 @@ were not high enough to make a definite statement about the trends noted.
         kitchen and particularly in the lower left and lower right part of the
         image the dust will probably collect.
     \item
-        \begin{figure}
-            \label{fig:pressure}
+        \begin{figure}[H]
             \includegraphics[width=1\linewidth]{lab5/kitchen-highest-pressure-screenshot.png}
             \caption{Highest air pressure.}
+            \label{fig:pressure}
         \end{figure}
         The highest air pressure can be found in the figure \ref{fig:pressure}. The red dot
         in the image indicate where the air pressure is the highest. Generally
         the air pressure increases the closer to the ground we get. The highest
         air pressure value is 0.186993.
     \item
-        \begin{figure}
-            \label{fig:velocity}
+        \begin{figure}[H]
             \includegraphics[width=1\linewidth]{lab5/kitchen-largest-air-velocity-screenshot.png}
             \caption{Highest air velocity.}
+            \label{fig:velocity}
         \end{figure}
         As we can see in the figure \ref{fig:velocity} the highest air velocity are at the
         door, at the window in the opposite side of the door and at the kitchen
@@ -270,16 +270,29 @@ were not high enough to make a definite statement about the trends noted.
 \end{enumerate}
 
 \subsection{Volume rendering}
-\begin{figure}
-    \label{fig:volume}
+\begin{figure}[H]
     \includegraphics[width=1\linewidth]{lab5/head-transfer-function.png}
     \caption{Final transfer function.}
+    \label{fig:volume}
 \end{figure}
 We followed the lab assignments and reflected on what we did to use this to get
 the end result shown in figure \ref{fig:volume}. The end result was achieved through
 experimenting with the transfer function. We made the higher ranges of values
 have quite high opacity and the lower ranges have lower. This made the skeleton
 of the skull show with an indication of where the skin is located. The teeth
-were shown by making the absolutely highest range of values have high opacity.
+were shown by making the absolutely highest range of values have high opacity. The results are shown in figure \ref{fig:headprof} and \ref{fig:headfront}.
+
+\begin{figure}[H]
+    \includegraphics[width=1\linewidth]{lab5/head-profile-screenshot.png}
+    \caption{Profile view result.}
+    \label{fig:headprof}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=1\linewidth]{lab5/head-front-screenshot.png}
+    \caption{Front view result.}
+    \label{fig:headfront}
+\end{figure}
+
 
 \end{document}
