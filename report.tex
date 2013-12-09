@@ -78,21 +78,52 @@ The colors were fixed to match in both scenes through trial and error mostly.
 Using mostly Photoshop and some GIMP we restored and altered a number of pictures.
 
 \subsection{Image restoration} % baby, scratched, pink flowers, marsvin
-The image restoration involved a faded baby, a scratched photo of a mother and a baby, a photo of pink flowers, and a photo of a guinea pig. For the baby we added an adjustment layer to correct the faded colors. We also did some sharpening, altering the contrasts, and added a circular gradient with high opacity to even out the edges of the photo. 
+The image restoration involved a faded baby, a scratched photo of a mother and a
+baby, a photo of pink flowers, and a photo of a guinea pig. For the baby we
+added an adjustment layer to correct the faded colors. We also did some
+sharpening, altering the contrasts, and added a circular gradient with high
+opacity to even out the edges of the photo.
 
-To restore the scratched photo it was sufficient to use the \textbf{clone stamp}. We removed the damage on the right hand side and removed all of the highly visible dirt and scratches. The pink flowers changed color to blue using the \textbf{replace color} adjustment tool. The guinea pig photo was done in a similar way as the first photo. We altered the color balance to our liking and by that made sure the kid is interpreted as the subject of the image. While altering the colors we made sure that the photo was not perceived as flat as in the original photo. This made the subject of the photo much clearer, being in center and all.
+To restore the scratched photo it was sufficient to use the \textbf{clone
+stamp}. We removed the damage on the right hand side and removed all of the
+highly visible dirt and scratches. The pink flowers changed color to blue using
+the \textbf{replace color} adjustment tool. The guinea pig photo was done in a
+similar way as the first photo. We altered the color balance to our liking and
+by that made sure the kid is interpreted as the subject of the image. While
+altering the colors we made sure that the photo was not perceived as flat as in
+the original photo. This made the subject of the photo much clearer, being in
+center and all.
 
 \subsection{Retouching} % phat
-Using the \textbf{elliptical marquee} in conjunction with the \textbf{liquify} filter to narrow the figure of the model in \textit{Phat.png}. We mostly work on his stomach, but made som over-all narrowing of his figure, neck and chin. At some places the distortion became too large, but this was easily fixed with the \textbf{reconstruction tool}.
+Using the \textbf{elliptical marquee} in conjunction with the \textbf{liquify}
+filter to narrow the figure of the model in \textit{Phat.png}. We mostly work on
+his stomach, but made som over-all narrowing of his figure, neck and chin. At
+some places the distortion became too large, but this was easily fixed with the
+\textbf{reconstruction tool}.
 
 \subsection{Creating a seamless tile} % wood
-Working on \textit{Wood.png} involved both Photoshop and GIMP. In Photoshop we cropped the image to a suitable square form, resized it and did some retouching to i.e. remove the coffee stain. After reading the \textit{Seamless tile tutorials} from the course web page we found that GIMP had the most convenient approach to making something seamless, and therefore we exported the pre-worked tile there and used the \textbf{Filters>Map>Make Seamless} command to finish our seamless tile.
+Working on \textit{Wood.png} involved both Photoshop and GIMP. In Photoshop we
+cropped the image to a suitable square form, resized it and did some retouching
+to i.e. remove the coffee stain. After reading the \textit{Seamless tile
+tutorials} from the course web page we found that GIMP had the most convenient
+approach to making something seamless, and therefore we exported the pre-worked
+tile there and used the \textbf{Filters>Map>Make Seamless} command to finish our
+seamless tile.
 
 \subsection{Montage and design} % poster
-We made a poster for a post-apocalyptic event (inspired by Fallout and Borderlands). We started out with three images of a destroyed city, pip-boy and uncle Sam respectively. Working with texts, layers and filters we aimed for the design of an old and somewhat worn poster. The pip-boy image to the far right is intended to be interpreted as a sticker applied to the poster. 
+We made a poster for a post-apocalyptic event (inspired by Fallout and
+Borderlands). We started out with three images of a destroyed city, pip-boy and
+uncle Sam respectively. Working with texts, layers and filters we aimed for the
+design of an old and somewhat worn poster. The pip-boy image to the far right is
+intended to be interpreted as a sticker applied to the poster.
 
 \subsection{Webpage} % adding structure to cube in three.js
-Using the seamless wooden tile constructed earlier we added texture to the rotating cube in a copy of the Three.js parts of our first lab. To apply the texture to the cube we changed the materials to mapping a texture. Since we wanted the same texture on all six surfaces of the cube, we no longer needed six different materials. We then added repeating of the texture and set the repeat to two times in both axes. See source code for implementation details.
+Using the seamless wooden tile constructed earlier we added texture to the
+rotating cube in a copy of the Three.js parts of our first lab. To apply the
+texture to the cube we changed the materials to mapping a texture. Since we
+wanted the same texture on all six surfaces of the cube, we no longer needed six
+different materials. We then added repeating of the texture and set the repeat
+to two times in both axes. See source code for implementation details.
 
 \section{Lab 3: 3D Modelling and animation}
 
@@ -101,30 +132,56 @@ Using the seamless wooden tile constructed earlier we added texture to the rotat
 \subsection{Adding lights} % to webpage
 
 \section{Lab 4: Introduction to Data Mining}
-The answers to the questions are available in the attached questionnaire. The tables was charts were constructed following the lab assignment. Additional charts or columns were created to answer certain questions in the questionnaire. Below is how we reasoned about the questions.
+The answers to the questions are available in the attached questionnaire. The
+tables was charts were constructed following the lab assignment. Additional
+charts or columns were created to answer certain questions in the questionnaire.
+Below is how we reasoned about the questions.
 
-Marking the S and M party one at a time in the straight table \textbf{Party} and sorting the \textbf{Party Votes} on the column \textbf{Perc 2006} we could answer the first four questions of the questionnaire, by selecting the top and bottom Municipality.
+Marking the S and M party one at a time in the straight table \textbf{Party} and
+sorting the \textbf{Party Votes} on the column \textbf{Perc 2006} we could
+answer the first four questions of the questionnaire, by selecting the top and
+bottom Municipality.
 
-Strongest municipality support overall in 2006 was selected from the bar chart \textbf{Party votes}, with selections cleared. 
+Strongest municipality support overall in 2006 was selected from the bar chart
+\textbf{Party votes}, with selections cleared.
 
-Iterating over all the parties we noted the highest overall municipality support was in Kalix (59.9\% for S).
+Iterating over all the parties we noted the highest overall municipality support
+was in Kalix (59.9\% for S).
 
-Question 7, to achieve this we sorted on the column \textbf{Change} in \textbf{Party Votes} with the party S investigated, marking the positive values and noted the number in the text object. 
-Question 8 was achieved in a similar maner as question 7, only to find no decreased support for M.
+Question 7, to achieve this we sorted on the column \textbf{Change} in
+\textbf{Party Votes} with the party S investigated, marking the positive values
+and noted the number in the text object.  Question 8 was achieved in a similar
+maner as question 7, only to find no decreased support for M.
 
-Question 9, we sorted on column \textbf{Participation} in \textbf{Vote overview 2006} and selected the highest value. Selecting that municipality (Lomma) the answer to question 10 could be found in the bar chart \textbf{Party votes}.
+Question 9, we sorted on column \textbf{Participation} in \textbf{Vote overview
+2006} and selected the highest value. Selecting that municipality (Lomma) the
+answer to question 10 could be found in the bar chart \textbf{Party votes}.
 
-Question 11 and 12, we simply sorted on column \textbf{Registered voters} in \textbf{Vote overview 2006} and selected the top and bottom values.
+Question 11 and 12, we simply sorted on column \textbf{Registered voters} in
+\textbf{Vote overview 2006} and selected the top and bottom values.
 
-To answer question 13 we added a new column \textbf{Perc blank} in \textbf{Vote overview 2006} with the definition \textit{Sum(BlankVotes) / Sum(Voters)}. We then sorted on this column and noted the highest percentage. Selecting that municipality (Karlsborg) the answer to question 14 could be found in the bar chart \textbf{Party votes}.
+To answer question 13 we added a new column \textbf{Perc blank} in \textbf{Vote
+overview 2006} with the definition \textit{Sum(BlankVotes) / Sum(Voters)}. We
+then sorted on this column and noted the highest percentage. Selecting that
+municipality (Karlsborg) the answer to question 14 could be found in the bar
+chart \textbf{Party votes}.
 
-For question 15, a new straight table \textbf{Provinces} was created including provinces. With the S party selected we sorted on column \textbf{Perc 2006} to find the highest support. Sorting on column \textbf{Perc 2002} we found another province at the top, which answered the next question.
+For question 15, a new straight table \textbf{Provinces} was created including
+provinces. With the S party selected we sorted on column \textbf{Perc 2006} to
+find the highest support. Sorting on column \textbf{Perc 2002} we found another
+province at the top, which answered the next question.
 
-We answered the next two questions in the same manner, but with the M party selected instead.
+We answered the next two questions in the same manner, but with the M party
+selected instead.
 
-To answer question 19 se selected \"Ovr and sorted on the highest percentage both 2002 and 2006 and compared the top provinces. For the southern provinces we mainly included Sk\aa ne, Blekinge and Halland. They were in the absolute top in 2006, but in 2002 it wasn't as clear. 
+To answer question 19 se selected \"Ovr and sorted on the highest percentage
+both 2002 and 2006 and compared the top provinces. For the southern provinces we
+mainly included Sk\aa ne, Blekinge and Halland. They were in the absolute top in
+2006, but in 2002 it wasn't as clear.
 
-Question 20, we played around with the municipalities where the support was highest for each party and noted the participation percentage. The differences were not high enough to make a definite statement about the trends noted.
+Question 20, we played around with the municipalities where the support was
+highest for each party and noted the participation percentage. The differences
+were not high enough to make a definite statement about the trends noted.
 
 \section{Lab 5: InDoctroduction to 3D visualization}
 
@@ -132,6 +189,33 @@ Question 20, we played around with the municipalities where the support was high
 
 \subsection{Analyzing the air quality of a kitchen}
 
+\begin{enumerate}
+    \item The most likely place the dust will settle are in the air filter in the
+        kitchen fan and on the floor where the air velocity are low. In the
+        image \ref{} we have visualized the air velocity and from it we can see
+        that the air mainly comes from the door and escapes through the kitchen
+        fan with some coming from the windows as well. The filter in the kitchen
+        fan will therefore collect some of the dust. From the same image we can
+        see that there are little to no air movement in the lower parts of the
+        kitchen and particularly in the lower left and lower right part of the
+        image the dust will probably collect.
+    \item The highest air pressure can be found in the image \ref{}. The red dot
+        in the image indicate where the air pressure is the highest. Generally
+        the air pressure increases the closer to the ground we get. The highest
+        air pressure value is 0.186993.
+    \item As we can see in the image \ref{} the highest air velocity are at the
+        door, at the window in the opposite side of the door and at the kitchen
+        fan. The absolutely highest air velocity can be found at the window and
+        its numerical value is 0.067129.
+\end{enumerate}
+
 \subsection{Volume rendering}
+
+We followed the lab assignments and reflected on what we did to use this to get
+the end result shown in image \ref{}. The end result was achieved through
+experimenting with the transfer function. We made the higher ranges of values
+have quite high opacity and the lower ranges have lower. This made the skeleton
+of the skull show with an indication of where the skin is located. The teeth
+were shown by making the absolutely highest range of values have high opacity.
 
 \end{document}
