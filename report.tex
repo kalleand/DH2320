@@ -171,6 +171,19 @@ Shadows} box for all the light sources. Lastly the scene was rendered into a
 movie file for viewing on the web page.
 
 \subsection{Adding lights} % to webpage
+
+We took what we learned while doing lab 3 to modify the scene with the cube with
+the texture and the tetrahedron from lab 2 to include lighting. To do this we changed the
+material from MeshBasicMaterial to MeshPhongMaterial. However while doing so the
+scene was completely dark, this is because we need an ambient lighting. We used
+the color value of 0x505050 as the ambient lightning. To not make the entire
+tetrahedron white by default we also changed its ambient color to the same as
+the color of the side (the default is 0xffffff). To make the scene more
+interesting we then added four point lights which light up the scene in a
+natural way. These four lights was placed in a square pattern in front of the
+scene. We tried different values for intensity and distance for the different
+lights to make for a natural looking effect.
+
 \newpage
 \section{Lab 4: Introduction to Data Mining}
 The answers to the questions are available in the attached questionnaire. The
