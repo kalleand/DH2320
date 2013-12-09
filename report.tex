@@ -105,8 +105,8 @@ the original photo. This made the subject of the photo much clearer, being in
 center and all.
 
 \subsection{Retouching} % phat
-Using the \textbf{elliptical marquee} in conjunction with the \textbf{liquify}
-filter to narrow the figure of the model in \textit{Phat.png}. We mostly work on
+We used the \textbf{elliptical marquee} in conjunction with the \textbf{liquify}
+filter to narrow the figure of the model in \textit{Phat.png}. We mostly worked on
 his stomach, but made som over-all narrowing of his figure, neck and chin. At
 some places the distortion became too large, but this was easily fixed with the
 \textbf{reconstruction tool}.
@@ -114,7 +114,7 @@ some places the distortion became too large, but this was easily fixed with the
 \subsection{Creating a seamless tile} % wood
 Working on \textit{Wood.png} involved both Photoshop and GIMP. In Photoshop we
 cropped the image to a suitable square form, resized it and did some retouching
-to i.e. remove the coffee stain. After reading the \textit{Seamless tile
+to for instance remove the coffee stain. After reading the \textit{Seamless tile
 tutorials} from the course web page we found that GIMP had the most convenient
 approach to making something seamless, and therefore we exported the pre-worked
 tile there and used the \textbf{Filters>Map>Make Seamless} command to finish our
@@ -160,15 +160,17 @@ ball has \textit{average} normals so that it will not be flat shaded.
 \subsubsection{Animation}
 After modelling the shapes, the next step was to animate the ball bouncing on
 the table. Using 60 frames the ball was to appear above the table, bounce on it
-twice and then drop off. The bounces was set to be att approximately frame 20
+twice and then drop off. The bounces was set to be at approximately frame 20
 and 40, i.e., a third and two thirds into the animation, and accordingly the
 ``extremes'' at frame 30 and 50. In the \textbf{Graph Editor} we made sure the
 motion curve for the x-positions became a straight line. This way the speed of
-the ball will be constant. To make the movement more like bouncing, we forced
+the ball will be constant. 
+
+To make the movement more like bouncing, we forced
 the ball to change its y-direction immediately after hitting the table in each
 bounce (still using the \textbf{Graph Editor}). This was done by splitting the
 tangents at these points and alter the left-hand and right-hand side separately
-to form a v-shape. 
+to form a curved v-shape. 
 
 \subsubsection{Lighting and rendering}
 Lighting the scene was done by the basic principle of \textit{three-point
@@ -200,13 +202,12 @@ lights to make for a natural looking effect.
 
 \newpage
 \section{Lab 4: Introduction to Data Mining}
-The answers to the questions are available in the attached questionnaire. The
-tables was charts were constructed following the lab assignment. Additional
+The answers to the questions are available in the attached questionnaire \\(\verb=lab4/Questionnaire.doc=). The tables was charts were constructed following the lab assignment. Additional
 charts or columns were created to answer certain questions in the questionnaire.
 Below is how we reasoned about the questions.
 
 Marking the S and M party one at a time in the straight table \textbf{Party} and
-sorting the \textbf{Party Votes} on the column \textbf{Perc 2006} we could
+sorting the \textbf{Party Votes} on the column \textit{Perc 2006} we could
 answer the first four questions of the questionnaire, by selecting the top and
 bottom Municipality.
 
@@ -216,33 +217,33 @@ Strongest municipality support overall in 2006 was selected from the bar chart
 Iterating over all the parties we noted the highest overall municipality support
 was in Kalix (59.9\% for S).
 
-Question 7, to achieve this we sorted on the column \textbf{Change} in
+Question 7, to achieve this we sorted on the column \textit{Change} in
 \textbf{Party Votes} with the party S investigated, marking the positive values
 and noted the number in the text object.  Question 8 was achieved in a similar
 manner as question 7, only to find no decreased support for M.
 
-Question 9, we sorted on column \textbf{Participation} in \textbf{Vote overview
+Question 9, we sorted on column \textit{Participation} in \textbf{Vote overview
 2006} and selected the highest value. Selecting that municipality (Lomma) the
 answer to question 10 could be found in the bar chart \textbf{Party votes}.
 
-Question 11 and 12, we simply sorted on column \textbf{Registered voters} in
+Question 11 and 12, we simply sorted on column \textit{Registered voters} in
 \textbf{Vote overview 2006} and selected the top and bottom values.
 
-To answer question 13 we added a new column \textbf{Perc blank} in \textbf{Vote
-overview 2006} with the definition \textit{Sum(BlankVotes) / Sum(Voters)}. We
+To answer question 13 we added a new column \textit{Perc blank} in \textbf{Vote
+overview 2006} with the definition \verb=Sum(BlankVotes) / Sum(Voters)=. We
 then sorted on this column and noted the highest percentage. Selecting that
 municipality (Karlsborg) the answer to question 14 could be found in the bar
 chart \textbf{Party votes}.
 
 For question 15, a new straight table \textbf{Provinces} was created including
-provinces. With the S party selected we sorted on column \textbf{Perc 2006} to
-find the highest support. Sorting on column \textbf{Perc 2002} we found another
+provinces. With the S party selected we sorted on column \textit{Perc 2006} to
+find the highest support. Sorting on column \textit{Perc 2002} we found another
 province at the top, which answered the next question.
 
 We answered the next two questions in the same manner, but with the M party
 selected instead.
 
-To answer question 19 see selected \"Ovr and sorted on the highest percentage
+To answer question 19 we selected \"Ovr and sorted on the highest percentage
 both 2002 and 2006 and compared the top provinces. For the southern provinces we
 mainly included Sk\aa ne, Blekinge and Halland. They were in the absolute top in
 2006, but in 2002 it wasn't as clear.
@@ -265,7 +266,7 @@ In this lab we used Paraview to visualize data in a comprehensible manner. The
 first thing we did in Paraview was to visualize the shape of a vector field from
 a dataset provided. We did this through following the steps described in the lab
 description and using this to tweak the appearance of the data to in a clear and
-precise manner describe the vector field. Then end result can be seen in figure
+precise manner describe the vector field. The end result can be seen in figure
 \ref{fig:vectors}. We decided that slices was the best way to visualize the
 vector field. We also used glyphs to show the direction of the vector field to
 show that the vector field is homogeneous.
