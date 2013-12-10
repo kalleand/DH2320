@@ -30,7 +30,9 @@
 \setcounter{page}{1}
 
 \section*{Lab work}
-These are the descriptions summarising our work in lab 1 through 5 of course DH2320, Introduction to Visualization and Computer Graphics. Graphical results of lab 1 through 3 can be found at \url{http://www.csc.kth.se/~kalleand/}.
+These are the descriptions summarising our work in lab 1 through 5 of course
+DH2320, Introduction to Visualization and Computer Graphics. Graphical results
+of lab 1 through 3 can be found at \url{http://www.csc.kth.se/~kalleand/}.
 
 \section{Lab 1: WebGL and Three.js}
 
@@ -46,8 +48,8 @@ To do this we changed the position of the cube further away from the perspective
 camera located in the origin of the coordinate system. We changed the Z-value
 from $-2$ to $-8$, this made the whole cube visible.
 
-This was not enough as we needed a rotation around the y-axis as well as
-rotation around the x-axis. To do this we added the snippet:
+This was not enough as we needed rotation around the y-axis as well as
+rotation around the x-axis. To do this we added the code snippet:
 
 \begin{verbatim}
 mat4.rotate(mvMatrix, rCube/2, [ 0, 1, 0 ]);
@@ -57,9 +59,12 @@ mat4.rotate(mvMatrix, rCube/2, [ 0, 1, 0 ]);
 
 In the next assignment we added a tetrahedron to both scenes. To accomplish this
 we moved the cubes in both scenes to the left by $1.5$ units. Then we added the
-Three.js tetrahedron by adding a TetrahedronGeometry with the size of 1.5 units.
+Three.js tetrahedron by adding a TetrahedronGeometry with the size of 1.73 units.
 
-The tetrahedron implemented using the vertices:
+In the WebGL version this was a lot trickier as we had to figure out where the
+vertices where located in a tetrahedron with a certain size.
+
+The tetrahedron was implemented in WebGL using the vertices:
 
 \begin{verbatim}
 (1, 1, -1)
@@ -71,23 +76,25 @@ The tetrahedron implemented using the vertices:
 The radius of the circumsphere for this tetrahedron is $\approx 1.73$ which is
 the value we used when initiating the tetrahedron in the Three.js version.
 
-In the WebGL version this was a lot trickier as we had to figure out where the
-vertices where located in a tetrahedron with a certain size.
-
 The rotation around x-axis was set to be the same for the tetrahedron as the
 cube. The rotation around z-axis was set to be negative speed of the rotation
 around x-axis divided by 2. The tetrahedron, in contrast to the cube, was set to
 not rotate around the y-axis.
 
 The colors were fixed to match in both scenes through trial and error mostly.
+
 \newpage
+
 \section{Lab 2: Photoshop Techniques}
+
 Using mostly Photoshop and some GIMP we restored and altered a number of pictures.
 
 \subsection*{URL}
+
 \url{http://www.csc.kth.se/~kalleand/lab2/index.html}
 
 \subsection{Image restoration} % baby, scratched, pink flowers, marsvin
+
 The image restoration involved a faded baby, a scratched photo of a mother and a
 baby, a photo of pink flowers, and a photo of a guinea pig. For the baby we
 added an adjustment layer to correct the faded colors. We also did some
@@ -102,9 +109,10 @@ similar way as the first photo. We altered the color balance to our liking and
 by that made sure the kid is interpreted as the subject of the image. While
 altering the colors we made sure that the photo was not perceived as flat as in
 the original photo. This made the subject of the photo much clearer, being in
-center and all.
+center.
 
 \subsection{Retouching} % phat
+
 We used the \textbf{elliptical marquee} in conjunction with the \textbf{liquify}
 filter to narrow the figure of the model in \textit{Phat.png}. We mostly worked on
 his stomach, but made som over-all narrowing of his figure, neck and chin. At
@@ -112,6 +120,7 @@ some places the distortion became too large, but this was easily fixed with the
 \textbf{reconstruction tool}.
 
 \subsection{Creating a seamless tile} % wood
+
 Working on \textit{Wood.png} involved both Photoshop and GIMP. In Photoshop we
 cropped the image to a suitable square form, resized it and did some retouching
 to for instance remove the coffee stain. After reading the \textit{Seamless tile
@@ -121,6 +130,7 @@ tile there and used the \textbf{Filters>Map>Make Seamless} command to finish our
 seamless tile.
 
 \subsection{Montage and design} % poster
+
 We made a poster for a post-apocalyptic event (inspired by Fallout and
 Borderlands). We started out with three images of a destroyed city, pip-boy and
 uncle Sam respectively. Working with texts, layers and filters we aimed for the
@@ -128,6 +138,7 @@ design of an old and somewhat worn poster. The pip-boy image to the far right is
 intended to be interpreted as a sticker applied to the poster.
 
 \subsection{Webpage} % adding structure to cube in three.js
+
 Using the seamless wooden tile constructed earlier we added texture to the
 rotating cube in a copy of the Three.js parts of our first lab. To apply the
 texture to the cube we changed the materials to mapping a texture. Since we
@@ -138,9 +149,11 @@ to two times in both axes. See source code for implementation details.
 \section{Lab 3: 3D Modelling and animation}
 
 \subsection*{URL}
+
 \url{http://www.csc.kth.se/~kalleand/lab3/index.html}
 
 \subsection{A ball bouncing on a table} % Maya
+
 Using Maya we modeled a ball bouncing on a table. The most advanced shape
 involved was the table  which consists of several altered \textbf{cube
 primitives}. The table top is a simple rectangular cube primitive with its top
@@ -153,26 +166,28 @@ surfaces and \textbf{Phong} materials, we could texture the table with our
 seamless tile from the second lab. On the legs we used \textbf{cylindrical
 mapping}.
 
-The ball itself is a straight on \textbf{sphere primitive} colored pink with
+The ball itself is a straight \textbf{sphere primitive} colored pink with
 \textbf{Phong} material. In contrast to the table's \textit{face} normals the
-ball has \textit{average} normals so that it will not be flat shaded. 
+ball has \textit{average} normals so that it will not be flat shaded.
 
 \subsubsection{Animation}
+
 After modelling the shapes, the next step was to animate the ball bouncing on
 the table. Using 60 frames the ball was to appear above the table, bounce on it
 twice and then drop off. The bounces was set to be at approximately frame 20
 and 40, i.e., a third and two thirds into the animation, and accordingly the
 ``extremes'' at frame 30 and 50. In the \textbf{Graph Editor} we made sure the
 motion curve for the x-positions became a straight line. This way the speed of
-the ball will be constant. 
+the ball will be constant.
 
 To make the movement more like bouncing, we forced
 the ball to change its y-direction immediately after hitting the table in each
 bounce (still using the \textbf{Graph Editor}). This was done by splitting the
 tangents at these points and alter the left-hand and right-hand side separately
-to form a curved v-shape. 
+to form a curved v-shape.
 
 \subsubsection{Lighting and rendering}
+
 Lighting the scene was done by the basic principle of \textit{three-point
 lighting}; a \textit{key light} to light the object (i.e., the ball), a
 \textit{fill light} to light the rest of the scene, and a \textit{back light} to
@@ -181,7 +196,7 @@ distinguish foreground objects from background objects. We placed the
 upper-right front, and the \textit{back light} in the upper-left back, all
 facing the middle of the table. To separate the different lights they have
 different \textbf{intensities}. The \textit{back light} only has an intensity of
-0.3 and the \textit{fill light} 0.5, while the \textit{key light} har full 1.0
+0.3 and the \textit{fill light} 0.5, while the \textit{key light} has full 1.0
 intensity. Adding shadows was done by checking the \textbf{Use Depth Map
 Shadows} box for all the light sources. Lastly the scene was rendered into a
 movie file for viewing on the web page.
@@ -189,22 +204,25 @@ movie file for viewing on the web page.
 \subsection{Adding lights} % to webpage
 
 We took what we learned while doing lab 3 to modify the scene with the cube with
-the texture and the tetrahedron from lab 2 to include lighting. To do this we changed the
-material from MeshBasicMaterial to MeshPhongMaterial. However while doing so the
-scene was completely dark, this is because we need an ambient lighting. We used
-the color value of 0x505050 as the ambient lightning. To not make the entire
-tetrahedron white by default we also changed its ambient color to the same as
-the color of the side (the default is 0xffffff). To make the scene more
-interesting we then added four point lights which light up the scene in a
-natural way. These four lights was placed in a square pattern in front of the
-scene. We tried different values for intensity and distance for the different
-lights to make for a natural looking effect.
+the texture and the tetrahedron from lab 2 to include lighting. To accomplish
+this we changed the material from MeshBasicMaterial to MeshPhongMaterial.
+However while doing so the scene was completely dark, this is because we need an
+ambient lighting. We used the color value of 0x505050 as the ambient lightning.
+To not make the entire tetrahedron white by default we also changed its ambient
+color to the same as the color of the side (the default is 0xffffff). To make
+the scene more interesting we then added four point lights which light up the
+scene in a natural way. These four lights was placed in a square pattern in
+front of the scene. We tried different values for intensity and distance for the
+different lights to make for a natural looking effect.
 
 \newpage
+
 \section{Lab 4: Introduction to Data Mining}
-The answers to the questions are available in the attached questionnaire \\(\verb=lab4/Questionnaire.doc=). The tables was charts were constructed following the lab assignment. Additional
-charts or columns were created to answer certain questions in the questionnaire.
-Below is how we reasoned about the questions.
+
+The answers to the questions are available in the attached questionnaire
+\\(\verb=lab4/Questionnaire.doc=). The table charts were constructed following
+the lab assignment. Additional charts and columns were created to answer certain
+questions in the questionnaire.  Below is how we reasoned about the questions.
 
 Marking the S and M party one at a time in the straight table \textbf{Party} and
 sorting the \textbf{Party Votes} on the column \textit{Perc 2006} we could
@@ -219,7 +237,7 @@ was in Kalix (59.9\% for S).
 
 Question 7, to achieve this we sorted on the column \textit{Change} in
 \textbf{Party Votes} with the party S investigated, marking the positive values
-and noted the number in the text object.  Question 8 was achieved in a similar
+and noted the number in the text object. Question 8 was achieved in a similar
 manner as question 7, only to find no decreased support for M.
 
 Question 9, we sorted on column \textit{Participation} in \textbf{Vote overview
@@ -265,64 +283,77 @@ were not high enough to make a definite statement about the trends noted.
 In this lab we used Paraview to visualize data in a comprehensible manner. The
 first thing we did in Paraview was to visualize the shape of a vector field from
 a dataset provided. We did this through following the steps described in the lab
-description and using this to tweak the appearance of the data to in a clear and
-precise manner describe the vector field. The end result can be seen in figure
-\ref{fig:vectors}. We decided that slices was the best way to visualize the
-vector field. We also used glyphs to show the direction of the vector field to
-show that the vector field is homogeneous.
+description and using what we learned to tweak the appearance of the data to be
+visualized in a clear and precise manner describe the vector field. The end
+result can be seen in figure \ref{fig:vectors}. We decided that slices was the
+best way to visualize the vector field. We also used glyphs to show the
+direction of the vector field to show that the vector field is homogeneous.
 
 \subsection{Analyzing the air quality of a kitchen}
 
 \begin{enumerate}
     \item
+
         \begin{figure}[H]
             \includegraphics[width=1\linewidth]{lab5/kitchen-dust-screenshot.png}
             \caption{Dust gathering in the kitchen.}
             \label{fig:dust}
         \end{figure}
+
         The most likely place the dust will settle are in the air filter in the
         kitchen fan and on the floor where the air velocity are low. In the
-        figure \ref{fig:dust} we have visualized the air velocity and from it we can see
-        that the air mainly comes from the door and escapes through the kitchen
-        fan with some coming from the windows as well. The filter in the kitchen
-        fan will therefore collect some of the dust. From the same image we can
-        see that there are little to no air movement in the lower parts of the
-        kitchen and particularly in the lower left and lower right part of the
-        image the dust will probably collect.
+        figure \ref{fig:dust} we have visualized the air velocity and from it we
+        can see that the air mainly comes from the door, with some coming from
+        the windows as well, and escapes through the kitchen fan. The filter in
+        the kitchen fan will therefore collect some of the dust. From the same
+        image we can see that there are little to no air movement in the lower
+        parts of the kitchen and particularly in the lower left and lower right
+        part of the image the dust will probably collect.
+
     \item
+
         \begin{figure}[H]
             \includegraphics[width=1\linewidth]{lab5/kitchen-highest-pressure-screenshot.png}
             \caption{Highest air pressure.}
             \label{fig:pressure}
         \end{figure}
-        The highest air pressure can be found in the figure \ref{fig:pressure}. The red dot
-        in the image indicate where the air pressure is the highest. Generally
-        the air pressure increases the closer to the ground we get. The highest
-        air pressure value is 0.186993.
+
+        The highest air pressure can be found in the figure \ref{fig:pressure}.
+        The red dot in the image indicate where the air pressure is the highest.
+        Generally the air pressure increases the closer to the ground we get.
+        The highest numerical value of the air pressure value is 0.186993.
+
     \item
+
         \begin{figure}[H]
             \includegraphics[width=1\linewidth]{lab5/kitchen-largest-air-velocity-screenshot.png}
             \caption{Highest air velocity.}
             \label{fig:velocity}
         \end{figure}
-        As we can see in the figure \ref{fig:velocity} the highest air velocity are at the
-        door, at the window in the opposite side of the door and at the kitchen
-        fan. The absolutely highest air velocity can be found at the window and
-        its numerical value is 0.067129.
+
+        As we can see in the figure \ref{fig:velocity} the highest air velocity
+        are at the door, at the window in the opposite side of the door and at
+        the kitchen fan. The absolutely highest air velocity can be found at the
+        window and its numerical value is 0.067129.
+
 \end{enumerate}
 
 \subsection{Volume rendering}
+
 \begin{figure}[H]
     \includegraphics[width=1\linewidth]{lab5/head-transfer-function.png}
     \caption{Final transfer function.}
     \label{fig:volume}
 \end{figure}
+
 We followed the lab assignments and reflected on what we did to use this to get
-the end result shown in figure \ref{fig:volume}. The end result was achieved through
-experimenting with the transfer function. We made the higher ranges of values
-have quite high opacity and the lower ranges have lower. This made the skeleton
-of the skull show with an indication of where the skin is located. The teeth
-were shown by making the absolutely highest range of values have high opacity. The results are shown in figure \ref{fig:headprof} and \ref{fig:headfront}.
+the desired end result. The end result was achieved through experimenting with
+the transfer function. The final transfer function can be seen in
+\ref{fig:volume}. We made the higher ranges of values have quite high opacity
+and the lower ranges have lower. This made the skeleton of the skull show with
+an indication of where the skin is located. The teeth were shown by making the
+absolutely highest range of values have high opacity. The results are shown in
+figure \ref{fig:headprof} and \ref{fig:headfront}.
 
 \begin{figure}[H]
     \includegraphics[width=1\linewidth]{lab5/head-profile-screenshot.png}
