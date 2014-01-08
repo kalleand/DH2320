@@ -1,0 +1,227 @@
+
+Scene:
+    * Object
+    * Camera
+    * Light source
+    * Light transport
+
+Camera - Pinhole camera
+    - Projection - 3D to 2D
+        * Ortographic projection -> Simply remove depth
+        * Perspective projection -> Single point of projection
+    - Parameters
+        * Centre of projection
+        * Field of view
+        * Projection direction
+        * Up direction
+
+Objects
+    * Vertices
+    (a line between 2 vertices make one edge)
+    * Edges
+    (several edges make a face - typically 3 to make a triangle)
+    * Faces
+    (one or many faces make a polygon)
+    * Polygons
+    (one or many polygons make a surface)
+    * Surfaces
+    (one or many surfaces make an object)
+
+Texturing - Apply bitmap image to object
+    - Each triangle is associated with an image
+        * Each vertex associated with a (u,v) coordinate
+        * Interpolate the rest from the vertices
+
+Surfaces
+    * Specular - like a mirror, very reflective in a single direction
+    * Diffuse - matt surface, light reflected in all directions evenly. Called a
+      Lambertian surface
+
+Materials have properties that decide how specular or diffuse the object is.
+There is also ambient lighting on the object that is the background lighting.
+
+Point light sources - light travel in all directions from light source.
+
+Spotlight source - light travel in a direction from the light source.
+
+The rendering equation
+    * Describes how much light is emitted from a certain angle. Uses a BRDF
+      (bidirectional reflectance distribution function).
+
+Approximations are important in computer graphics.
+    * In real time it is important to reduce the number of triangles and such to
+      compute. Lighting is very important in this aspect.
+    * Backface culling - To remove the backside of not transparent objects. Uses
+      angle to normal to decide if its less than 90 degrees - if it is less than
+      90 degrees it gets discarded.
+
+Painters algorithm - paint one object at a time. Does not work with overlapping
+objects in a circle.
+
+Depth buffer also called Z-buffer. Can lead to Z-fighting which is when two
+objects are at the same distance (or very close that the z-buffer cant
+distinguish them apart) this leads to flickering where they win alternatively.
+
+Bézier curves
+    Begin and end in points. Rest is not guaranteed to be on the curve they do
+    influence the curve however.
+
+Interpolation
+    Curve goes trough all points in the most smooth manner.
+
+Normal mapping
+    Have an image that describes the normals of a surface to get the illusion of
+    a more complex surface than it is.
+
+Animation
+=========
+
+Include anticipation stage in animation for more realistic animation.
+
+Smooth animation
+    * Double buffering
+    * Key-frames
+    * Tweens
+    * Interpolation
+
+Inverse kinematic
+    Specify point you want to move certain object. The objects putting
+    constraints on the object construct an equation system that is solved.
+
+Middleware
+    * API
+    * SDK
+    * Graphics/rendering engine
+    * Game engine
+
+Image synthesis
+==============
+
+* Light sources
+* Geometry
+* Surface properties
+* Camera model
+* Light transport
+    - Extremely expensive and complicated. We need approximations.
+    - Light ray. A beam of light. Each is a discrete light particle as a vector.
+      Has color and intensity as well as direction and starting position.
+    - Simplification: Use isotropic light - emits light equally in all
+      directions.
+    - Bouncing off surfaces needs computing for each bounce - when to stop?
+        - When does it bounce - intersection testing? Can be difficult.
+        - Complex surfaces does not reflect light in a single direction but
+          reflect through a BRDF.
+    - Lambertian reflection
+        - Surface equally bright independant of viewing angle.
+        - Isotropic - uniform in all directions.
+        - Lambert's cosine law.
+
+Shadowing can be implemented using ray casting towards the light source and
+noticing what intersects the vector.
+
+Radiosity - Surfaces divided into patches and calculate each patch
+
+Global illumination
+    - Account for all modes of light transport
+    - Good for realism
+    - Computationally heavy.
+    Implemented by:
+        - Ray tracing. Good for specular - bad for diffuse.
+        - Radiosity. Bad for specular - good for diffuse.
+        - Hybrid techniques are often the best.
+
+View dependent and view independent are different ways to compute the
+illumination of a scene. View independent calculates entire scene and view
+dependent only calculates what the camera in the view sees.
+
+Local illumination
+    - Only consider this object - no reflections and such)
+    - Easy to control
+    - Fast
+    - Does not need to know everything about the scene.
+
+Lambertian surface - matt surface
+Phong illuminated surface - three components; ambient, diffuse, and specular.
+
+Lighting vs Shading
+===================
+
+Lighting
+    - Interaction between materials and light sources.
+
+Shading
+    - Decide on the color of a pixel
+    - Based usually on a lighting model
+
+Flat shading
+    - Fast
+    - Not smooth
+    - Each polygon get one color
+
+Gouraud shading
+    - Calculate the color in each vertex in a polygon and interpolate the rest.
+
+Phong shading
+    - Interpolate the normals of the surface and calculate the colors based on
+      these normals.
+    - Often the best results.
+    - Computationally heavy.
+
+Visualization
+=============
+
+Cognitive process.
+Understand data and act upon that understanding.
+Communicate and inform others more efficiently.
+
+Anscombe's quartet
+    - Its hard to see patterns from raw data - much easier once plotted.
+
+What are data types?
+    - Numerical
+    - Ordinal - with order.
+    - Categorial - without order.
+What are visual types?
+    - Shapes
+    - Size
+    - Color hue
+    - Color value
+    - Color intensity
+    - Texture
+Human vision.
+    - Patterns!
+
+Visualization pipeline
+Raw data -> Data tables -> Visual structure -> Views -> user evaluates task
+
+Visualization design process
+    - Users and context
+    - Platforms
+    - Information design
+    - Visual design
+    - Evaluation and testing
+
+It is important to minimize the risk of misinterpretation.
+    - Presenting effects without causes.
+    - Inferring causation from correlation.
+    - Cherry picking.
+    - Inappropriate comparisons and contexts.
+    - Dequantification (no context)
+    - Exaggeration.
+
+Hue, saturation and value can be used to encode value.
+
+Rainbow color map
+    - inverted hue color map with purple removed
+    - poor choice for many visualization tasks.
+        - appears less smooth in regions of high contrast
+        - hides variation in low contrast
+
+Diverging color map
+    - Divide the color map into distinct perceptually different colors.
+
+Visualization encoding preference
+    1. Position
+    2. Angle
+    3. Contrast
+
