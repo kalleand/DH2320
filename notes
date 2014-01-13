@@ -58,9 +58,14 @@ Approximations are important in computer graphics.
 Painters algorithm - paint one object at a time. Does not work with overlapping
 objects in a circle.
 
-Depth buffer also called Z-buffer. Can lead to Z-fighting which is when two
-objects are at the same distance (or very close that the z-buffer cant
-distinguish them apart) this leads to flickering where they win alternatively.
+Depth buffer also called Z-buffer. Keep a buffer with a value for each pixel
+that is supposed to be rendered with the distance to the current object that is
+being rendered. Use this to determine if you should overwrite the color of the
+pixel.
+
+This can lead to Z-fighting which is when two objects are at the same distance
+(or very close that the z-buffer cant distinguish them apart) this leads to
+flickering where they win alternatively.
 
 Bézier curves
     Begin and end in points. Rest is not guaranteed to be on the curve they do
@@ -141,7 +146,9 @@ Local illumination
     - Does not need to know everything about the scene.
 
 Lambertian surface - matt surface
-Phong illuminated surface - three components; ambient, diffuse, and specular.
+
+Phong reflection model (Phong illuminated surface) - three components; ambient,
+diffuse, and specular.
 
 Lighting vs Shading
 ===================
@@ -225,3 +232,12 @@ Visualization encoding preference
     2. Angle
     3. Contrast
 
+
+
+Stuff from old exams
+====================
+
+Temporal aliasing
+When the object being rendered is faster than the rendering. This causes jumpy
+effect. The sampled movement is not fast enough to capture the key elements of
+the real movement of the object.
